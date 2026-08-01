@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2015405538436420075",
+    "created_at": "2026-01-25T15:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T16:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015441022856438014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867601056429223936",
+          "start": 0,
+          "username": "ccxxhmbb"
+        },
+        {
+          "end": 18,
+          "id": "1688397365336850432",
+          "start": 10,
+          "username": "nkqlbxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015441022856438014",
+    "in_reply_to_user_id": "1867601056429223936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015405538436420075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccxxhmbb @nkqlbxc 看自己了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_2015405531033415681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gopwOasAEke6y.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2015405538436420075",
+        "created_at": "2026-01-25T15:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015441022856438014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867601056429223936",
+              "start": 0,
+              "username": "ccxxhmbb"
+            },
+            {
+              "end": 18,
+              "id": "1688397365336850432",
+              "start": 10,
+              "username": "nkqlbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015441022856438014",
+        "in_reply_to_user_id": "1867601056429223936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015405538436420075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccxxhmbb @nkqlbxc 看自己了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015405531033415681"
+          ]
+        },
+        "author_id": "1867601056429223936",
+        "conversation_id": "2015405538436420075",
+        "created_at": "2026-01-25T12:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015405538436420075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwCXuR7H4Q",
+              "end": 88,
+              "expanded_url": "https://x.com/ccxxhmbb/status/2015405538436420075/photo/1",
+              "media_key": "3_2015405531033415681",
+              "start": 65,
+              "url": "https://t.co/fwCXuR7H4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015405538436420075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5054,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果实在是接受不了，也没必要勉强自己。你又不是卖身，况且一个月2w又不是说要到无底线的地步，我一直主张任何事情付出和回报要成正比 https://t.co/fwCXuR7H4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 34,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 66
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T16:02:52.000Z",
+        "description": "老牌交友博主，大家都叫我特哥，私信我的人比较多，一般只回女生私信    小特小号（小特专业版）：@awayshui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "awayshui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qingqingdekeai…",
+                "end": 23,
+                "expanded_url": "https://t.me/qingqingdekeairichang",
+                "start": 0,
+                "url": "https://t.co/yoXEcMsRRD"
+              }
+            ]
+          }
+        },
+        "id": "1867601056429223936",
+        "location": "Mei社群",
+        "name": "小特（帮找die系）",
+        "pinned_tweet_id": "1999418728761672145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988895569251885057/fdPyf05G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31425,
+          "following_count": 100,
+          "like_count": 3319,
+          "listed_count": 43,
+          "media_count": 194,
+          "tweet_count": 1529
+        },
+        "url": "https://t.co/yoXEcMsRRD",
+        "username": "ccxxhmbb",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”\n\n防封小号（处哥在干嘛）：@chuge857",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "chuge857"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1996944506026185176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93037,
+          "following_count": 264,
+          "like_count": 1516,
+          "listed_count": 109,
+          "media_count": 1846,
+          "tweet_count": 2991
+        },
+        "username": "nkqlbxc",
+        "verified": true
+      }
+    ]
+  }
+}

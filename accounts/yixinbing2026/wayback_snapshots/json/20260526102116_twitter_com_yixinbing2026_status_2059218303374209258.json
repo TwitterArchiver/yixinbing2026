@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049755168749858816"
+      ],
+      "media_source_tweet_id": [
+        "2049755236689166689"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2059218303374209258",
+    "created_at": "2026-05-26T10:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059218303374209258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJVNlUJtfJ",
+          "end": 51,
+          "expanded_url": "https://x.com/yixinbing2026/status/2049755236689166689/video/1",
+          "media_key": "13_2049755168749858816",
+          "start": 28,
+          "url": "https://t.co/GJVNlUJtfJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059218303374209258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049755236689166689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 信誓旦旦给的承诺 https://t.co/GJVNlUJtfJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32583,
+        "height": 720,
+        "media_key": "13_2049755168749858816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049755168749858816/img/msV1oot2FHc6FGZB.jpg",
+        "public_metrics": {
+          "view_count": 620
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049755168749858816/vid/avc1/320x320/Wdlyyvs-A-lSZDmW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049755168749858816/vid/avc1/540x540/jRJladfRgmdWMIQV.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049755168749858816/vid/avc1/720x720/14itXF0BozwErj2E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049755168749858816/pl/_S82QhRSJUM1a0L8.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049755168749858816"
+          ],
+          "media_source_tweet_id": [
+            "2049755236689166689"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2059218303374209258",
+        "created_at": "2026-05-26T10:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059218303374209258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJVNlUJtfJ",
+              "end": 51,
+              "expanded_url": "https://x.com/yixinbing2026/status/2049755236689166689/video/1",
+              "media_key": "13_2049755168749858816",
+              "start": 28,
+              "url": "https://t.co/GJVNlUJtfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059218303374209258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049755236689166689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: 信誓旦旦给的承诺 https://t.co/GJVNlUJtfJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049755168749858816"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2049755236689166689",
+        "created_at": "2026-04-30T07:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049755236689166689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJVNlUJtfJ",
+              "end": 32,
+              "expanded_url": "https://x.com/yixinbing2026/status/2049755236689166689/video/1",
+              "media_key": "13_2049755168749858816",
+              "start": 9,
+              "url": "https://t.co/GJVNlUJtfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049755236689166689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3347,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "信誓旦旦给的承诺 https://t.co/GJVNlUJtfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 308,
+          "like_count": 4005,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

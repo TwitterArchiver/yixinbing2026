@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2016167400409071855",
+    "created_at": "2026-01-27T15:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016167400409071855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tonom6devil/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/tonom6devil/status/2015788529130119297",
+          "start": 5,
+          "url": "https://t.co/zkPpNdtD0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016167400409071855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015788529130119297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那个L啊 https://t.co/zkPpNdtD0Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2015788518233219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mE-iuaIAAF4hr.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2016167400409071855",
+        "created_at": "2026-01-27T15:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016167400409071855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tonom6devil/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/tonom6devil/status/2015788529130119297",
+              "start": 5,
+              "url": "https://t.co/zkPpNdtD0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016167400409071855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015788529130119297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个L啊 https://t.co/zkPpNdtD0Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015788518233219072"
+          ]
+        },
+        "author_id": "875877576",
+        "conversation_id": "2015788529130119297",
+        "created_at": "2026-01-26T14:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015788529130119297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEkLD4Wa9o",
+              "end": 23,
+              "expanded_url": "https://x.com/tonoM6devil/status/2015788529130119297/photo/1",
+              "media_key": "3_2015788518233219072",
+              "start": 0,
+              "url": "https://t.co/yEkLD4Wa9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015788529130119297",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 311,
+          "impression_count": 61156,
+          "like_count": 5534,
+          "quote_count": 26,
+          "reply_count": 9,
+          "retweet_count": 542
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yEkLD4Wa9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "装松弛感刷推 立场正确🇨🇳 皮下女生 我的冲浪一条线罢 10后",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016166797398220800/9ait4Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 49,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 84
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-12T15:48:51.000Z",
+        "description": "▼TONO/コスプレ/普段の写真。 170㎝くらい。🇯🇵。御依頼、お仕事などはDMへ。✝️💀配信垢@TONO_stream たまにライブしてる垢@tono_LIVE666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "TONO_stream"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "tono_LIVE666"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mnm_tono",
+                "end": 23,
+                "expanded_url": "http://instagram.com/mnm_tono",
+                "start": 0,
+                "url": "https://t.co/MiiG8IIoEO"
+              }
+            ]
+          }
+        },
+        "id": "875877576",
+        "location": "東京",
+        "name": "✵ ✟ TONO ✟ ✵",
+        "pinned_tweet_id": "1994359462782783578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990821666537287680/V5w_kAr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41472,
+          "following_count": 472,
+          "like_count": 32202,
+          "listed_count": 300,
+          "media_count": 812,
+          "tweet_count": 10370
+        },
+        "url": "https://t.co/MiiG8IIoEO",
+        "username": "tonoM6devil",
+        "verified": true
+      }
+    ]
+  }
+}

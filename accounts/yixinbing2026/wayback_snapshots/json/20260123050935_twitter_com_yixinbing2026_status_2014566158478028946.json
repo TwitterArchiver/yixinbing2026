@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2012938692076413211",
+    "created_at": "2026-01-23T05:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T06:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014566158478028946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868527988754522113",
+          "start": 0,
+          "username": "liumin1988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014566158478028946",
+    "in_reply_to_user_id": "1868527988754522113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012938692076413211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liumin1988 你妈逼真他妈欠操了 自己一个国家去滚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012938684702584832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9lEZhW8AAurPo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2012938692076413211",
+        "created_at": "2026-01-23T05:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014566158478028946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868527988754522113",
+              "start": 0,
+              "username": "liumin1988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014566158478028946",
+        "in_reply_to_user_id": "1868527988754522113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012938692076413211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liumin1988 你妈逼真他妈欠操了 自己一个国家去滚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012938684702584832"
+          ]
+        },
+        "author_id": "1868527988754522113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2012938692076413211",
+        "created_at": "2026-01-18T17:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012938692076413211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6vS17W16S",
+              "end": 167,
+              "expanded_url": "https://x.com/liumin1988/status/2012938692076413211/photo/1",
+              "media_key": "3_2012938684702584832",
+              "start": 144,
+              "url": "https://t.co/d6vS17W16S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012938692076413211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 33437,
+          "like_count": 347,
+          "quote_count": 1,
+          "reply_count": 123,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "2025年年初，我将象征中共独裁者习近平的“棺材”扛到中国驻洛杉矶领事馆前。这是一种政治表达，向世界清楚传达我的立场：独裁主义、共产主义极权以及一切危害人类安全的极端意识形态，都应被送上历史的审判台。\n在2026年到来之际，我真诚地希望这个世界不再有独裁，让全人类共享民主、自由与尊严。 https://t.co/d6vS17W16S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T05:26:14.000Z",
+        "description": "六四纪念馆义务工作者；民主自由、人权捍卫者； 2022年成都白纸运动参与者； 2025年加入中国民主党参与与组织民运活动，主张支持台湾、香港、西藏、新疆独立！",
+        "id": "1868527988754522113",
+        "location": "Los Angeles, CA",
+        "name": "刘敏",
+        "pinned_tweet_id": "1945717230999888179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931206419472424960/wr7R9H-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5423,
+          "following_count": 153,
+          "like_count": 441,
+          "listed_count": 46,
+          "media_count": 620,
+          "tweet_count": 1222
+        },
+        "username": "liumin1988",
+        "verified": true
+      }
+    ]
+  }
+}

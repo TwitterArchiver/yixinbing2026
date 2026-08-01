@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2014298220483195018",
+    "created_at": "2026-01-23T06:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T07:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014579046290718826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "587962478",
+          "start": 0,
+          "username": "bigbingking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014579046290718826",
+    "in_reply_to_user_id": "587962478",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014298220483195018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigbingking 抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014298212669272064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Q5jV3bMAAfbqS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2014298220483195018",
+        "created_at": "2026-01-23T06:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014579046290718826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "587962478",
+              "start": 0,
+              "username": "bigbingking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014579046290718826",
+        "in_reply_to_user_id": "587962478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014298220483195018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigbingking 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014298212669272064"
+          ]
+        },
+        "author_id": "587962478",
+        "conversation_id": "2014298220483195018",
+        "created_at": "2026-01-22T11:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014298220483195018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mHEm1Toyli",
+              "end": 164,
+              "expanded_url": "https://x.com/bigbingking/status/2014298220483195018/photo/1",
+              "media_key": "3_2014298212669272064",
+              "start": 141,
+              "url": "https://t.co/mHEm1Toyli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014298220483195018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 215569,
+          "like_count": 2295,
+          "quote_count": 4,
+          "reply_count": 632,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "我以为我会哭的崩溃，结果我全程一滴眼泪都流不出来。非常平静的完成了所有事项。\n抱骨灰盒时候，我突然想到，我妈以前也是这样小心的抱着我，但现在是我小心的抱着她的骨灰盒，心里真的很难受，但这好像就是人生的一个闭环。\n事情全部结束了，接下来我还是要继续走完我的人生，然后重新与我妈相聚。 https://t.co/mHEm1Toyli"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-23T03:13:24.000Z",
+        "description": "生活推主☕️ ｜铲屎官一枚🐱 ｜佛系女菩萨😏 ｜每年一次大抽奖等我哟🥳 ｜推广不接❌｜无聊私信不回❌｜刷存在感的直接拖黑🙂",
+        "id": "587962478",
+        "location": "中国·浙江",
+        "name": "是大饼饼饼饼饼呀🧡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704275698293321728/fvoUvprS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37712,
+          "following_count": 69,
+          "like_count": 501,
+          "listed_count": 162,
+          "media_count": 4188,
+          "tweet_count": 11753
+        },
+        "username": "bigbingking",
+        "verified": false
+      }
+    ]
+  }
+}

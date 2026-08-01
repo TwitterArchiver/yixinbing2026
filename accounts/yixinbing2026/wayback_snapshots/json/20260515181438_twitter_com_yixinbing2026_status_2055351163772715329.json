@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055337732713721856"
+      ],
+      "media_source_tweet_id": [
+        "2055337739537780983"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2055351163772715329",
+    "created_at": "2026-05-15T18:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055351163772715329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6zWdkZV0GR",
+          "end": 57,
+          "expanded_url": "https://x.com/yixinbing2026/status/2055337739537780983/photo/1",
+          "media_key": "3_2055337732713721856",
+          "start": 34,
+          "url": "https://t.co/6zWdkZV0GR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055351163772715329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055337739537780983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 力竭了不知道发什么 随便发吧 https://t.co/6zWdkZV0GR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1773,
+        "media_key": "3_2055337732713721856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYGxzvbsAAswNh.jpg",
+        "width": 1773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055337732713721856"
+          ],
+          "media_source_tweet_id": [
+            "2055337739537780983"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2055351163772715329",
+        "created_at": "2026-05-15T18:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055351163772715329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zWdkZV0GR",
+              "end": 57,
+              "expanded_url": "https://x.com/yixinbing2026/status/2055337739537780983/photo/1",
+              "media_key": "3_2055337732713721856",
+              "start": 34,
+              "url": "https://t.co/6zWdkZV0GR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055351163772715329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055337739537780983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: 力竭了不知道发什么 随便发吧 https://t.co/6zWdkZV0GR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055337732713721856"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2055337739537780983",
+        "created_at": "2026-05-15T17:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055337739537780983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zWdkZV0GR",
+              "end": 38,
+              "expanded_url": "https://x.com/yixinbing2026/status/2055337739537780983/photo/1",
+              "media_key": "3_2055337732713721856",
+              "start": 15,
+              "url": "https://t.co/6zWdkZV0GR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055337739537780983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "力竭了不知道发什么 随便发吧 https://t.co/6zWdkZV0GR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "重开日期2010.10 成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 299,
+          "like_count": 3289,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1384
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

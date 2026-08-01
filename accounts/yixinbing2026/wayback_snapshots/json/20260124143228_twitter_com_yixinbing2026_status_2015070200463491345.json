@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2014938265732964386",
+    "created_at": "2026-01-24T14:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T15:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015070200463491345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1513895996488843266",
+          "start": 0,
+          "username": "ChengSeJiuMeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015070200463491345",
+    "in_reply_to_user_id": "1513895996488843266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014938265732964386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChengSeJiuMeng 我也是女生！！不不不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2014938265732964386",
+        "created_at": "2026-01-24T14:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015070200463491345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1513895996488843266",
+              "start": 0,
+              "username": "ChengSeJiuMeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015070200463491345",
+        "in_reply_to_user_id": "1513895996488843266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014938265732964386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChengSeJiuMeng 我也是女生！！不不不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513895996488843266",
+        "conversation_id": "2014938265732964386",
+        "created_at": "2026-01-24T05:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014938265732964386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "橙色旧梦’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1MYxN…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MYxNlgzOAVGw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2014938267091976192/2QoatMZ3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014938267091976192/2QoatMZ3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 【闲聊📣19:00】🔥听风流韵事🍭享性福人生🎉关注主持人天天精彩💖整活的请私信主持人🔕没声音请重进🌁欢迎评论区留言互动",
+              "unwound_url": "https://twitter.com/i/spaces/1MYxNlgzOAVGw/peek",
+              "url": "https://t.co/ayYmF4Hwgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014938265732964386",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1652,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 112,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ayYmF4Hwgf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T15:05:14.000Z",
+        "description": "🔞🇨🇳#淫妻 🎎夫妻同号 ©️原创博主 ⛔️推广自辨真假注意防骗\n🛎找我请直接私信 🔊Space直播每晚19:00",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "淫妻"
+              }
+            ]
+          }
+        },
+        "id": "1513895996488843266",
+        "location": "China ⏰24小时直播间不见不散",
+        "name": "橙色旧梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722916755495129088/d_slpsG5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240622,
+          "following_count": 78,
+          "like_count": 13,
+          "listed_count": 325,
+          "media_count": 77,
+          "tweet_count": 2510
+        },
+        "username": "ChengSeJiuMeng",
+        "verified": true
+      }
+    ]
+  }
+}

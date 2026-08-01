@@ -1,0 +1,630 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015725285619204096"
+      ],
+      "media_source_tweet_id": [
+        "2015725295173841337"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2015877342032495064",
+    "created_at": "2026-01-26T19:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T20:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015877342032495064"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "genshinimpact",
+          "probability": 0.642,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 55,
+          "normalized_text": "dottore",
+          "probability": 0.5452,
+          "start": 49,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 20,
+          "tag": "genshinimpact"
+        },
+        {
+          "end": 43,
+          "start": 35,
+          "tag": "cosplay"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "原神"
+        },
+        {
+          "end": 56,
+          "start": 48,
+          "tag": "dottore"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1822620091646918656",
+          "start": 3,
+          "username": "silverkey_0814"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S6wtEuuQQw",
+          "end": 106,
+          "expanded_url": "https://x.com/silverkey_0814/status/2015725295173841337/photo/1",
+          "media_key": "3_2015725285619204096",
+          "start": 83,
+          "url": "https://t.co/S6wtEuuQQw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015877342032495064",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1751
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015725295173841337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @silverkey_0814: #genshinimpact #cosplay #原神 #dottore \nWho should I slay first? https://t.co/S6wtEuuQQw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015725285619204096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lLd64bAAA3rXz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015725285619204096"
+          ],
+          "media_source_tweet_id": [
+            "2015725295173841337"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2015877342032495064",
+        "created_at": "2026-01-26T19:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T20:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015877342032495064"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "genshinimpact",
+              "probability": 0.642,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "dottore",
+              "probability": 0.5452,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 20,
+              "tag": "genshinimpact"
+            },
+            {
+              "end": 43,
+              "start": 35,
+              "tag": "cosplay"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "原神"
+            },
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "dottore"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1822620091646918656",
+              "start": 3,
+              "username": "silverkey_0814"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6wtEuuQQw",
+              "end": 106,
+              "expanded_url": "https://x.com/silverkey_0814/status/2015725295173841337/photo/1",
+              "media_key": "3_2015725285619204096",
+              "start": 83,
+              "url": "https://t.co/S6wtEuuQQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015877342032495064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1751
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015725295173841337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @silverkey_0814: #genshinimpact #cosplay #原神 #dottore \nWho should I slay first? https://t.co/S6wtEuuQQw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015725285619204096"
+          ]
+        },
+        "author_id": "1822620091646918656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2015725295173841337",
+        "created_at": "2026-01-26T09:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015725295173841337"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "genshinimpact",
+              "probability": 0.6294,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "dottore",
+              "probability": 0.6676,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "genshinimpact"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "cosplay"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "原神"
+            },
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "dottore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6wtEuuQQw",
+              "end": 86,
+              "expanded_url": "https://x.com/silverkey_0814/status/2015725295173841337/photo/1",
+              "media_key": "3_2015725285619204096",
+              "start": 63,
+              "url": "https://t.co/S6wtEuuQQw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015725295173841337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 915,
+          "impression_count": 103172,
+          "like_count": 14115,
+          "quote_count": 139,
+          "reply_count": 47,
+          "retweet_count": 1751
+        },
+        "reply_settings": "everyone",
+        "text": "#genshinimpact #cosplay #原神 #dottore \nWho should I slay first? https://t.co/S6wtEuuQQw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 38,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 70
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T13:04:40.000Z",
+        "description": "Kagi 🔑🇨🇳coser/♂/business DM📧/ins：silverkey001/tk：leekagi",
+        "id": "1822620091646918656",
+        "name": "门之匙",
+        "pinned_tweet_id": "1969231978848268307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912151027509346304/GanWdpM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30695,
+          "following_count": 18,
+          "like_count": 111,
+          "listed_count": 31,
+          "media_count": 160,
+          "tweet_count": 172
+        },
+        "username": "silverkey_0814",
+        "verified": false
+      }
+    ]
+  }
+}

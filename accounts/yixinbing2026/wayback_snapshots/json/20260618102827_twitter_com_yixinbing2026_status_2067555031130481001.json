@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2048703447105720808",
+    "created_at": "2026-06-18T10:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067555031130481001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067555031130481001",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048703447105720808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui 盐野义😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048703443976794112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG507YRbMAAcvxo.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2048703444320661504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG507ZjaMAApT4U.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2048703447105720808",
+        "created_at": "2026-06-18T10:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067555031130481001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067555031130481001",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048703447105720808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui 盐野义😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048703443976794112",
+            "3_2048703444320661504"
+          ]
+        },
+        "author_id": "1445681460497694723",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048703447105720808",
+        "created_at": "2026-04-27T09:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048703447105720808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKmtddQTz4",
+              "end": 43,
+              "expanded_url": "https://x.com/cryptochenrui/status/2048703447105720808/photo/1",
+              "media_key": "3_2048703443976794112",
+              "start": 20,
+              "url": "https://t.co/oKmtddQTz4"
+            },
+            {
+              "display_url": "pic.x.com/oKmtddQTz4",
+              "end": 43,
+              "expanded_url": "https://x.com/cryptochenrui/status/2048703447105720808/photo/1",
+              "media_key": "3_2048703444320661504",
+              "start": 20,
+              "url": "https://t.co/oKmtddQTz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048703447105720808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 767,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬300mg+普瑞巴林150mg https://t.co/oKmtddQTz4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 339,
+          "like_count": 4916,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "这里是精神病和嗑药od频道.\n大学退学。intj。\n欢迎温良边缘人直fo。\n🈲过激健全基本盘男权女权。\n交易员频道是@chenrui2025",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "chenrui2025"
+              }
+            ]
+          }
+        },
+        "id": "1445681460497694723",
+        "location": "南昌",
+        "name": "relife栗子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034259613885796353/B-zmpLFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 247,
+          "like_count": 9448,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 2387
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false
+      }
+    ]
+  }
+}

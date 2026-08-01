@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2042790733011390766",
+    "created_at": "2026-04-11T06:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042857259995439394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042857259995439394",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042790733011390766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 看的我想死的心更进一步"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042790727772766208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlzV_9bgAABqf1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042790727810453505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlzWAGakAE1D8G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042790728368295936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlzWCLakAA7yrw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042790729735639040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlzWHRakAAFuwK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2042790733011390766",
+        "created_at": "2026-04-11T06:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042857259995439394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042857259995439394",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042790733011390766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 看的我想死的心更进一步"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042790727772766208",
+            "3_2042790727810453505",
+            "3_2042790728368295936",
+            "3_2042790729735639040"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2042790733011390766",
+        "created_at": "2026-04-11T02:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042790733011390766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5ydtb8pb2",
+              "end": 41,
+              "expanded_url": "https://x.com/aaarjkk/status/2042790733011390766/photo/1",
+              "media_key": "3_2042790727772766208",
+              "start": 18,
+              "url": "https://t.co/M5ydtb8pb2"
+            },
+            {
+              "display_url": "pic.x.com/M5ydtb8pb2",
+              "end": 41,
+              "expanded_url": "https://x.com/aaarjkk/status/2042790733011390766/photo/1",
+              "media_key": "3_2042790727810453505",
+              "start": 18,
+              "url": "https://t.co/M5ydtb8pb2"
+            },
+            {
+              "display_url": "pic.x.com/M5ydtb8pb2",
+              "end": 41,
+              "expanded_url": "https://x.com/aaarjkk/status/2042790733011390766/photo/1",
+              "media_key": "3_2042790728368295936",
+              "start": 18,
+              "url": "https://t.co/M5ydtb8pb2"
+            },
+            {
+              "display_url": "pic.x.com/M5ydtb8pb2",
+              "end": 41,
+              "expanded_url": "https://x.com/aaarjkk/status/2042790733011390766/photo/1",
+              "media_key": "3_2042790729735639040",
+              "start": 18,
+              "url": "https://t.co/M5ydtb8pb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042790733011390766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 418,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "九年级化学95个方程 我能背下来吗 https://t.co/M5ydtb8pb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "你想知道什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 190,
+          "like_count": 1449,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️║活在幻想中║😉希望咱们都能开开心心║(░░░░😭)║📌大部分学科成绩倒数║✍️写字缓慢║⏳26年中考║小号@a0brjkk║⛏️𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝║🩵选择性互Follow║171cm║50kg║10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/a0bRJKk",
+                "end": 23,
+                "expanded_url": "https://x.com/a0bRJKk",
+                "start": 0,
+                "url": "https://t.co/q17QQsAlBc"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "McPlayerName:a0b0c0d0e0f0g",
+        "name": "𝗮𝟬𝗯𝓨𝓣𝓷𝔂𝓪(被限流版😭)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835756782370816/kRX4goRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 527,
+          "like_count": 8381,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/q17QQsAlBc",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

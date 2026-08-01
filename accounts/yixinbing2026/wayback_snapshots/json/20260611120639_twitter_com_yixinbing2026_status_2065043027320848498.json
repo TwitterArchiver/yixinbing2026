@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2064934097685033039",
+    "created_at": "2026-06-11T12:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065043027320848498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1563508655256850433",
+          "start": 0,
+          "username": "Starrynightwglf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065043027320848498",
+    "in_reply_to_user_id": "1563508655256850433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064934097685033039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starrynightwglf 啊啊我也要收"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2064933631089573888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgeMm3aAAA-Udn.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2064934097685033039",
+        "created_at": "2026-06-11T12:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065043027320848498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1563508655256850433",
+              "start": 0,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065043027320848498",
+        "in_reply_to_user_id": "1563508655256850433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064934097685033039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starrynightwglf 啊啊我也要收"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064933631089573888"
+          ]
+        },
+        "author_id": "1563508655256850433",
+        "conversation_id": "2064934097685033039",
+        "created_at": "2026-06-11T04:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064934097685033039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGoyXc4Pnj",
+              "end": 60,
+              "expanded_url": "https://x.com/Starrynightwglf/status/2064934097685033039/photo/1",
+              "media_key": "3_2064933631089573888",
+              "start": 37,
+              "url": "https://t.co/EGoyXc4Pnj"
+            },
+            {
+              "display_url": "x.com/Starrynightwgl…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Starrynightwglf/status/2029904109646774359",
+              "start": 61,
+              "url": "https://t.co/9kUx3pL4Ad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064934097685033039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2154,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029904109646774359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有宝宝有睿鹤的普瑞巴林呀可以出一点给我吗🥲\n找不到有卖这个牌子的了🥲 https://t.co/EGoyXc4Pnj https://t.co/9kUx3pL4Ad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 333,
+          "like_count": 4668,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1946
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "风起 风声是你在哭泣\nㅤㅤㅤㅤㅤㅤㅤㅤㅤ🚪52",
+        "id": "1563508655256850433",
+        "location": "ㅤ无何有",
+        "name": "风🎐",
+        "pinned_tweet_id": "2063200866472214724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750429614567424/C30p5jKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145,
+          "following_count": 4722,
+          "like_count": 166701,
+          "listed_count": 6,
+          "media_count": 1593,
+          "tweet_count": 6935
+        },
+        "username": "Starrynightwglf",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027266670583304660",
+    "created_at": "2026-02-27T15:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027403881698021650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027403881698021650",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027266670583304660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 不分别发出来气人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2027266665768222720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJMSqYbAAAUIir.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027266670583304660",
+        "created_at": "2026-02-27T15:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027403881698021650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027403881698021650",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027266670583304660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 不分别发出来气人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027266665768222720"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "2027266670583304660",
+        "created_at": "2026-02-27T06:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027266670583304660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1aqdgjxco",
+              "end": 23,
+              "expanded_url": "https://x.com/Vox35112635/status/2027266670583304660/photo/1",
+              "media_key": "3_2027266665768222720",
+              "start": 0,
+              "url": "https://t.co/g1aqdgjxco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027266670583304660",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 46392,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 191,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g1aqdgjxco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "偶而看看",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 77,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 184
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上纯绿色交友委托/如果谎称投稿人私下联系你们请找我确认防止被骗/广告正规推以外的其他投稿均为免费/不做任何验证/加vx随缘给门槛就好了/算卦找@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286945,
+          "following_count": 533,
+          "like_count": 484,
+          "listed_count": 337,
+          "media_count": 11393,
+          "tweet_count": 16511
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

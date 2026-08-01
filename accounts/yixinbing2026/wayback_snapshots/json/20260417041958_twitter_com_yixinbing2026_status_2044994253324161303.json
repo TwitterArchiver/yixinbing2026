@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2044782578021056921",
+    "created_at": "2026-04-17T04:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T05:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044994253324161303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1785546408659148800",
+          "start": 0,
+          "username": "wandering10111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044994253324161303",
+    "in_reply_to_user_id": "1785546408659148800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044782578021056921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wandering10111 刷个推都能破防"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2044782578021056921",
+        "created_at": "2026-04-17T04:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044994253324161303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1785546408659148800",
+              "start": 0,
+              "username": "wandering10111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044994253324161303",
+        "in_reply_to_user_id": "1785546408659148800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044782578021056921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wandering10111 刷个推都能破防"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785546408659148800",
+        "conversation_id": "2044782578021056921",
+        "created_at": "2026-04-16T14:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044782578021056921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044782578021056921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15429,
+          "like_count": 483,
+          "quote_count": 16,
+          "reply_count": 44,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "你像是那种断联了还会反复回看聊天记录的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 237,
+          "like_count": 1727,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T05:47:02.000Z",
+        "description": "该如何安心入睡",
+        "id": "1785546408659148800",
+        "name": "树",
+        "pinned_tweet_id": "2013333737120113062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027421197391245312/NIufbQxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 63,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 294
+        },
+        "username": "wandering10111",
+        "verified": false
+      }
+    ]
+  }
+}

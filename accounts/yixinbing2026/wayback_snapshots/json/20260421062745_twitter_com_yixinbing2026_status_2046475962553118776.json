@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2046461008341053551",
+    "created_at": "2026-04-21T06:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T07:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046475962553118776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550523516545601536",
+          "start": 0,
+          "username": "buxiangjieshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046475962553118776",
+    "in_reply_to_user_id": "1550523516545601536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046461008341053551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buxiangjieshou 没文化看不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2046461008341053551",
+        "created_at": "2026-04-21T06:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046475962553118776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550523516545601536",
+              "start": 0,
+              "username": "buxiangjieshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046475962553118776",
+        "in_reply_to_user_id": "1550523516545601536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046461008341053551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buxiangjieshou 没文化看不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550523516545601536",
+        "conversation_id": "2046461008341053551",
+        "created_at": "2026-04-21T05:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046461008341053551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046461008341053551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自认为我的推文不低质呀？怎么就是没人呢？好奇怪捏好奇怪捏🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 240,
+          "like_count": 1997,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T16:49:57.000Z",
+        "description": "♂｜infp｜树洞｜sub｜xp小腹｜喜欢亲亲抱抱",
+        "id": "1550523516545601536",
+        "location": "心之所向",
+        "name": "不接受",
+        "pinned_tweet_id": "1550526736441507842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045925213150519296/bgr90NXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 347,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 134
+        },
+        "username": "buxiangjieshou",
+        "verified": false
+      }
+    ]
+  }
+}

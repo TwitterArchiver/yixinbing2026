@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2058153792273789025",
+    "created_at": "2026-05-23T18:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T19:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058261486997557692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1686428350657740801",
+          "start": 0,
+          "username": "cpshgsdfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058261486997557692",
+    "in_reply_to_user_id": "1686428350657740801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058153792273789025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpshgsdfg 拉我进妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2058153792273789025",
+        "created_at": "2026-05-23T18:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058261486997557692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686428350657740801",
+              "start": 0,
+              "username": "cpshgsdfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058261486997557692",
+        "in_reply_to_user_id": "1686428350657740801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058153792273789025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpshgsdfg 拉我进妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686428350657740801",
+        "conversation_id": "2058153792273789025",
+        "created_at": "2026-05-23T11:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058153792273789025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058153792273789025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3086,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有自残od精神病来我的群里玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐随互\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 323,
+          "like_count": 3724,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1629
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T17:27:14.000Z",
+        "description": "这里是罗夏，神秘日常男。每周一，周四十二点分享健身日常，不要问为什么是这个时间，因为那两天刚好练胸练腹。私信都会看，发屌的不回。有门槛🚪（互关免门），但是大家有什么想找我的可以给我发私信。过门直接置顶赞赏码备注微信号。\n匿名问答请到https://t.co/3pb5e8ZJiI\n最近状态很差暂时停更",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cpshgsdfg2",
+                "end": 139,
+                "expanded_url": "http://ngl.link/cpshgsdfg2",
+                "start": 116,
+                "url": "https://t.co/3pb5e8ZJiI"
+              }
+            ]
+          }
+        },
+        "id": "1686428350657740801",
+        "location": "🚪52/88/188/520/1888",
+        "name": "ozymandias",
+        "pinned_tweet_id": "2055329252506243491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001229435710951424/PNJO_XDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4715,
+          "following_count": 262,
+          "like_count": 705,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 1419
+        },
+        "username": "cpshgsdfg",
+        "verified": false
+      }
+    ]
+  }
+}

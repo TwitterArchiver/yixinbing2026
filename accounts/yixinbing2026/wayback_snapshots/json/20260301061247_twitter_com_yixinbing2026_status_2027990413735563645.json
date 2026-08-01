@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027090149411357020",
+    "created_at": "2026-03-01T06:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T07:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027990413735563645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027030913402712064",
+          "start": 0,
+          "username": "y797623179071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027990413735563645",
+    "in_reply_to_user_id": "2027030913402712064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027988487010722118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y797623179071 年上牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027090149411357020",
+        "created_at": "2026-03-01T06:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027990413735563645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027030913402712064",
+              "start": 0,
+              "username": "y797623179071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027990413735563645",
+        "in_reply_to_user_id": "2027030913402712064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027988487010722118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y797623179071 年上牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027030913402712064",
+        "conversation_id": "2027090149411357020",
+        "created_at": "2026-03-01T06:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027988487010722118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027988487010722118",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027781613619388554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 年下牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者  没门槛不随便加微信 我不约 我随便发的 我是女的我不约",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 80,
+          "like_count": 684,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T14:40:20.000Z",
+        "description": "没挂梯子看不见信息",
+        "id": "2027030913402712064",
+        "location": "广州",
+        "name": "鱼",
+        "pinned_tweet_id": "2027348587466911931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027031034521616385/4RaND-_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 216
+        },
+        "username": "y797623179071",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2041741559113379854",
+    "created_at": "2026-04-09T16:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042286135251292183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746894960102658048",
+          "start": 0,
+          "username": "xiaozhung060329"
+        },
+        {
+          "end": 32,
+          "id": "1756654894428426240",
+          "start": 17,
+          "username": "bapanwanli0415"
+        },
+        {
+          "end": 43,
+          "id": "1759219178433863680",
+          "start": 33,
+          "username": "yuandi_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042286135251292183",
+    "in_reply_to_user_id": "1746894960102658048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041929499894337982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhung060329 @bapanwanli0415 @yuandi_00 只凭直觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2041741559113379854",
+        "created_at": "2026-04-09T16:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042286135251292183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746894960102658048",
+              "start": 0,
+              "username": "xiaozhung060329"
+            },
+            {
+              "end": 32,
+              "id": "1756654894428426240",
+              "start": 17,
+              "username": "bapanwanli0415"
+            },
+            {
+              "end": 43,
+              "id": "1759219178433863680",
+              "start": 33,
+              "username": "yuandi_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042286135251292183",
+        "in_reply_to_user_id": "1746894960102658048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041929499894337982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhung060329 @bapanwanli0415 @yuandi_00 只凭直觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746894960102658048",
+        "conversation_id": "2041741559113379854",
+        "created_at": "2026-04-08T17:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041929499894337982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756654894428426240",
+              "start": 0,
+              "username": "bapanwanli0415"
+            },
+            {
+              "end": 26,
+              "id": "1759219178433863680",
+              "start": 16,
+              "username": "yuandi_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041929499894337982",
+        "in_reply_to_user_id": "1756654894428426240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041869166978941024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bapanwanli0415 @yuandi_00 对你感觉强烈 却又无法了解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "你想知道什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 184,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T13:59:58.000Z",
+        "description": "双取拉黑自由 只是过客 别太认真",
+        "id": "1746894960102658048",
+        "location": "N109",
+        "name": "🐑",
+        "pinned_tweet_id": "2039740804525154583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033940345269194753/SpG9uXKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 142,
+          "like_count": 7673,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 4624
+        },
+        "username": "xiaozhung060329",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T12:23:06.000Z",
+        "description": "碎碎念用\n我想發啥就發啥不愛看就屏蔽我\n+v52 朋友圈只有臉照 消息想回才回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chenyi74111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chenyi74111",
+                "start": 0,
+                "url": "https://t.co/C9Fv0tPRl1"
+              }
+            ]
+          }
+        },
+        "id": "1756654894428426240",
+        "name": "唉",
+        "pinned_tweet_id": "1996246702316298579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030355204978450432/R__kARIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 204,
+          "like_count": 16003,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/C9Fv0tPRl1",
+        "username": "bapanwanli0415",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T14:12:19.000Z",
+        "description": "我会永远视奸你👀",
+        "id": "1759219178433863680",
+        "name": "水母",
+        "pinned_tweet_id": "1940806598752195032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815882654287630336/gHxeqCSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 978,
+          "like_count": 238447,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 4064
+        },
+        "username": "yuandi_00",
+        "verified": false
+      }
+    ]
+  }
+}

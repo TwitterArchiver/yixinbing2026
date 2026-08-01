@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2054066699834638620",
+    "created_at": "2026-05-12T10:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054142753286799716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1944989354239385600",
+          "start": 0,
+          "username": "123mp27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054142753286799716",
+    "in_reply_to_user_id": "1944989354239385600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054066699834638620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123mp27 小时候就是这些看多了到现在还没开智"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43674,
+        "height": 720,
+        "media_key": "13_2054066585766432768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054066585766432768/img/FHV4EIMm4eGxZk7m.jpg",
+        "public_metrics": {
+          "view_count": 47
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054066585766432768/vid/avc1/320x320/jYGBWWjsS1Zw6MVE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054066585766432768/vid/avc1/540x540/MYe131Frk8tYhZ3_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054066585766432768/vid/avc1/720x720/g0eH3DW61jTOG5fH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054066585766432768/pl/8QbXOuJepxYXTUpr.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2054066699834638620",
+        "created_at": "2026-05-12T10:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054142753286799716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1944989354239385600",
+              "start": 0,
+              "username": "123mp27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054142753286799716",
+        "in_reply_to_user_id": "1944989354239385600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054066699834638620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123mp27 小时候就是这些看多了到现在还没开智"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054066585766432768"
+          ]
+        },
+        "author_id": "1944989354239385600",
+        "conversation_id": "2054066699834638620",
+        "created_at": "2026-05-12T05:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054066699834638620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9PXg2hFDm",
+              "end": 32,
+              "expanded_url": "https://x.com/123mp27/status/2054066699834638620/video/1",
+              "media_key": "13_2054066585766432768",
+              "start": 9,
+              "url": "https://t.co/b9PXg2hFDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054066699834638620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好看的每日份哈哈 https://t.co/b9PXg2hFDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 爱我请尝试给我打钱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 294,
+          "like_count": 3130,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:16:48.000Z",
+        "description": "11年落地组装在河北承德，现居辽宁朝阳(intp)\n/欢迎私信，接受宣泄和游戏，不会泄露\n/实名王艳阳\n/我是低龄大傻逼\n/温和好猫！\n/匿名消息https://t.co/bvZlqGL5P2\n/可爱的人@123mp27",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "123mp27"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/123mp27",
+                "end": 96,
+                "expanded_url": "https://ngl.link/123mp27",
+                "start": 73,
+                "url": "https://t.co/bvZlqGL5P2"
+              }
+            ]
+          }
+        },
+        "id": "1944989354239385600",
+        "location": "互fo需要查成分，只要不是傻逼和重度鉴证就可以",
+        "name": "Rana (e…...mmm.....baka!.",
+        "pinned_tweet_id": "2052972523311042954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022327136024252416/SQnOL9qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 431,
+          "like_count": 4727,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2962
+        },
+        "username": "123mp27",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073660571535417344"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2073660633183384042",
+    "created_at": "2026-07-05T06:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073660633183384042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y5dW5hdLwc",
+          "end": 25,
+          "expanded_url": "https://x.com/yixinbing2026/status/2073660633183384042/video/1",
+          "media_key": "13_2073660571535417344",
+          "start": 2,
+          "url": "https://t.co/Y5dW5hdLwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073660633183384042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "丑 https://t.co/Y5dW5hdLwc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4066,
+        "height": 1280,
+        "media_key": "13_2073660571535417344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073660571535417344/img/sAH3v3VGF7Dnb0WN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073660571535417344/vid/avc1/320x568/V0EEcAWYD7xm_bGH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073660571535417344/vid/avc1/480x852/B7wcST3GmiGHF4Mj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073660571535417344/vid/avc1/720x1280/O7s9K6iBKMKkd1-H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073660571535417344/pl/bdpqoWRQ9a7az0rV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073660571535417344"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2073660633183384042",
+        "created_at": "2026-07-05T06:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073660633183384042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5dW5hdLwc",
+              "end": 25,
+              "expanded_url": "https://x.com/yixinbing2026/status/2073660633183384042/video/1",
+              "media_key": "13_2073660571535417344",
+              "start": 2,
+              "url": "https://t.co/Y5dW5hdLwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073660633183384042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丑 https://t.co/Y5dW5hdLwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 od但不经常餐 找我聊天不想被限流了！独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们 小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 345,
+          "like_count": 5000,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      }
+    ]
+  }
+}

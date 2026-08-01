@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2055814376460808548",
+    "created_at": "2026-05-17T12:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055991733620752602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606676637612773376",
+          "start": 0,
+          "username": "FaIIen_Dream"
+        },
+        {
+          "end": 22,
+          "id": "2028420098105446400",
+          "start": 14,
+          "username": "SYiN264"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055991733620752602",
+    "in_reply_to_user_id": "1606676637612773376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055985669470867673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FaIIen_Dream @SYiN264 我不是河南人🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2055814376460808548",
+        "created_at": "2026-05-17T12:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055991733620752602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606676637612773376",
+              "start": 0,
+              "username": "FaIIen_Dream"
+            },
+            {
+              "end": 22,
+              "id": "2028420098105446400",
+              "start": 14,
+              "username": "SYiN264"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055991733620752602",
+        "in_reply_to_user_id": "1606676637612773376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055985669470867673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FaIIen_Dream @SYiN264 我不是河南人🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606676637612773376",
+        "conversation_id": "2055814376460808548",
+        "created_at": "2026-05-17T12:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055985669470867673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 23,
+              "id": "2028420098105446400",
+              "start": 15,
+              "username": "SYiN264"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055985669470867673",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055963359116460387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 @SYiN264 河南人来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "重开日期2010.10 成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 303,
+          "like_count": 3374,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1446
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T15:42:58.000Z",
+        "description": "",
+        "id": "1606676637612773376",
+        "location": "华亭云间",
+        "name": "落下无梦",
+        "pinned_tweet_id": "1817196844721590526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938644295956996096/-5_RhSev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 74,
+          "like_count": 1211,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 144
+        },
+        "username": "FaIIen_Dream",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T10:41:55.000Z",
+        "description": "钱性恋 可以叫我小茵^ ^｜09 初三｜想到啥发啥｜不聊骚｜不约炮",
+        "id": "2028420098105446400",
+        "name": "SYiN",
+        "pinned_tweet_id": "2043358470821556385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043673681013133312/NBHEbgw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 40,
+          "like_count": 1630,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 597
+        },
+        "username": "SYiN264",
+        "verified": false
+      }
+    ]
+  }
+}

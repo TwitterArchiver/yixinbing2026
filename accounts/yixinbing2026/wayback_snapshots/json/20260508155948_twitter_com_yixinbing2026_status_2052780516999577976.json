@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2052763345779048955",
+    "created_at": "2026-05-08T15:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052780516999577976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1723527413617856512",
+          "start": 0,
+          "username": "11I1018"
+        },
+        {
+          "end": 24,
+          "id": "1594766970372722688",
+          "start": 9,
+          "username": "naijiangovo522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052780516999577976",
+    "in_reply_to_user_id": "1723527413617856512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052763345779048955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11I1018 @naijiangovo522 哈哈我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052763328737599488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzhXxlaYAAsrpV.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052763336442531840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzhYOSaUAAFq_H.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052763342490771456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzhYk0bIAAWyeu.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2052763345779048955",
+        "created_at": "2026-05-08T15:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052780516999577976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1723527413617856512",
+              "start": 0,
+              "username": "11I1018"
+            },
+            {
+              "end": 24,
+              "id": "1594766970372722688",
+              "start": 9,
+              "username": "naijiangovo522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052780516999577976",
+        "in_reply_to_user_id": "1723527413617856512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052763345779048955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11I1018 @naijiangovo522 哈哈我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052763328737599488",
+            "3_2052763336442531840",
+            "3_2052763342490771456"
+          ]
+        },
+        "author_id": "1723527413617856512",
+        "conversation_id": "2052763345779048955",
+        "created_at": "2026-05-08T14:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052763345779048955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "皮下男"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "避雷"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "骗子"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "偷图狗"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 90,
+              "id": "1594766970372722688",
+              "start": 75,
+              "username": "naijiangovo522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FIYlxMKsCR",
+              "end": 132,
+              "expanded_url": "https://x.com/11I1018/status/2052763345779048955/photo/1",
+              "media_key": "3_2052763328737599488",
+              "start": 109,
+              "url": "https://t.co/FIYlxMKsCR"
+            },
+            {
+              "display_url": "pic.x.com/FIYlxMKsCR",
+              "end": 132,
+              "expanded_url": "https://x.com/11I1018/status/2052763345779048955/photo/1",
+              "media_key": "3_2052763336442531840",
+              "start": 109,
+              "url": "https://t.co/FIYlxMKsCR"
+            },
+            {
+              "display_url": "pic.x.com/FIYlxMKsCR",
+              "end": 132,
+              "expanded_url": "https://x.com/11I1018/status/2052763345779048955/photo/1",
+              "media_key": "3_2052763342490771456",
+              "start": 109,
+              "url": "https://t.co/FIYlxMKsCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052763345779048955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "皮下男别偷照片了呗，正主都喊我举报你了，你是没爹没妈活不下去了么，天天在网上偷照片骗钱的，关键是还有一堆男的信，皮下男别太搞笑了，我可得一直追着你打了@naijiangovo522\n#皮下男 ＃避雷 ＃骗子 ＃偷图狗 https://t.co/FIYlxMKsCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（只有唯一员工版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 286,
+          "like_count": 2906,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:25:52.000Z",
+        "description": "入门私信我好不好🥺",
+        "id": "1723527413617856512",
+        "name": "给我安眠药",
+        "pinned_tweet_id": "2007144743944499695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024165503632363522/CoEq1_Q4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 134,
+          "like_count": 1003,
+          "listed_count": 7,
+          "media_count": 405,
+          "tweet_count": 1127
+        },
+        "username": "11I1018",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T18:57:44.000Z",
+        "description": "身高163 体重45kg 问坐标口令20( ˃̶̤́ ꒳ ˂̶̤̀ )",
+        "id": "1594766970372722688",
+        "location": "🚪188/520/1314",
+        "name": "莎莎酱",
+        "pinned_tweet_id": "2051513603736637790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051149408260288512/7OQAPymz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 0,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 38
+        },
+        "username": "naijiangovo522",
+        "verified": false
+      }
+    ]
+  }
+}

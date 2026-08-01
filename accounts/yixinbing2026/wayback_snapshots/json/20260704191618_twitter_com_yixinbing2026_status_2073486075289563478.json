@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073485546337472512",
+        "3_2073485546333351936",
+        "3_2073485546329194496",
+        "3_2073485546371096576"
+      ],
+      "media_source_tweet_id": [
+        "2073485563857191179",
+        "2073485563857191179",
+        "2073485563857191179",
+        "2073485563857191179"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073486075289563478",
+    "created_at": "2026-07-04T19:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073486075289563478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2014234031622377472",
+          "start": 3,
+          "username": "fushishanxia121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/39QpiGyHWx",
+          "end": 62,
+          "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+          "media_key": "3_2073485546337472512",
+          "start": 39,
+          "url": "https://t.co/39QpiGyHWx"
+        },
+        {
+          "display_url": "pic.x.com/39QpiGyHWx",
+          "end": 62,
+          "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+          "media_key": "3_2073485546333351936",
+          "start": 39,
+          "url": "https://t.co/39QpiGyHWx"
+        },
+        {
+          "display_url": "pic.x.com/39QpiGyHWx",
+          "end": 62,
+          "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+          "media_key": "3_2073485546329194496",
+          "start": 39,
+          "url": "https://t.co/39QpiGyHWx"
+        },
+        {
+          "display_url": "pic.x.com/39QpiGyHWx",
+          "end": 62,
+          "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+          "media_key": "3_2073485546371096576",
+          "start": 39,
+          "url": "https://t.co/39QpiGyHWx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073486075289563478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073485563857191179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fushishanxia121: 好久不见 我已经攒了七十多张小卡啦 https://t.co/39QpiGyHWx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073485546337472512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaAHlxaEAAwENc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073485546333351936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaAHlwbMAAVCnT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073485546329194496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaAHlvbwAAgUYR.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073485546371096576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaAHl5bIAAYQcC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073485546337472512",
+            "3_2073485546333351936",
+            "3_2073485546329194496",
+            "3_2073485546371096576"
+          ],
+          "media_source_tweet_id": [
+            "2073485563857191179",
+            "2073485563857191179",
+            "2073485563857191179",
+            "2073485563857191179"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073486075289563478",
+        "created_at": "2026-07-04T19:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073486075289563478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2014234031622377472",
+              "start": 3,
+              "username": "fushishanxia121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/39QpiGyHWx",
+              "end": 62,
+              "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+              "media_key": "3_2073485546337472512",
+              "start": 39,
+              "url": "https://t.co/39QpiGyHWx"
+            },
+            {
+              "display_url": "pic.x.com/39QpiGyHWx",
+              "end": 62,
+              "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+              "media_key": "3_2073485546333351936",
+              "start": 39,
+              "url": "https://t.co/39QpiGyHWx"
+            },
+            {
+              "display_url": "pic.x.com/39QpiGyHWx",
+              "end": 62,
+              "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+              "media_key": "3_2073485546329194496",
+              "start": 39,
+              "url": "https://t.co/39QpiGyHWx"
+            },
+            {
+              "display_url": "pic.x.com/39QpiGyHWx",
+              "end": 62,
+              "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+              "media_key": "3_2073485546371096576",
+              "start": 39,
+              "url": "https://t.co/39QpiGyHWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073486075289563478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073485563857191179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fushishanxia121: 好久不见 我已经攒了七十多张小卡啦 https://t.co/39QpiGyHWx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073485546337472512",
+            "3_2073485546333351936",
+            "3_2073485546329194496",
+            "3_2073485546371096576"
+          ]
+        },
+        "author_id": "2014234031622377472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073485563857191179",
+        "created_at": "2026-07-04T19:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073485563857191179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39QpiGyHWx",
+              "end": 41,
+              "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+              "media_key": "3_2073485546337472512",
+              "start": 18,
+              "url": "https://t.co/39QpiGyHWx"
+            },
+            {
+              "display_url": "pic.x.com/39QpiGyHWx",
+              "end": 41,
+              "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+              "media_key": "3_2073485546333351936",
+              "start": 18,
+              "url": "https://t.co/39QpiGyHWx"
+            },
+            {
+              "display_url": "pic.x.com/39QpiGyHWx",
+              "end": 41,
+              "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+              "media_key": "3_2073485546329194496",
+              "start": 18,
+              "url": "https://t.co/39QpiGyHWx"
+            },
+            {
+              "display_url": "pic.x.com/39QpiGyHWx",
+              "end": 41,
+              "expanded_url": "https://x.com/fushishanxia121/status/2073485563857191179/photo/1",
+              "media_key": "3_2073485546371096576",
+              "start": 18,
+              "url": "https://t.co/39QpiGyHWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073485563857191179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见 我已经攒了七十多张小卡啦 https://t.co/39QpiGyHWx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 od但不经常餐 找我聊天不想被限流了！独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们 小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 345,
+          "like_count": 4987,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 2077
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-22T07:10:02.000Z",
+        "description": "단 하나만을 위해 Yu Ji🩵",
+        "id": "2014234031622377472",
+        "location": "首尔",
+        "name": "YukiAurora",
+        "pinned_tweet_id": "2050079501535924582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064347579497041920/IDvznApO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 42,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "fushishanxia121",
+        "verified": false
+      }
+    ]
+  }
+}

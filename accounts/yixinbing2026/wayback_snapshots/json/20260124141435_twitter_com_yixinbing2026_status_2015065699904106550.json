@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2014680946847711291",
+    "created_at": "2026-01-24T14:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T15:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015065699904106550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004920236563382272",
+          "start": 0,
+          "username": "emowinter060606"
+        },
+        {
+          "end": 30,
+          "id": "1807349006508691456",
+          "start": 17,
+          "username": "Yangzixingfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015065699904106550",
+    "in_reply_to_user_id": "2004920236563382272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015065290401550706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emowinter060606 @Yangzixingfu 对呀对呀 现在这都成一个圈子了 甚至还有代奔现…谁还敢网恋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2014680946847711291",
+        "created_at": "2026-01-24T14:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015065699904106550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004920236563382272",
+              "start": 0,
+              "username": "emowinter060606"
+            },
+            {
+              "end": 30,
+              "id": "1807349006508691456",
+              "start": 17,
+              "username": "Yangzixingfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015065699904106550",
+        "in_reply_to_user_id": "2004920236563382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015065290401550706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emowinter060606 @Yangzixingfu 对呀对呀 现在这都成一个圈子了 甚至还有代奔现…谁还敢网恋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004920236563382272",
+        "conversation_id": "2014680946847711291",
+        "created_at": "2026-01-24T14:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015065290401550706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 28,
+              "id": "1807349006508691456",
+              "start": 15,
+              "username": "Yangzixingfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015065290401550706",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014753360935833882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 @Yangzixingfu 以前不都是人人喊打吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T14:20:19.000Z",
+        "description": "",
+        "id": "2004920236563382272",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010493125614280704/dL_TZJAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "emowinter060606",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T09:42:46.000Z",
+        "description": "🚪99口令/赞赏码/公益捐款100",
+        "id": "1807349006508691456",
+        "location": "纯清水无福利",
+        "name": "uramu",
+        "pinned_tweet_id": "2010752873903309040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011272276248051718/iTTCKPSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10727,
+          "following_count": 237,
+          "like_count": 3427,
+          "listed_count": 15,
+          "media_count": 259,
+          "tweet_count": 2433
+        },
+        "username": "Yangzixingfu",
+        "verified": false
+      }
+    ]
+  }
+}

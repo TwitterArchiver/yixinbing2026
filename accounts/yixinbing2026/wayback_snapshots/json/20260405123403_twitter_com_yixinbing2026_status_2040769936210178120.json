@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2040741903260688499",
+    "created_at": "2026-04-05T12:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040769936210178120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1464687099848925184",
+          "start": 0,
+          "username": "1995yiwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040769936210178120",
+    "in_reply_to_user_id": "1464687099848925184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040769122347425865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1995yiwang 哎呀大哥你转换概念太有了 你去看看你主页都是啥吧😂 现实被同龄过滤完了吧 在你认为的约炮专属软件上开始炫压抑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2040741903260688499",
+        "created_at": "2026-04-05T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040769936210178120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1464687099848925184",
+              "start": 0,
+              "username": "1995yiwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040769936210178120",
+        "in_reply_to_user_id": "1464687099848925184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040769122347425865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1995yiwang 哎呀大哥你转换概念太有了 你去看看你主页都是啥吧😂 现实被同龄过滤完了吧 在你认为的约炮专属软件上开始炫压抑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464687099848925184",
+        "conversation_id": "2040741903260688499",
+        "created_at": "2026-04-05T12:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040769122347425865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040769122347425865",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040767983044411578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 被你自己的逻辑整无语了么，我还以为你会换个逻辑辩呢，不辩了的话应该不会纠结这是不是什么专属了吧😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没门槛 不加联系方式 约炮别来找我 处对象别来找我 暴露癖不要找我 精虫上脑别找我 线下查无此人 我不圈钱 不要恶意揣测我了 不熟别给我开恶俗玩笑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 167,
+          "like_count": 1191,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T20:08:19.000Z",
+        "description": "骗子横行的时代，祝骗子横尸遍野",
+        "id": "1464687099848925184",
+        "location": "地球",
+        "name": "无语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007348243253080071/sGPg9xX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 104
+        },
+        "username": "1995yiwang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2044989229193990313",
+    "created_at": "2026-04-17T04:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T05:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045002903740686467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2034019741137047554",
+          "start": 0,
+          "username": "KarenDavis65735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045002903740686467",
+    "in_reply_to_user_id": "2034019741137047554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045001963750731808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarenDavis65735 d你雷霆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2044989229193990313",
+        "created_at": "2026-04-17T04:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045002903740686467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2034019741137047554",
+              "start": 0,
+              "username": "KarenDavis65735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045002903740686467",
+        "in_reply_to_user_id": "2034019741137047554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045001963750731808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarenDavis65735 d你雷霆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034019741137047554",
+        "conversation_id": "2044989229193990313",
+        "created_at": "2026-04-17T04:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045001963750731808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045001963750731808",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044989229193990313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 dd个线下的哥哥⁠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "神临日期2010.10具体不说🤤\n我病太多了网友需要包容我 对我的容错率提升100% 女孩子找我互关我将严肃执行 我要转型🤤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 239,
+          "like_count": 1742,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T21:31:17.000Z",
+        "description": "已入驻约p平台:👉https://t.co/1iBvJIxmxC只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/1iBvJIxmxC"
+              }
+            ]
+          }
+        },
+        "id": "2034019741137047554",
+        "location": "附近2.88km",
+        "name": "雨安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045002025575034880/UNePvhdL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 285
+        },
+        "username": "KarenDavis65735",
+        "verified": false
+      }
+    ]
+  }
+}

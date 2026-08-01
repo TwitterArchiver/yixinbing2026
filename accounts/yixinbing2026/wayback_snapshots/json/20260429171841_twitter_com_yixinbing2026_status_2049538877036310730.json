@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2049538287019462722",
+    "created_at": "2026-04-29T17:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049538877036310730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013218070689447936",
+          "start": 0,
+          "username": "rita_burns52614"
+        },
+        {
+          "end": 31,
+          "id": "1861668311790137344",
+          "start": 17,
+          "username": "FighttheTiger"
+        },
+        {
+          "end": 46,
+          "id": "1857802986837172224",
+          "start": 32,
+          "username": "LingJiaXin233"
+        },
+        {
+          "end": 62,
+          "id": "1550523516545601536",
+          "start": 47,
+          "username": "buxiangjieshou"
+        },
+        {
+          "end": 74,
+          "id": "1823405068034744320",
+          "start": 63,
+          "username": "hown530150"
+        },
+        {
+          "end": 84,
+          "id": "1677549435662880769",
+          "start": 75,
+          "username": "se7enqwq"
+        },
+        {
+          "end": 100,
+          "id": "1611238295673114625",
+          "start": 85,
+          "username": "marinashitteru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049538877036310730",
+    "in_reply_to_user_id": "2013218070689447936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049538287019462722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rita_burns52614 @FighttheTiger @LingJiaXin233 @buxiangjieshou @hown530150 @se7enqwq @marinashitteru 咳咳咳咳咳咳咳咳咳咳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45575,
+        "height": 1280,
+        "media_key": "7_2049538256795234304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049538256795234304/pu/img/pUaiKEfeITQJZVA2.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049538256795234304/pu/vid/avc1/320x710/cUDek_noXIbOGS97.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049538256795234304/pu/vid/avc1/480x1066/6awAnlsRVMvNbKT8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049538256795234304/pu/vid/avc1/576x1280/TWP7F5WKMcP7mo1b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049538256795234304/pu/pl/XfoiY6CNuMiwAfE_.m3u8"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049538256887549952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFsL4tbEAA18p0.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2049538287019462722",
+        "created_at": "2026-04-29T17:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049538877036310730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013218070689447936",
+              "start": 0,
+              "username": "rita_burns52614"
+            },
+            {
+              "end": 31,
+              "id": "1861668311790137344",
+              "start": 17,
+              "username": "FighttheTiger"
+            },
+            {
+              "end": 46,
+              "id": "1857802986837172224",
+              "start": 32,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 62,
+              "id": "1550523516545601536",
+              "start": 47,
+              "username": "buxiangjieshou"
+            },
+            {
+              "end": 74,
+              "id": "1823405068034744320",
+              "start": 63,
+              "username": "hown530150"
+            },
+            {
+              "end": 84,
+              "id": "1677549435662880769",
+              "start": 75,
+              "username": "se7enqwq"
+            },
+            {
+              "end": 100,
+              "id": "1611238295673114625",
+              "start": 85,
+              "username": "marinashitteru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049538877036310730",
+        "in_reply_to_user_id": "2013218070689447936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049538287019462722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rita_burns52614 @FighttheTiger @LingJiaXin233 @buxiangjieshou @hown530150 @se7enqwq @marinashitteru 咳咳咳咳咳咳咳咳咳咳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049538256795234304",
+            "3_2049538256887549952"
+          ]
+        },
+        "author_id": "2013218070689447936",
+        "conversation_id": "2049538287019462722",
+        "created_at": "2026-04-29T17:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049538287019462722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "2014553095255293955",
+              "start": 22,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 55,
+              "id": "1861668311790137344",
+              "start": 41,
+              "username": "FighttheTiger"
+            },
+            {
+              "end": 74,
+              "id": "1857802986837172224",
+              "start": 60,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 101,
+              "id": "1550523516545601536",
+              "start": 86,
+              "username": "buxiangjieshou"
+            },
+            {
+              "end": 120,
+              "id": "1823405068034744320",
+              "start": 109,
+              "username": "hown530150"
+            },
+            {
+              "end": 136,
+              "id": "1677549435662880769",
+              "start": 127,
+              "username": "se7enqwq"
+            },
+            {
+              "end": 159,
+              "id": "1611238295673114625",
+              "start": 144,
+              "username": "marinashitteru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikKtZsTYgG",
+              "end": 199,
+              "expanded_url": "https://x.com/rita_burns52614/status/2049538287019462722/video/1",
+              "media_key": "7_2049538256795234304",
+              "start": 176,
+              "url": "https://t.co/ikKtZsTYgG"
+            },
+            {
+              "display_url": "pic.x.com/ikKtZsTYgG",
+              "end": 199,
+              "expanded_url": "https://x.com/rita_burns52614/status/2049538287019462722/video/1",
+              "media_key": "3_2049538256887549952",
+              "start": 176,
+              "url": "https://t.co/ikKtZsTYgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049538287019462722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可惜有人没有关注我，记得私信找我哦\n一等奖：@yixinbing2026\n二等奖：@FighttheTiger\n三等奖：@LingJiaXin233\n  参与奖（4名）：\n@buxiangjieshou\n （不接受）\n@hown530150\n （喵喵）\n@se7enqwq\n （收敛水）\n@marinashitteru\n （总而言之我哥哥非常非常好） https://t.co/ikKtZsTYgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "其实我也不太了解她 没啥用的次号@fushishanxia121\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（升级版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 261,
+          "like_count": 2470,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 990
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:52:56.000Z",
+        "description": "原账号@LST12123，互fo快来骚扰我\n07男大学生傻卵二次，新手交易员，碎碎念区煮波，可以找我打游戏apex|英雄联盟|邦邦人|明日方舟……\n喜欢我请给我打钱\n自用梯子yy：https://t.co/HTQeTyPE7T\n欢迎提问！https://t.co/bgDcJAfMGm\n100fo抽红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "LST12123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register",
+                "end": 113,
+                "expanded_url": "https://www.yy.tz69.vip/#/register",
+                "start": 90,
+                "url": "https://t.co/HTQeTyPE7T"
+              },
+              {
+                "display_url": "miyu.link/LST",
+                "end": 142,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 119,
+                "url": "https://t.co/bgDcJAfMGm"
+              }
+            ]
+          }
+        },
+        "id": "2013218070689447936",
+        "location": "520m",
+        "name": "困困神",
+        "pinned_tweet_id": "2046117109516865727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031316879877484548/zq5PMAXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 271,
+          "like_count": 2021,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1045
+        },
+        "username": "rita_burns52614",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-27T07:08:18.000Z",
+        "description": "越努力越幸运！ 两手空空玩转Wed3. 关注我你也可以",
+        "id": "1861668311790137344",
+        "name": "胖虎",
+        "pinned_tweet_id": "2049167460100903357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005894900915851264/AllK7p_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 3683,
+          "like_count": 18928,
+          "listed_count": 0,
+          "media_count": 2219,
+          "tweet_count": 20465
+        },
+        "username": "FighttheTiger",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "发财的小手点个关注吧🥺，希望给大家带来快乐🥰/推广自辨//不见证，不讨论政治不感兴趣！！！/有事直接私信DM我/生活分享小号@adorableLing///最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "adorableLing"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3409,
+          "following_count": 629,
+          "like_count": 15359,
+          "listed_count": 11,
+          "media_count": 1016,
+          "tweet_count": 3966
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-22T16:49:57.000Z",
+        "description": "♂｜infp｜树洞｜switch偏sub｜xp小腹｜喜欢亲亲抱抱｜1i=4i｜只是一个只懂的大道理和纸上谈兵的老处男罢了",
+        "id": "1550523516545601536",
+        "location": "心之所向",
+        "name": "不接受",
+        "pinned_tweet_id": "2047585605304066307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045925213150519296/bgr90NXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 19,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 173
+        },
+        "username": "buxiangjieshou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "焦虑中。。。",
+        "id": "1823405068034744320",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004825093667782656/l4DFY3mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 970,
+          "like_count": 11868,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 9224
+        },
+        "username": "hown530150",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T05:25:41.000Z",
+        "description": "",
+        "id": "1677549435662880769",
+        "name": "收敛水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025199029995630592/oTrhRQQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 315,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 109
+        },
+        "username": "se7enqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T05:48:55.000Z",
+        "description": "kk/哭哭叫你想叫的丨sh/od负能量\n备用号@sealofKk\n 链接是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "sealofKk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/8apxHZTQe3"
+              }
+            ]
+          }
+        },
+        "id": "1611238295673114625",
+        "location": "垃圾话大王海豹",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2044236047798665316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043321958352486400/e4Wm8MC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 241,
+          "like_count": 4431,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2937
+        },
+        "url": "https://t.co/8apxHZTQe3",
+        "username": "marinashitteru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2056758425128944047",
+    "created_at": "2026-05-19T21:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T22:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056856375679172978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1218553739012988929",
+          "start": 0,
+          "username": "yihuaaart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056856375679172978",
+    "in_reply_to_user_id": "1218553739012988929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056758425128944047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yihuaaart 操他妈 我刚要睡 算了打一发先"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 104533,
+        "height": 720,
+        "media_key": "13_2056756405181493248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056756405181493248/img/iwZD7WgiI31wsGwB.jpg",
+        "public_metrics": {
+          "view_count": 51229
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056756405181493248/vid/avc1/480x270/dGI2ELI27V1dsDar.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056756405181493248/vid/avc1/640x360/cOa2xFmTysUE1bM2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056756405181493248/vid/avc1/1280x720/EujbeLSx3mM5iofI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056756405181493248/pl/nZbTdjND3VisgCQP.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2056758425128944047",
+        "created_at": "2026-05-19T21:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T22:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056856375679172978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1218553739012988929",
+              "start": 0,
+              "username": "yihuaaart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056856375679172978",
+        "in_reply_to_user_id": "1218553739012988929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056758425128944047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yihuaaart 操他妈 我刚要睡 算了打一发先"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056756405181493248"
+          ]
+        },
+        "author_id": "1218553739012988929",
+        "conversation_id": "2056758425128944047",
+        "created_at": "2026-05-19T15:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056758425128944047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "女性向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fb8uk2CKw",
+              "end": 164,
+              "expanded_url": "https://x.com/yihuaaart/status/2056758425128944047/video/1",
+              "media_key": "13_2056756405181493248",
+              "start": 141,
+              "url": "https://t.co/2fb8uk2CKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056758425128944047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1455,
+          "impression_count": 67583,
+          "like_count": 3349,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "投稿：Daddy类型的😚\n开头猛顶的这几下女主跟我都爽到了…看爽了\n依旧代入的是生气吃醋饭，白天可能女主又勾搭谁了让daddy生气了，操的时候狠狠的，，还要面对面让女主一直看着他…\n感觉操十下就要亲十秒哈哈哈虽然是daddy但是一直粘着女主\np站：Kira Maytly\n#女性向 https://t.co/2fb8uk2CKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 311,
+          "like_count": 3488,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-18T15:20:34.000Z",
+        "description": "人活着就是要吃美丽的饭、吃爽口的饭。\n努力成为一名做女性向口味饭的好厨子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=tjelsUQQ&from=%E6%B9%98%E6%B9%98%E5%85%B0%E5%AD%90",
+                "start": 0,
+                "url": "https://t.co/DtEgM1NG7x"
+              }
+            ]
+          }
+        },
+        "id": "1218553739012988929",
+        "location": "自用梯子！便宜好用！有需要的宝宝可以试试～",
+        "name": "湘湘兰子（暂不接点菜）",
+        "pinned_tweet_id": "2041541789837115415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038324988957327360/1BrZ9-Ch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221432,
+          "following_count": 160,
+          "like_count": 749,
+          "listed_count": 222,
+          "media_count": 121,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/DtEgM1NG7x",
+        "username": "yihuaaart",
+        "verified": false
+      }
+    ]
+  }
+}

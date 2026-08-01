@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2028735364756881543",
+    "created_at": "2026-03-05T05:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T06:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029427967710118304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2015858749873790976",
+          "start": 0,
+          "username": "H7story996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029427967710118304",
+    "in_reply_to_user_id": "2015858749873790976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029427890777932221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H7story996 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2028735364756881543",
+        "created_at": "2026-03-05T05:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029427967710118304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2015858749873790976",
+              "start": 0,
+              "username": "H7story996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029427967710118304",
+        "in_reply_to_user_id": "2015858749873790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029427890777932221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H7story996 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015858749873790976",
+        "conversation_id": "2028735364756881543",
+        "created_at": "2026-03-05T05:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029427890777932221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029427890777932221",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028735364756881543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 冷静老师别做傻事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者 没门槛 不随便加微信 我不约 我随便发的 我是女的我不约 看成分回关 我不圈钱也不性骚扰的 不要恶意揣测我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 116,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T18:46:07.000Z",
+        "description": "infp🦋玻璃心敏感至极，本人有点严重压抑肖楚南06年身高186i人现实就一社恐网上纯口嗨平时挺闲的，可以找我聊天，内容有分寸，对象不同聊天内容不同，🚪姐勿扰",
+        "id": "2015858749873790976",
+        "location": "南京",
+        "name": "咖啡不断加加加加到厌倦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026102871045951488/uS5PP0WF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 52,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 334
+        },
+        "username": "H7story996",
+        "verified": false
+      }
+    ]
+  }
+}

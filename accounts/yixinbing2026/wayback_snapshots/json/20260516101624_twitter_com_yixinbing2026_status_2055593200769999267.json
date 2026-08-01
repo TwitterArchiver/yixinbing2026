@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2055357863628087567",
+    "created_at": "2026-05-16T10:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055593200769999267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1765679548778299392",
+          "start": 0,
+          "username": "jgdcqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055593200769999267",
+    "in_reply_to_user_id": "1765679548778299392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055371354216521772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jgdcqwq 我就玩 我七年前充的钱现在可以未成年退款吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2055357863628087567",
+        "created_at": "2026-05-16T10:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055593200769999267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1765679548778299392",
+              "start": 0,
+              "username": "jgdcqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055593200769999267",
+        "in_reply_to_user_id": "1765679548778299392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055371354216521772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jgdcqwq 我就玩 我七年前充的钱现在可以未成年退款吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765679548778299392",
+        "conversation_id": "2055357863628087567",
+        "created_at": "2026-05-15T19:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055371354216521772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055371354216521772",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055357863628087567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 不准玩米米世界😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "重开日期2010.10 成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 304,
+          "like_count": 3305,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T10:03:32.000Z",
+        "description": "-.-",
+        "id": "1765679548778299392",
+        "location": "Ixtal",
+        "name": "JGDC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868498930423431168/FC7MU78J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 36,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "username": "jgdcqwq",
+        "verified": false
+      }
+    ]
+  }
+}

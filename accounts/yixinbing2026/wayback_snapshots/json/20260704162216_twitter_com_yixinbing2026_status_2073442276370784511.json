@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2073306594323165502",
+    "created_at": "2026-07-04T16:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073442276370784511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1727874282930290689",
+          "start": 0,
+          "username": "zhangjinhu12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073442276370784511",
+    "in_reply_to_user_id": "1727874282930290689",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073429706511421898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangjinhu12138 666"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2073306594323165502",
+        "created_at": "2026-07-04T16:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073442276370784511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1727874282930290689",
+              "start": 0,
+              "username": "zhangjinhu12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073442276370784511",
+        "in_reply_to_user_id": "1727874282930290689",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073429706511421898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangjinhu12138 666"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727874282930290689",
+        "conversation_id": "2073306594323165502",
+        "created_at": "2026-07-04T15:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073429706511421898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073429706511421898",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073306594323165502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 冬小麦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 od但不经常餐 找我聊天不想被限流了！独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们 小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 346,
+          "like_count": 4983,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-24T02:18:40.000Z",
+        "description": "寻找马冬梅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhangjinhu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhangjinhu",
+                "start": 0,
+                "url": "https://t.co/nGqoi2iCZL"
+              }
+            ]
+          }
+        },
+        "id": "1727874282930290689",
+        "location": "没有🚪",
+        "name": "吧啦啦小腾",
+        "pinned_tweet_id": "2067577975986630690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063968667294199811/_NGi6YLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 716,
+          "like_count": 5514,
+          "listed_count": 6,
+          "media_count": 466,
+          "tweet_count": 3716
+        },
+        "url": "https://t.co/nGqoi2iCZL",
+        "username": "zhangjinhu12138",
+        "verified": false
+      }
+    ]
+  }
+}

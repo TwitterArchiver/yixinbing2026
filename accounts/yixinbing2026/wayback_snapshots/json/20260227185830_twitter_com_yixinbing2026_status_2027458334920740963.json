@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027458330470604800"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027458334920740963",
+    "created_at": "2026-02-27T18:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027458334920740963"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K09DAwmEcf",
+          "end": 28,
+          "expanded_url": "https://x.com/yixinbing2026/status/2027458334920740963/photo/1",
+          "media_key": "3_2027458330470604800",
+          "start": 5,
+          "url": "https://t.co/K09DAwmEcf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027458334920740963",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/K09DAwmEcf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2027458330470604800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCL6nBCbYAAC0Ng.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027458330470604800"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027458334920740963",
+        "created_at": "2026-02-27T18:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027458334920740963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K09DAwmEcf",
+              "end": 28,
+              "expanded_url": "https://x.com/yixinbing2026/status/2027458334920740963/photo/1",
+              "media_key": "3_2027458330470604800",
+              "start": 5,
+              "url": "https://t.co/K09DAwmEcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027458334920740963",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/K09DAwmEcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 77,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 200
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2057230773359632749",
+    "created_at": "2026-05-21T06:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057353611911561614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025870004793856000",
+          "start": 0,
+          "username": "Loop_yy0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057353611911561614",
+    "in_reply_to_user_id": "2025870004793856000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057306167001694611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loop_yy0130 没错！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2057230773359632749",
+        "created_at": "2026-05-21T06:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057353611911561614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025870004793856000",
+              "start": 0,
+              "username": "Loop_yy0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057353611911561614",
+        "in_reply_to_user_id": "2025870004793856000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057306167001694611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loop_yy0130 没错！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025870004793856000",
+        "conversation_id": "2057230773359632749",
+        "created_at": "2026-05-21T03:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057306167001694611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057306167001694611",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057230773359632749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 讨厌的是那种没智商没情商没礼貌没建模的吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 311,
+          "like_count": 3558,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1535
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T09:47:16.000Z",
+        "description": "一个爱发牢骚de小乐乐😂...\n全世界倒数第一绷得住的女孩。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loop_yy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/loop_yy",
+                "start": 0,
+                "url": "https://t.co/ZuRTIwzvS4"
+              }
+            ]
+          }
+        },
+        "id": "2025870004793856000",
+        "location": "地狱",
+        "name": "Loooooopyyy_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056613547787067392/03fOhuyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 69,
+          "like_count": 1885,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1390
+        },
+        "url": "https://t.co/ZuRTIwzvS4",
+        "username": "Loop_yy0130",
+        "verified": false
+      }
+    ]
+  }
+}

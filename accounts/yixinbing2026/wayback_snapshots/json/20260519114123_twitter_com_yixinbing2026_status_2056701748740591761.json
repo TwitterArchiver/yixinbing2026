@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2056696678657540585",
+    "created_at": "2026-05-19T11:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056701748740591761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041140932343652352",
+          "start": 0,
+          "username": "Liudisq5qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056701748740591761",
+    "in_reply_to_user_id": "2041140932343652352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056696678657540585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liudisq5qy 我也好搞不懂 未经他人苦莫劝他人善😓有时候你以为的好心给别人的是困扰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2056696678657540585",
+        "created_at": "2026-05-19T11:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056701748740591761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041140932343652352",
+              "start": 0,
+              "username": "Liudisq5qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056701748740591761",
+        "in_reply_to_user_id": "2041140932343652352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056696678657540585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liudisq5qy 我也好搞不懂 未经他人苦莫劝他人善😓有时候你以为的好心给别人的是困扰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041140932343652352",
+        "conversation_id": "2056696678657540585",
+        "created_at": "2026-05-19T11:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056696678657540585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056696678657540585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你劝我别o别自残我也只会答应应付两句\n这和劝一只蚊子别吸血没什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 309,
+          "like_count": 3458,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T13:08:39.000Z",
+        "description": "闺蜜@ezimiD181155\n友跨/顺女/od/自伤\nO型 水瓶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "ezimiD181155"
+              }
+            ]
+          }
+        },
+        "id": "2041140932343652352",
+        "name": "小柳",
+        "pinned_tweet_id": "2056356126506299793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047566740209700864/mOu8UD31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 9,
+          "like_count": 737,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 379
+        },
+        "username": "Liudisq5qy",
+        "verified": false
+      }
+    ]
+  }
+}

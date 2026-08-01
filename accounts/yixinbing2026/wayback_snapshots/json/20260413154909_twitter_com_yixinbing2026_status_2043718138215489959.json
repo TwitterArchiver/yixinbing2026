@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2043489209965740412",
+    "created_at": "2026-04-13T15:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043718138215489959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589508609578176512",
+          "start": 0,
+          "username": "mifanmiaomiao"
+        },
+        {
+          "end": 31,
+          "id": "2013218070689447936",
+          "start": 15,
+          "username": "rita_burns52614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043718138215489959",
+    "in_reply_to_user_id": "1589508609578176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043489209965740412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mifanmiaomiao @rita_burns52614 我去还来得及吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2043489209965740412",
+        "created_at": "2026-04-13T15:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043718138215489959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589508609578176512",
+              "start": 0,
+              "username": "mifanmiaomiao"
+            },
+            {
+              "end": 31,
+              "id": "2013218070689447936",
+              "start": 15,
+              "username": "rita_burns52614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043718138215489959",
+        "in_reply_to_user_id": "1589508609578176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043489209965740412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mifanmiaomiao @rita_burns52614 我去还来得及吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589508609578176512",
+        "conversation_id": "2043489209965740412",
+        "created_at": "2026-04-13T00:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043489209965740412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043489209965740412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2285,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "预告一下千粉福利\n第1名  100块\n第2名  52块\n第3名  一杯瑞幸咖啡（等价换为30块钱）\n安慰奖  5个名额每个5块钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 229,
+          "like_count": 1577,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "会互fo~（大部分时间在搞/写/发黄色介意可取关~）俺喜欢和大家交朋友！正在努力学英语润出去.. 会给互fo画画（不过技术不太好 /画的有些慢） Telegram群: https://t.co/R8kPJWeLsh欢迎各位宝宝来群里面聊天~🥰有对象别骚扰我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+VOAVfurE50NlZ…",
+                "end": 107,
+                "expanded_url": "https://t.me/+VOAVfurE50NlZjQx",
+                "start": 84,
+                "url": "https://t.co/R8kPJWeLsh"
+              }
+            ]
+          }
+        },
+        "id": "1589508609578176512",
+        "name": "米花糖",
+        "pinned_tweet_id": "2043489209965740412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359027051618304/QN4w_EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 970,
+          "like_count": 8854,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 2493
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:52:56.000Z",
+        "description": "原账号@LST12123，互fo快来加我v\n07男大学生傻卵二次，碎碎念区煮波，可以找我打游戏，apex|英雄联盟|王者|瓦|邦邦人|明日方舟……\n喜欢我请给我打钱\n自用梯子yy：https://t.co/HTQeTyPE7T\n欢迎提问！https://t.co/bgDcJAfMGm\n100fo抽红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "LST12123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register",
+                "end": 113,
+                "expanded_url": "https://www.yy.tz69.vip/#/register",
+                "start": 90,
+                "url": "https://t.co/HTQeTyPE7T"
+              },
+              {
+                "display_url": "miyu.link/LST",
+                "end": 142,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 119,
+                "url": "https://t.co/bgDcJAfMGm"
+              }
+            ]
+          }
+        },
+        "id": "2013218070689447936",
+        "location": "520m",
+        "name": "困困神",
+        "pinned_tweet_id": "2037939101186527491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031316879877484548/zq5PMAXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 196,
+          "like_count": 1125,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 657
+        },
+        "username": "rita_burns52614",
+        "verified": true
+      }
+    ]
+  }
+}

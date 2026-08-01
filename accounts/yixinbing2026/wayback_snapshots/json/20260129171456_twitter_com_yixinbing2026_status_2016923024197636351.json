@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2016923024197636351",
+    "created_at": "2026-01-29T17:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T18:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016923024197636351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2000126709375623168",
+          "start": 3,
+          "username": "Miaooo_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016923024197636351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016574763037315464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miaooo_47: 同意微信好友申请≠同意和你聊天\n同意steam好友申请≠同意和你一起玩\n同意推特私信申请≠同意和你磕炮\n望周知。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2016923024197636351",
+        "created_at": "2026-01-29T17:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016923024197636351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2000126709375623168",
+              "start": 3,
+              "username": "Miaooo_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016923024197636351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016574763037315464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miaooo_47: 同意微信好友申请≠同意和你聊天\n同意steam好友申请≠同意和你一起玩\n同意推特私信申请≠同意和你磕炮\n望周知。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000126709375623168",
+        "conversation_id": "2016574763037315464",
+        "created_at": "2026-01-28T18:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016574763037315464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016574763037315464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15582,
+          "like_count": 266,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "同意微信好友申请≠同意和你聊天\n同意steam好友申请≠同意和你一起玩\n同意推特私信申请≠同意和你磕炮\n望周知。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "🇨🇳装松弛感刷推 立场正确 皮下女生 我的冲浪一条线罢 10后",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016166797398220800/9ait4Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 52,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 103
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡| infp 双 | ❗️好相处 喜欢互动 都来找我丸 | 当朋友圈发 | 一个人的碎碎念 | 可能是抽象文案bot | 会存一些自己很有感触的话 | 不要过问我的现实生活，不喜欢一直被问问题┆·✦ʚ♡ɞ✦·┆妹宝们需要互fo请私信",
+        "id": "2000126709375623168",
+        "name": "遥",
+        "pinned_tweet_id": "2015080151571399069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 142,
+          "like_count": 2828,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 788
+        },
+        "username": "Miaooo_47",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2060621289610764514",
+    "created_at": "2026-05-31T01:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T02:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060902250147692877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797575696191250432",
+          "start": 0,
+          "username": "namizzangg_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060902250147692877",
+    "in_reply_to_user_id": "1797575696191250432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060621289610764514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@namizzangg_ 我也想吃🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_2060621282925068288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjMI6FbwAACqIG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2060621289610764514",
+        "created_at": "2026-05-31T01:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060902250147692877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797575696191250432",
+              "start": 0,
+              "username": "namizzangg_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060902250147692877",
+        "in_reply_to_user_id": "1797575696191250432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060621289610764514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@namizzangg_ 我也想吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060621282925068288"
+          ]
+        },
+        "author_id": "1797575696191250432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060621289610764514",
+        "created_at": "2026-05-30T07:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060621289610764514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oOWI54vGY",
+              "end": 60,
+              "expanded_url": "https://x.com/namizzangg_/status/2060621289610764514/photo/1",
+              "media_key": "3_2060621282925068288",
+              "start": 37,
+              "url": "https://t.co/8oOWI54vGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060621289610764514",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 111803,
+          "like_count": 7265,
+          "quote_count": 104,
+          "reply_count": 33,
+          "retweet_count": 791
+        },
+        "reply_settings": "everyone",
+        "text": "여자 인생 별 거 없음\n단거 짠거 매운 거 재밌는 것만 있으면 됨 https://t.co/8oOWI54vGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 319,
+          "like_count": 4296,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-03T10:27:20.000Z",
+        "description": "ㆆ ̫ ㆆ ★ @nanamingday  유튜브 나미짱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "nanamingday"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/namizzangg",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/namizzangg",
+                "start": 0,
+                "url": "https://t.co/HCTPCvVhMI"
+              }
+            ]
+          }
+        },
+        "id": "1797575696191250432",
+        "location": "나나밍 주인장.•*★",
+        "name": "나미",
+        "pinned_tweet_id": "2054200586128756871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027648169639874561/X9Rkbswa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 406,
+          "like_count": 5103,
+          "listed_count": 9,
+          "media_count": 498,
+          "tweet_count": 2130
+        },
+        "url": "https://t.co/HCTPCvVhMI",
+        "username": "namizzangg_",
+        "verified": false
+      }
+    ]
+  }
+}

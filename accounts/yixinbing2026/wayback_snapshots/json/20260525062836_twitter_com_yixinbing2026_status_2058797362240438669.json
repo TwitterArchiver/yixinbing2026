@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2058730619321139445",
+    "created_at": "2026-05-25T06:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058797362240438669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041140932343652352",
+          "start": 0,
+          "username": "Liudisq5qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058797362240438669",
+    "in_reply_to_user_id": "2041140932343652352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058793791801458995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liudisq5qy 建模怪总觉得自己很有操作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2058730619321139445",
+        "created_at": "2026-05-25T06:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058797362240438669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041140932343652352",
+              "start": 0,
+              "username": "Liudisq5qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058797362240438669",
+        "in_reply_to_user_id": "2041140932343652352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058793791801458995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liudisq5qy 建模怪总觉得自己很有操作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041140932343652352",
+        "conversation_id": "2058730619321139445",
+        "created_at": "2026-05-25T06:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058793791801458995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058793791801458995",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058761236150689867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 啊你捧杀我吧洗衣粉儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 336,
+          "like_count": 3866,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T13:08:39.000Z",
+        "description": "别给我发你好、在吗、能认识下吗这种弱智言论😂 \n10年2月初中女生 小号@Jiangyuqing08\n闺蜜@ezimiD181155 \n友跨/顺女/od/自伤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Jiangyuqing08"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "ezimiD181155"
+              }
+            ]
+          }
+        },
+        "id": "2041140932343652352",
+        "name": "Liu",
+        "pinned_tweet_id": "2056356126506299793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047566740209700864/mOu8UD31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 6,
+          "like_count": 815,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 421
+        },
+        "username": "Liudisq5qy",
+        "verified": false
+      }
+    ]
+  }
+}

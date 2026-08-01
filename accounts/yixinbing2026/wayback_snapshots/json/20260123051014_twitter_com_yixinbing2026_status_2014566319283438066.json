@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2012938692076413211",
+    "created_at": "2026-01-23T05:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T06:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014566319283438066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1980464953397325824",
+          "start": 0,
+          "username": "xdx_1979"
+        },
+        {
+          "end": 21,
+          "id": "1868527988754522113",
+          "start": 10,
+          "username": "liumin1988"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014566319283438066",
+    "in_reply_to_user_id": "1980464953397325824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013027258655781352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xdx_1979 @liumin1988 点了 可以跟甜甜圈坐一桌 不 不配上桌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2012938692076413211",
+        "created_at": "2026-01-23T05:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014566319283438066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1980464953397325824",
+              "start": 0,
+              "username": "xdx_1979"
+            },
+            {
+              "end": 21,
+              "id": "1868527988754522113",
+              "start": 10,
+              "username": "liumin1988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014566319283438066",
+        "in_reply_to_user_id": "1980464953397325824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013027258655781352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xdx_1979 @liumin1988 点了 可以跟甜甜圈坐一桌 不 不配上桌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980464953397325824",
+        "conversation_id": "2012938692076413211",
+        "created_at": "2026-01-18T23:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013027258655781352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868527988754522113",
+              "start": 0,
+              "username": "liumin1988"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013027258655781352",
+        "in_reply_to_user_id": "1868527988754522113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1118,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012938692076413211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liumin1988 傻儿子，这种表演混不到绿卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T02:43:53.000Z",
+        "description": "",
+        "id": "1980464953397325824",
+        "name": "xdx1979",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 239
+        },
+        "username": "xdx_1979",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T05:26:14.000Z",
+        "description": "六四纪念馆义务工作者；民主自由、人权捍卫者； 2022年成都白纸运动参与者； 2025年加入中国民主党参与与组织民运活动，主张支持台湾、香港、西藏、新疆独立！",
+        "id": "1868527988754522113",
+        "location": "Los Angeles, CA",
+        "name": "刘敏",
+        "pinned_tweet_id": "1945717230999888179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931206419472424960/wr7R9H-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5423,
+          "following_count": 153,
+          "like_count": 441,
+          "listed_count": 46,
+          "media_count": 620,
+          "tweet_count": 1222
+        },
+        "username": "liumin1988",
+        "verified": true
+      }
+    ]
+  }
+}

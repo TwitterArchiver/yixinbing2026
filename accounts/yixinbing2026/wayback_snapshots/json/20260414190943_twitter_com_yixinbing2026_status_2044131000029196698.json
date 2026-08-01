@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2044131000029196698",
+    "created_at": "2026-04-14T19:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044131000029196698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413147697758969870",
+          "start": 3,
+          "username": "xoxzcjbxox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044131000029196698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043629690242707498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xoxzcjbxox: 为什么我比较喜欢年上？\n\n因为跟年上相处的时候我可以看自己的多面性\n\n青涩的 可爱的 黏人的 爱撒娇的 幼稚的 爱生气的 笨拙的 会耍赖的 爱哭的 害羞的 脆弱的 活泼的 犯贱的 在跟年上相处的时候都可以很自然而然流露出来\n\n但是面对年下的时候…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2044131000029196698",
+        "created_at": "2026-04-14T19:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044131000029196698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413147697758969870",
+              "start": 3,
+              "username": "xoxzcjbxox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044131000029196698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043629690242707498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xoxzcjbxox: 为什么我比较喜欢年上？\n\n因为跟年上相处的时候我可以看自己的多面性\n\n青涩的 可爱的 黏人的 爱撒娇的 幼稚的 爱生气的 笨拙的 会耍赖的 爱哭的 害羞的 脆弱的 活泼的 犯贱的 在跟年上相处的时候都可以很自然而然流露出来\n\n但是面对年下的时候…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413147697758969870",
+        "conversation_id": "2043629690242707498",
+        "created_at": "2026-04-13T09:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043629690242707498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043629690242707498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 35790,
+          "like_count": 1214,
+          "quote_count": 36,
+          "reply_count": 37,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我比较喜欢年上？\n\n因为跟年上相处的时候我可以看自己的多面性\n\n青涩的 可爱的 黏人的 爱撒娇的 幼稚的 爱生气的 笨拙的 会耍赖的 爱哭的 害羞的 脆弱的 活泼的 犯贱的 在跟年上相处的时候都可以很自然而然流露出来\n\n但是面对年下的时候 可能会有一种心理负担\n我就只能是成熟懂事 独立自主的姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 234,
+          "like_count": 1673,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T14:47:36.000Z",
+        "description": "168/75｜Just some pretty mess ⁺˳ ˖🫧 ˚🐋",
+        "id": "1413147697758969870",
+        "name": "招᳐財井᳐寶੭",
+        "pinned_tweet_id": "2032422536571703322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972521363073277952/TxlVuPWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14612,
+          "following_count": 70,
+          "like_count": 6405,
+          "listed_count": 28,
+          "media_count": 39,
+          "tweet_count": 134
+        },
+        "username": "xoxzcjbxox",
+        "verified": false
+      }
+    ]
+  }
+}

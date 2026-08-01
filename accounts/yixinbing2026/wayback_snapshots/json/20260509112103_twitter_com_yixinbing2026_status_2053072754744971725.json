@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048272347900366848"
+      ],
+      "media_source_tweet_id": [
+        "2048272354066006153"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2053072754744971725",
+    "created_at": "2026-05-09T11:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053072754744971725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Dq8gjBNuT",
+          "end": 50,
+          "expanded_url": "https://x.com/yixinbing2026/status/2048272354066006153/photo/1",
+          "media_key": "3_2048272347900366848",
+          "start": 27,
+          "url": "https://t.co/4Dq8gjBNuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053072754744971725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048272354066006153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 有一种过度反应 https://t.co/4Dq8gjBNuT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048272347900366848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzs2SPbUAAJoNq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048272347900366848"
+          ],
+          "media_source_tweet_id": [
+            "2048272354066006153"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2053072754744971725",
+        "created_at": "2026-05-09T11:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053072754744971725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Dq8gjBNuT",
+              "end": 50,
+              "expanded_url": "https://x.com/yixinbing2026/status/2048272354066006153/photo/1",
+              "media_key": "3_2048272347900366848",
+              "start": 27,
+              "url": "https://t.co/4Dq8gjBNuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053072754744971725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048272354066006153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: 有一种过度反应 https://t.co/4Dq8gjBNuT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048272347900366848"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2048272354066006153",
+        "created_at": "2026-04-26T05:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048272354066006153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Dq8gjBNuT",
+              "end": 31,
+              "expanded_url": "https://x.com/yixinbing2026/status/2048272354066006153/photo/1",
+              "media_key": "3_2048272347900366848",
+              "start": 8,
+              "url": "https://t.co/4Dq8gjBNuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048272354066006153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 17873,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 94,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有一种过度反应 https://t.co/4Dq8gjBNuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 286,
+          "like_count": 2956,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

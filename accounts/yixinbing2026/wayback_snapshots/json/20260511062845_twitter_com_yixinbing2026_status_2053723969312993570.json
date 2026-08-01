@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2026371579064758672",
+    "created_at": "2026-05-11T06:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053723969312993570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1832444441128529923",
+          "start": 0,
+          "username": "haha1122555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053723969312993570",
+    "in_reply_to_user_id": "1832444441128529923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052713494072729899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haha1122555 我不是门姐啊 另外照片都是我本人一个人😓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2026371579064758672",
+        "created_at": "2026-05-11T06:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053723969312993570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1832444441128529923",
+              "start": 0,
+              "username": "haha1122555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053723969312993570",
+        "in_reply_to_user_id": "1832444441128529923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052713494072729899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haha1122555 我不是门姐啊 另外照片都是我本人一个人😓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832444441128529923",
+        "conversation_id": "2026371579064758672",
+        "created_at": "2026-05-08T11:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052713494072729899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052713494072729899",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026371579064758672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 你这可以入门不，图片感觉有两个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 289,
+          "like_count": 3050,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T15:43:03.000Z",
+        "description": "",
+        "id": "1832444441128529923",
+        "name": "yquubs",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 581,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "haha1122555",
+        "verified": false
+      }
+    ]
+  }
+}

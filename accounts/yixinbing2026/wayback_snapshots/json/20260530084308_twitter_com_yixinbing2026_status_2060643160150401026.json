@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060633533258076160"
+      ],
+      "media_source_tweet_id": [
+        "2060633551377449086"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2060643160150401026",
+    "created_at": "2026-05-30T08:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060643160150401026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p8188EqUQc",
+          "end": 59,
+          "expanded_url": "https://x.com/yixinbing2026/status/2060633551377449086/photo/1",
+          "media_key": "3_2060633533258076160",
+          "start": 36,
+          "url": "https://t.co/p8188EqUQc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060643160150401026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060633551377449086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 旧图新发\n啊啊抱歉 高光太重了😧 https://t.co/p8188EqUQc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060633533258076160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjXR-IbEAA0Bi4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060633533258076160"
+          ],
+          "media_source_tweet_id": [
+            "2060633551377449086"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2060643160150401026",
+        "created_at": "2026-05-30T08:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060643160150401026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8188EqUQc",
+              "end": 59,
+              "expanded_url": "https://x.com/yixinbing2026/status/2060633551377449086/photo/1",
+              "media_key": "3_2060633533258076160",
+              "start": 36,
+              "url": "https://t.co/p8188EqUQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060643160150401026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060633551377449086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: 旧图新发\n啊啊抱歉 高光太重了😧 https://t.co/p8188EqUQc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060633533258076160"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2060633551377449086",
+        "created_at": "2026-05-30T08:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060633551377449086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8188EqUQc",
+              "end": 40,
+              "expanded_url": "https://x.com/yixinbing2026/status/2060633551377449086/photo/1",
+              "media_key": "3_2060633533258076160",
+              "start": 17,
+              "url": "https://t.co/p8188EqUQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060633551377449086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "旧图新发\n啊啊抱歉 高光太重了😧 https://t.co/p8188EqUQc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 316,
+          "like_count": 4263,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      }
+    ]
+  }
+}

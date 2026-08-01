@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2014652243518357563",
+    "created_at": "2026-01-25T11:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015381366050013534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004920236563382272",
+          "start": 0,
+          "username": "emowinter060606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015381366050013534",
+    "in_reply_to_user_id": "2004920236563382272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014652243518357563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emowinter060606 抱抱小宝 你是最棒的 多找找别人原因 能外耗就别内耗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2014652243518357563",
+        "created_at": "2026-01-25T11:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015381366050013534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004920236563382272",
+              "start": 0,
+              "username": "emowinter060606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015381366050013534",
+        "in_reply_to_user_id": "2004920236563382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014652243518357563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emowinter060606 抱抱小宝 你是最棒的 多找找别人原因 能外耗就别内耗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004920236563382272",
+        "conversation_id": "2014652243518357563",
+        "created_at": "2026-01-23T10:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T11:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014652243518357563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014652243518357563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的凭什么我这么惨，又丑又穷又胖，我跟我妈发信息她不理我，连续上了十一天班今天休息老板又让我临时加班，去死啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 33,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 62
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T14:20:19.000Z",
+        "description": "",
+        "id": "2004920236563382272",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015078793199984640/gKm2Q7F5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "username": "emowinter060606",
+        "verified": false
+      }
+    ]
+  }
+}

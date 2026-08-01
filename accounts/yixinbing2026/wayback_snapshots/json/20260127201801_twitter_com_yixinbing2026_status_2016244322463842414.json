@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016155699714392070"
+      ],
+      "media_source_tweet_id": [
+        "2016159573066055965"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2016244322463842414",
+    "created_at": "2026-01-27T20:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T21:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016244322463842414"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "genshinimpact",
+          "probability": 0.5482,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 27,
+          "tag": "genshinimpact"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "原神"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1261619083528683520",
+          "start": 3,
+          "username": "srro_yo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xTX9vPPMfO",
+          "end": 69,
+          "expanded_url": "https://x.com/srro_yo/status/2016159573066055965/photo/1",
+          "media_key": "3_2016155699714392070",
+          "start": 46,
+          "url": "https://t.co/xTX9vPPMfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016244322463842414",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016159573066055965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @srro_yo: Wriothesley🩸🫦 #genshinimpact #原神 https://t.co/xTX9vPPMfO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2016155699714392070",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rS7UVbAAY97W1.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016155699714392070"
+          ],
+          "media_source_tweet_id": [
+            "2016159573066055965"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2016244322463842414",
+        "created_at": "2026-01-27T20:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016244322463842414"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "genshinimpact",
+              "probability": 0.5482,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 27,
+              "tag": "genshinimpact"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "原神"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1261619083528683520",
+              "start": 3,
+              "username": "srro_yo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTX9vPPMfO",
+              "end": 69,
+              "expanded_url": "https://x.com/srro_yo/status/2016159573066055965/photo/1",
+              "media_key": "3_2016155699714392070",
+              "start": 46,
+              "url": "https://t.co/xTX9vPPMfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016244322463842414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016159573066055965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @srro_yo: Wriothesley🩸🫦 #genshinimpact #原神 https://t.co/xTX9vPPMfO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016155699714392070"
+          ]
+        },
+        "author_id": "1261619083528683520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2016159573066055965",
+        "created_at": "2026-01-27T14:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:05:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016150655703122176",
+          "2016159573066055965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "genshinimpact",
+              "probability": 0.5653,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 14,
+              "tag": "genshinimpact"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "原神"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTX9vPPMfO",
+              "end": 56,
+              "expanded_url": "https://x.com/srro_yo/status/2016159573066055965/photo/1",
+              "media_key": "3_2016155699714392070",
+              "start": 33,
+              "url": "https://t.co/xTX9vPPMfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016159573066055965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1558,
+          "impression_count": 85885,
+          "like_count": 16588,
+          "quote_count": 79,
+          "reply_count": 11,
+          "retweet_count": 2221
+        },
+        "reply_settings": "everyone",
+        "text": "Wriothesley🩸🫦 #genshinimpact #原神 https://t.co/xTX9vPPMfO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "🇨🇳装松弛感刷推 立场正确 皮下女生 我的冲浪一条线罢 10后",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016166797398220800/9ait4Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 49,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 92
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T11:27:17.000Z",
+        "description": "Vaalla \n\nPFP : @marimihoo\n\n❌ REPOST ❌ PRINT ❌ AI\n⭕ PFP ⭕ WALLPAPER \n\n※ CONTACT WORK: srro.yoo77@gmail.com ※\n※ ALL LINKS: https://t.co/VvIvzItrgI ※\n※ VGEN: ⬇ ※",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "marimihoo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/srro.yo",
+                "end": 144,
+                "expanded_url": "https://linktr.ee/srro.yo",
+                "start": 121,
+                "url": "https://t.co/VvIvzItrgI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/srro.yo/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/srro.yo/",
+                "start": 0,
+                "url": "https://t.co/3U2Sjv1TL4"
+              }
+            ]
+          }
+        },
+        "id": "1261619083528683520",
+        "location": "https://vgen.co/srro",
+        "name": "🫠",
+        "pinned_tweet_id": "2011061149324959859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932646882481782784/toEAUMNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219758,
+          "following_count": 777,
+          "like_count": 67292,
+          "listed_count": 1041,
+          "media_count": 297,
+          "tweet_count": 3432
+        },
+        "url": "https://t.co/3U2Sjv1TL4",
+        "username": "srro_yo",
+        "verified": true
+      }
+    ]
+  }
+}

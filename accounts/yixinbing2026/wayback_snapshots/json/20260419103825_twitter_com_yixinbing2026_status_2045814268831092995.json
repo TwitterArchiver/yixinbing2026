@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2045805595551506764",
+    "created_at": "2026-04-19T10:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045814268831092995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653712846943821824",
+          "start": 0,
+          "username": "Hkhcrownlove"
+        },
+        {
+          "end": 26,
+          "id": "2028814965965312001",
+          "start": 14,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045814268831092995",
+    "in_reply_to_user_id": "1653712846943821824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045811470911545573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hkhcrownlove @Miiharukawa 阿道夫清洁能力确实好控油也不错 但是很多人反馈洗了掉头发！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2045805595551506764",
+        "created_at": "2026-04-19T10:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045814268831092995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1653712846943821824",
+              "start": 0,
+              "username": "Hkhcrownlove"
+            },
+            {
+              "end": 26,
+              "id": "2028814965965312001",
+              "start": 14,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045814268831092995",
+        "in_reply_to_user_id": "1653712846943821824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045811470911545573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hkhcrownlove @Miiharukawa 阿道夫清洁能力确实好控油也不错 但是很多人反馈洗了掉头发！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653712846943821824",
+        "conversation_id": "2045805595551506764",
+        "created_at": "2026-04-19T10:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045811470911545573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045811470911545573",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045805595551506764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 宝宝宝宝  我用的是阿道夫的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "神临日期2010.10具体不说🤤\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 238,
+          "like_count": 1892,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T10:47:38.000Z",
+        "description": "候鸟不等风，独行自有星海相逢\n     ❣️4大于1",
+        "id": "1653712846943821824",
+        "name": "南亭晚",
+        "pinned_tweet_id": "1982683272632258725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044325633111797763/ry2ugyMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 66,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 6263
+        },
+        "username": "Hkhcrownlove",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 186,
+          "like_count": 5273,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 1833
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2015141125099786489",
+    "created_at": "2026-01-24T19:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T20:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015142150598734061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2003161930954080261",
+          "start": 0,
+          "username": "saveao168869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015142150598734061",
+    "in_reply_to_user_id": "2003161930954080261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015141941370065167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saveao168869 入机吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2240,
+        "media_key": "3_2015141932914110464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_c46UtW8AA9ysz.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2015141125099786489",
+        "created_at": "2026-01-24T19:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015142150598734061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2003161930954080261",
+              "start": 0,
+              "username": "saveao168869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015142150598734061",
+        "in_reply_to_user_id": "2003161930954080261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015141941370065167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saveao168869 入机吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015141932914110464"
+          ]
+        },
+        "author_id": "2003161930954080261",
+        "conversation_id": "2015141125099786489",
+        "created_at": "2026-01-24T19:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015141941370065167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eH5zJoABTo",
+              "end": 42,
+              "expanded_url": "https://x.com/saveao168869/status/2015141941370065167/photo/1",
+              "media_key": "3_2015141932914110464",
+              "start": 19,
+              "url": "https://t.co/eH5zJoABTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015141941370065167",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015141125099786489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 陪一根 https://t.co/eH5zJoABTo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 32,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T17:53:38.000Z",
+        "description": "",
+        "id": "2003161930954080261",
+        "name": "saveao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014742906951942144/fnff819l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "saveao168869",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2055604814143262890",
+    "created_at": "2026-05-16T14:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055650377954197704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903656802820239360",
+          "start": 0,
+          "username": "ting05x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055650377954197704",
+    "in_reply_to_user_id": "1903656802820239360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055604814143262890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ting05x 媳妇 我无偿给你打 充1600打到1000 1000打到500那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2055604814143262890",
+        "created_at": "2026-05-16T14:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055650377954197704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903656802820239360",
+              "start": 0,
+              "username": "ting05x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055650377954197704",
+        "in_reply_to_user_id": "1903656802820239360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055604814143262890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ting05x 媳妇 我无偿给你打 充1600打到1000 1000打到500那种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903656802820239360",
+        "conversation_id": "2055604814143262890",
+        "created_at": "2026-05-16T11:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055604814143262890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055604814143262890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼巅峰1600包时80你咋不去抢呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "重开日期2010.10 成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 305,
+          "like_count": 3329,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T03:55:37.000Z",
+        "description": "爱我先打钱",
+        "id": "1903656802820239360",
+        "name": "宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048469953175764992/d0DROQgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 23,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 546
+        },
+        "username": "ting05x",
+        "verified": false
+      }
+    ]
+  }
+}

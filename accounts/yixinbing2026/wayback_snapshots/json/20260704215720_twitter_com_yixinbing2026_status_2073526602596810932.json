@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2073252039719780778",
+    "created_at": "2026-07-04T21:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T22:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073526602596810932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2071951997536722944",
+          "start": 0,
+          "username": "Hdhhecb"
+        },
+        {
+          "end": 19,
+          "id": "1876173686035943424",
+          "start": 9,
+          "username": "kittyss02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073526602596810932",
+    "in_reply_to_user_id": "2071951997536722944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073475107268493647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hdhhecb @kittyss02 死吗骗子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2073252039719780778",
+        "created_at": "2026-07-04T21:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073526602596810932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2071951997536722944",
+              "start": 0,
+              "username": "Hdhhecb"
+            },
+            {
+              "end": 19,
+              "id": "1876173686035943424",
+              "start": 9,
+              "username": "kittyss02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073526602596810932",
+        "in_reply_to_user_id": "2071951997536722944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073475107268493647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hdhhecb @kittyss02 死吗骗子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071951997536722944",
+        "conversation_id": "2073252039719780778",
+        "created_at": "2026-07-04T18:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073475107268493647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1876173686035943424",
+              "start": 0,
+              "username": "kittyss02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073475107268493647",
+        "in_reply_to_user_id": "1876173686035943424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073252039719780778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittyss02 做项目的来找我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 od但不经常餐 找我聊天不想被限流了！独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们 小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 345,
+          "like_count": 4997,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2079
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-30T13:41:31.000Z",
+        "description": "",
+        "id": "2071951997536722944",
+        "name": "Hdh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071952445962371072/eXIGxnF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 37,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Hdhhecb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T07:47:37.000Z",
+        "description": "前矿工｜诗人｜现在苟在币圈｜股票\nWEEX注册永久70%返佣：https://t.co/GQDytRAQJk \nOKX注册永久30%返佣：https://t.co/kiPH9jIOB0\n\n广告推广及商务合作联系V：V3322400000",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wedomxx.site/register?vipCo…",
+                "end": 54,
+                "expanded_url": "https://wedomxx.site/register?vipCode=daup",
+                "start": 31,
+                "url": "https://t.co/GQDytRAQJk"
+              },
+              {
+                "display_url": "promooboost.com/join/BTC555555…",
+                "end": 92,
+                "expanded_url": "https://www.promooboost.com/join/BTC55555555",
+                "start": 69,
+                "url": "https://t.co/kiPH9jIOB0"
+              }
+            ]
+          }
+        },
+        "id": "1876173686035943424",
+        "name": "繁华似锦",
+        "pinned_tweet_id": "2029232170280394871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896465789198462976/oW30tY0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20792,
+          "following_count": 18902,
+          "like_count": 9532,
+          "listed_count": 15,
+          "media_count": 1186,
+          "tweet_count": 13037
+        },
+        "url": "",
+        "username": "kittyss02",
+        "verified": true
+      }
+    ]
+  }
+}

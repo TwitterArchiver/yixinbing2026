@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2016157162935091353",
+    "created_at": "2026-01-27T14:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T15:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016157162935091353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbjk666/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/bbjk666/status/2016008272609001629",
+          "start": 8,
+          "url": "https://t.co/o21t4vEYPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016157162935091353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016008272609001629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窒息感涌跃而上 https://t.co/o21t4vEYPf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11366,
+        "height": 1156,
+        "media_key": "7_2016008149577400320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016008149577400320/pu/img/Bd1S2TcJ5ab1X8RV.jpg",
+        "public_metrics": {
+          "view_count": 192406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016008149577400320/pu/vid/avc1/320x512/zwBL4aCagwyP3RlH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016008149577400320/pu/vid/avc1/480x770/_Qklsr2PHQorgdNK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016008149577400320/pu/vid/avc1/720x1156/OShuNS-q3L-dho3U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016008149577400320/pu/pl/D8rlUXEug393aOOs.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2016157162935091353",
+        "created_at": "2026-01-27T14:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016157162935091353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbjk666/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/bbjk666/status/2016008272609001629",
+              "start": 8,
+              "url": "https://t.co/o21t4vEYPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016157162935091353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016008272609001629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窒息感涌跃而上 https://t.co/o21t4vEYPf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016008149577400320"
+          ]
+        },
+        "author_id": "2893886738",
+        "conversation_id": "2016008272609001629",
+        "created_at": "2026-01-27T04:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016008272609001629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mg7qr6Ayji",
+              "end": 154,
+              "expanded_url": "https://x.com/bbjk666/status/2016008272609001629/video/1",
+              "media_key": "7_2016008149577400320",
+              "start": 131,
+              "url": "https://t.co/Mg7qr6Ayji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016008272609001629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 300545,
+          "like_count": 223,
+          "quote_count": 9,
+          "reply_count": 126,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸怀疑女儿用纸巾擦头发，暴力打砸\n\n1月26日报道，广东。爸爸看到女儿头发上有头屑，爸爸说女儿是用纸巾擦的头发，女儿说是用毛巾擦的，暴躁的爸爸开始砸吹风机，砸椅子，吓得孩子赶紧跑到房间里去。\n\n提示：“暴力”行为会对孩子心理发展和未来的情感关系产生深远影响。 https://t.co/Mg7qr6Ayji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 48,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 83
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T15:19:57.000Z",
+        "description": "不看病、不卖药，如有不身体适，请尽快就医。分享的内容源自网络，侵删。点赞=已阅。 ⭐不要相信山寨我的账号和评论区非官方广告❗️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bbyk168?si=wH…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bbyk168?si=wHK9ZVOdMVrGbHS3",
+                "start": 0,
+                "url": "https://t.co/XQRiJuIoM9"
+              }
+            ]
+          }
+        },
+        "id": "2893886738",
+        "location": "X平台",
+        "name": "背包健客",
+        "pinned_tweet_id": "1881289880040542535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817918441044807680/hKAVDYHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173409,
+          "following_count": 1783,
+          "like_count": 16613,
+          "listed_count": 644,
+          "media_count": 13485,
+          "tweet_count": 18686
+        },
+        "url": "https://t.co/XQRiJuIoM9",
+        "username": "bbjk666",
+        "verified": true
+      }
+    ]
+  }
+}

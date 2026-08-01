@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2028941802821304427",
+    "created_at": "2026-03-04T04:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029045335805575412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769334388746244096",
+          "start": 0,
+          "username": "smoke_33bae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029045335805575412",
+    "in_reply_to_user_id": "1769334388746244096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029028590428537151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smoke_33bae 我还没出社会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2028941802821304427",
+        "created_at": "2026-03-04T04:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029045335805575412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769334388746244096",
+              "start": 0,
+              "username": "smoke_33bae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029045335805575412",
+        "in_reply_to_user_id": "1769334388746244096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029028590428537151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smoke_33bae 我还没出社会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769334388746244096",
+        "conversation_id": "2028941802821304427",
+        "created_at": "2026-03-04T02:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029028590428537151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029028590428537151",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028941802821304427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 没工作焦虑想走歪路嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者  没门槛不随便加微信 我不约 我随便发的 我是女的我不约",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 88,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T12:06:24.000Z",
+        "description": "珠海",
+        "id": "1769334388746244096",
+        "name": "叔叔别拉了我害怕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769334908491829248/zhL6pTa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 115,
+          "like_count": 1146,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "smoke_33bae",
+        "verified": false
+      }
+    ]
+  }
+}

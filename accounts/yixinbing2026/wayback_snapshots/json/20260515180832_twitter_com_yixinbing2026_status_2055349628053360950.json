@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2055337697682825444",
+    "created_at": "2026-05-15T18:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055349628053360950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606676637612773376",
+          "start": 0,
+          "username": "FaIIen_Dream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055349628053360950",
+    "in_reply_to_user_id": "1606676637612773376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055337697682825444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FaIIen_Dream 没我忧郁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055337682700754946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYGu5baYAI0qw1.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2055337697682825444",
+        "created_at": "2026-05-15T18:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055349628053360950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606676637612773376",
+              "start": 0,
+              "username": "FaIIen_Dream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055349628053360950",
+        "in_reply_to_user_id": "1606676637612773376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055337697682825444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FaIIen_Dream 没我忧郁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055337682700754946"
+          ]
+        },
+        "author_id": "1606676637612773376",
+        "conversation_id": "2055337697682825444",
+        "created_at": "2026-05-15T17:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055337697682825444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5z9VDpRlT",
+              "end": 23,
+              "expanded_url": "https://x.com/FaIIen_Dream/status/2055337697682825444/photo/1",
+              "media_key": "3_2055337682700754946",
+              "start": 0,
+              "url": "https://t.co/o5z9VDpRlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055337697682825444",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o5z9VDpRlT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "重开日期2010.10 成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 299,
+          "like_count": 3285,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1379
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T15:42:58.000Z",
+        "description": "",
+        "id": "1606676637612773376",
+        "location": "华亭云间",
+        "name": "落下无梦",
+        "pinned_tweet_id": "1817196844721590526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938644295956996096/-5_RhSev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 71,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 119
+        },
+        "username": "FaIIen_Dream",
+        "verified": false
+      }
+    ]
+  }
+}

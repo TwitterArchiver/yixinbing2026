@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2024414161632203061",
+    "created_at": "2026-02-20T18:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T19:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024912124733182143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "803040718876835841",
+          "start": 0,
+          "username": "buaaxhm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024912124733182143",
+    "in_reply_to_user_id": "803040718876835841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024414161632203061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buaaxhm 10后也是一样 接受这种思想 但是长大自己会明白 尊重 世界和平是最好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2024414161632203061",
+        "created_at": "2026-02-20T18:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024912124733182143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "803040718876835841",
+              "start": 0,
+              "username": "buaaxhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024912124733182143",
+        "in_reply_to_user_id": "803040718876835841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024414161632203061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buaaxhm 10后也是一样 接受这种思想 但是长大自己会明白 尊重 世界和平是最好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "803040718876835841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2024414161632203061",
+        "created_at": "2026-02-19T09:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024414161632203061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024414161632203061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 438351,
+          "like_count": 4031,
+          "quote_count": 22,
+          "reply_count": 565,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "现在的教育太可怕了\n\n我给我五岁的侄女吃从香港带的零食\n\n然后顺带说了这都是日本产的，本意是想说质量应该有保证\n\n然后我的侄女说\n\n我不吃日本的东西\n\n我们要打败日本\n\n我就震惊了\n一个五岁的孩子\n你们学校里都教的什么东西啊？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "偶而看看",
+        "name": "疑心病",
+        "pinned_tweet_id": "2017318014472097921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 68,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 133
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-28T01:00:01.000Z",
+        "description": "会点开发，Go、Python、Node、Js、Typescript。 新口头禅：向AI讨口饭吃。本推特主要是发点生活日常、段子，所有想法仅代表个人观点。与公司立场无关！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/hongmaoxiao",
+                "end": 23,
+                "expanded_url": "https://github.com/hongmaoxiao",
+                "start": 0,
+                "url": "https://t.co/vn18Xyo09B"
+              }
+            ]
+          }
+        },
+        "id": "803040718876835841",
+        "location": "Beijing",
+        "name": "supermao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864898092417568768/Xc94S79n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14895,
+          "following_count": 4340,
+          "like_count": 16983,
+          "listed_count": 120,
+          "media_count": 1473,
+          "tweet_count": 12754
+        },
+        "url": "https://t.co/vn18Xyo09B",
+        "username": "buaaxhm",
+        "verified": true
+      }
+    ]
+  }
+}

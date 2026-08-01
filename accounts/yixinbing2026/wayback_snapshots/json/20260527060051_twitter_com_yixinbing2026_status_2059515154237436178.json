@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2059506525958525384",
+    "created_at": "2026-05-27T06:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059515154237436178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1560456062343737344",
+          "start": 0,
+          "username": "L__092_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059515154237436178",
+    "in_reply_to_user_id": "1560456062343737344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059506525958525384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L__092_ 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2059506525958525384",
+        "created_at": "2026-05-27T06:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059515154237436178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1560456062343737344",
+              "start": 0,
+              "username": "L__092_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059515154237436178",
+        "in_reply_to_user_id": "1560456062343737344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059506525958525384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L__092_ 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560456062343737344",
+        "conversation_id": "2059506525958525384",
+        "created_at": "2026-05-27T05:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059506525958525384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059506525958525384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们不要骂那些小人机了。。每天除了他们给我评论私信我都没人找我了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 315,
+          "like_count": 4135,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T02:38:29.000Z",
+        "description": "温青  \n\n    v🚪58/138 眼熟回关",
+        "id": "1560456062343737344",
+        "location": "万语难尽涩于口",
+        "name": "忆恋",
+        "pinned_tweet_id": "2025573562824945875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969374041829228573/0lLjsfiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 161,
+          "like_count": 3044,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 496
+        },
+        "username": "L__092_",
+        "verified": false
+      }
+    ]
+  }
+}

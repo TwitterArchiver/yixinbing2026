@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2029427652843716833",
+    "created_at": "2026-03-05T07:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T08:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029459018603958459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1921946647208112128",
+          "start": 0,
+          "username": "ly18801260864"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029459018603958459",
+    "in_reply_to_user_id": "1921946647208112128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029458631100616921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ly18801260864 去了就好了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2029427652843716833",
+        "created_at": "2026-03-05T07:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029459018603958459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1921946647208112128",
+              "start": 0,
+              "username": "ly18801260864"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029459018603958459",
+        "in_reply_to_user_id": "1921946647208112128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029458631100616921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ly18801260864 去了就好了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921946647208112128",
+        "conversation_id": "2029427652843716833",
+        "created_at": "2026-03-05T07:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029458631100616921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029458631100616921",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029434170347536529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 不是啊，就是一种心情，想去又不想去🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者 没门槛 不随便加微信 我不约 我随便发的 我是女的我不约 看成分回关 我不圈钱也不性骚扰的 不要恶意揣测我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 128,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T15:12:56.000Z",
+        "description": "enfj 皮下不要骚扰我，机器人也是gun",
+        "id": "1921946647208112128",
+        "location": "zhengzhou",
+        "name": "Bi8bo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922706094394052608/H_wmi0C6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 192,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 466
+        },
+        "username": "ly18801260864",
+        "verified": false
+      }
+    ]
+  }
+}

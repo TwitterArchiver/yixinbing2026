@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016058437336236037"
+      ],
+      "media_source_tweet_id": [
+        "2016058546396529032"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2016167765879771147",
+    "created_at": "2026-01-27T15:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016167765879771147"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "columbina",
+          "probability": 0.4907,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1290324287597903877",
+          "start": 3,
+          "username": "PluviumG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7TeIk66R9",
+          "end": 47,
+          "expanded_url": "https://x.com/PluviumG/status/2016058546396529032/photo/1",
+          "media_key": "3_2016058437336236037",
+          "start": 24,
+          "url": "https://t.co/U7TeIk66R9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016167765879771147",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2731
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016058546396529032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PluviumG: columbina https://t.co/U7TeIk66R9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2016058437336236037",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_p6d5vbAAUIGhP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016058437336236037"
+          ],
+          "media_source_tweet_id": [
+            "2016058546396529032"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2016167765879771147",
+        "created_at": "2026-01-27T15:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016167765879771147"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "columbina",
+              "probability": 0.4907,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1290324287597903877",
+              "start": 3,
+              "username": "PluviumG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7TeIk66R9",
+              "end": 47,
+              "expanded_url": "https://x.com/PluviumG/status/2016058546396529032/photo/1",
+              "media_key": "3_2016058437336236037",
+              "start": 24,
+              "url": "https://t.co/U7TeIk66R9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016167765879771147",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2731
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016058546396529032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PluviumG: columbina https://t.co/U7TeIk66R9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016058437336236037"
+          ]
+        },
+        "author_id": "1290324287597903877",
+        "conversation_id": "2016058546396529032",
+        "created_at": "2026-01-27T07:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016058546396529032"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "columbina",
+              "probability": 0.3473,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7TeIk66R9",
+              "end": 33,
+              "expanded_url": "https://x.com/PluviumG/status/2016058546396529032/photo/1",
+              "media_key": "3_2016058437336236037",
+              "start": 10,
+              "url": "https://t.co/U7TeIk66R9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016058546396529032",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1175,
+          "impression_count": 107966,
+          "like_count": 19985,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 2731
+        },
+        "reply_settings": "everyone",
+        "text": "columbina https://t.co/U7TeIk66R9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "装松弛感刷推 立场正确🇨🇳 皮下女生 我的冲浪一条线罢 10后",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016166797398220800/9ait4Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 49,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 86
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-03T16:31:04.000Z",
+        "description": "@ https://t.co/xU2xlEnj7c\nThird rate artist with a fourth rate brush\nhttps://t.co/4yD2BK28YI commission: https://t.co/wNyVfuqnrz\nNo AI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pluvium.bsky.social",
+                "end": 25,
+                "expanded_url": "http://pluvium.bsky.social",
+                "start": 2,
+                "url": "https://t.co/xU2xlEnj7c"
+              },
+              {
+                "display_url": "linktr.ee/pluvium",
+                "end": 92,
+                "expanded_url": "http://linktr.ee/pluvium",
+                "start": 69,
+                "url": "https://t.co/4yD2BK28YI"
+              },
+              {
+                "display_url": "vgen.co/PLGR",
+                "end": 128,
+                "expanded_url": "https://vgen.co/PLGR",
+                "start": 105,
+                "url": "https://t.co/wNyVfuqnrz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "coloso.global/en/products/il…",
+                "end": 23,
+                "expanded_url": "https://coloso.global/en/products/illustrator-pluvium-us",
+                "start": 0,
+                "url": "https://t.co/sIP7klMNLK"
+              }
+            ]
+          }
+        },
+        "id": "1290324287597903877",
+        "location": "everywhere",
+        "name": "PLGR",
+        "pinned_tweet_id": "1901873360965148850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577700135902904320/Wx1PyhEm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193480,
+          "following_count": 67,
+          "like_count": 1493,
+          "listed_count": 1097,
+          "media_count": 2115,
+          "tweet_count": 3887
+        },
+        "url": "https://t.co/sIP7klMNLK",
+        "username": "PluviumG",
+        "verified": false
+      }
+    ]
+  }
+}

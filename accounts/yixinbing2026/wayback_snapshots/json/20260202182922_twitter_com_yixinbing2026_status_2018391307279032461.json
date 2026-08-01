@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018391297292374016"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2018391307279032461",
+    "created_at": "2026-02-02T18:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T19:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018391307279032461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yYq89DGL2w",
+          "end": 34,
+          "expanded_url": "https://x.com/yixinbing2026/status/2018391307279032461/photo/1",
+          "media_key": "3_2018391297292374016",
+          "start": 11,
+          "url": "https://t.co/yYq89DGL2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018391307279032461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这首歌会把我拉到小学 https://t.co/yYq89DGL2w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018391297292374016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALEMOTaEAAJ1IY.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018391297292374016"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2018391307279032461",
+        "created_at": "2026-02-02T18:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018391307279032461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYq89DGL2w",
+              "end": 34,
+              "expanded_url": "https://x.com/yixinbing2026/status/2018391307279032461/photo/1",
+              "media_key": "3_2018391297292374016",
+              "start": 11,
+              "url": "https://t.co/yYq89DGL2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018391307279032461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这首歌会把我拉到小学 https://t.co/yYq89DGL2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我珍惜妳的方式錯了嗎",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "pinned_tweet_id": "2017318014472097921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017315538603839488/70k3GEnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 65,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 108
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

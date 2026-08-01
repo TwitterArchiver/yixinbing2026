@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2051000967961989157",
+    "created_at": "2026-05-04T06:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T07:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051181054451691879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926702744036917248",
+          "start": 0,
+          "username": "ziykxkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051181054451691879",
+    "in_reply_to_user_id": "1926702744036917248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051000967961989157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziykxkl 一个月能掏十万的人 门槛几百都没有 还用说吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051000962106736640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHaegiRbQAANFH9.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051000962089955328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHaegiNbMAAFv4S.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2051000967961989157",
+        "created_at": "2026-05-04T06:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051181054451691879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926702744036917248",
+              "start": 0,
+              "username": "ziykxkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051181054451691879",
+        "in_reply_to_user_id": "1926702744036917248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051000967961989157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziykxkl 一个月能掏十万的人 门槛几百都没有 还用说吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051000962106736640",
+            "3_2051000962089955328"
+          ]
+        },
+        "author_id": "1926702744036917248",
+        "conversation_id": "2051000967961989157",
+        "created_at": "2026-05-03T18:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051000967961989157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ki4IFh6iAo",
+              "end": 62,
+              "expanded_url": "https://x.com/ziykxkl/status/2051000967961989157/photo/1",
+              "media_key": "3_2051000962106736640",
+              "start": 39,
+              "url": "https://t.co/ki4IFh6iAo"
+            },
+            {
+              "display_url": "pic.x.com/ki4IFh6iAo",
+              "end": 62,
+              "expanded_url": "https://x.com/ziykxkl/status/2051000967961989157/photo/1",
+              "media_key": "3_2051000962089955328",
+              "start": 39,
+              "url": "https://t.co/ki4IFh6iAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051000967961989157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家小心这个骗子 骗认证然后加微信又发语音 结果一直不发门槛费又要骗线下才发 https://t.co/ki4IFh6iAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢Karina！！\n没啥用的次号@fushishanxia121\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（神临版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 276,
+          "like_count": 2714,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1139
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T18:11:56.000Z",
+        "description": "双相情感障碍 这里是重生七次的虾仁/这个命你就欺负我吧💔/主页日常更新穿搭和妆造偶尔心情好掉落擦边/这个x求你放过我吧 🚪288好友位388掉落生活照520掉落裸照888 1314求礼貌的门哥过门/求你了黑叉别让我再转生第八次了😿欢迎女宝找我互fo互转 像我匿名提问https://t.co/W3CVMjErGg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaren1",
+                "end": 156,
+                "expanded_url": "https://ngl.link/xiaren1",
+                "start": 133,
+                "url": "https://t.co/W3CVMjErGg"
+              }
+            ]
+          }
+        },
+        "id": "1926702744036917248",
+        "location": "距离1.4km",
+        "name": "ziy",
+        "pinned_tweet_id": "2039643856724181102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039548018719182848/1fCLjrCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 102,
+          "like_count": 482,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 228
+        },
+        "username": "ziykxkl",
+        "verified": false
+      }
+    ]
+  }
+}

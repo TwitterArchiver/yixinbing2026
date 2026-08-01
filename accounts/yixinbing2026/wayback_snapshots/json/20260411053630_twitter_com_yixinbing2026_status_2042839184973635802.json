@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2042835771120578914",
+    "created_at": "2026-04-11T05:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042839184973635802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015353191219789824",
+          "start": 0,
+          "username": "Maybe1739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042839184973635802",
+    "in_reply_to_user_id": "2015353191219789824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042839019797778752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maybe1739 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2042835771120578914",
+        "created_at": "2026-04-11T05:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042839184973635802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015353191219789824",
+              "start": 0,
+              "username": "Maybe1739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042839184973635802",
+        "in_reply_to_user_id": "2015353191219789824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042839019797778752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maybe1739 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015353191219789824",
+        "conversation_id": "2042835771120578914",
+        "created_at": "2026-04-11T05:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042839019797778752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042839019797778752",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042837875470012634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 失恋了就去感受生活，压力大了就放弃大脑歇一会儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "你想知道什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 190,
+          "like_count": 1442,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T09:17:15.000Z",
+        "description": "无人在意纯玩，brat（不必理会）\nhttps://t.co/V6swhvqGR0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/adsia999",
+                "end": 41,
+                "expanded_url": "https://ngl.link/adsia999",
+                "start": 18,
+                "url": "https://t.co/V6swhvqGR0"
+              }
+            ]
+          }
+        },
+        "id": "2015353191219789824",
+        "name": "Mallon Boll",
+        "pinned_tweet_id": "2041034464034521558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039424479491977216/bcYiON7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 130
+        },
+        "username": "Maybe1739",
+        "verified": false
+      }
+    ]
+  }
+}

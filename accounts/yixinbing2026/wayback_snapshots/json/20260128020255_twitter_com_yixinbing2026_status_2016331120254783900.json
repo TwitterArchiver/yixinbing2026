@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2016202613294039347",
+    "created_at": "2026-01-28T02:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T03:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016331120254783900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971947225719971840",
+          "start": 0,
+          "username": "xiang_long99072"
+        },
+        {
+          "end": 29,
+          "id": "1291988176496545792",
+          "start": 17,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016331120254783900",
+    "in_reply_to_user_id": "1971947225719971840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016330911156215946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiang_long99072 @Vox35112635 我认为有的 我一直都是夹腿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2016202613294039347",
+        "created_at": "2026-01-28T02:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T03:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016331120254783900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971947225719971840",
+              "start": 0,
+              "username": "xiang_long99072"
+            },
+            {
+              "end": 29,
+              "id": "1291988176496545792",
+              "start": 17,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016331120254783900",
+        "in_reply_to_user_id": "1971947225719971840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016330911156215946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiang_long99072 @Vox35112635 我认为有的 我一直都是夹腿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971947225719971840",
+        "conversation_id": "2016202613294039347",
+        "created_at": "2026-01-28T02:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T03:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016330911156215946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 27,
+              "id": "1291988176496545792",
+              "start": 15,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016330911156215946",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016203185048936917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 @Vox35112635 夹腿也会有快感吗好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "🇨🇳装松弛感刷推 立场正确 皮下女生 我的冲浪一条线罢 10后",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016166797398220800/9ait4Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 49,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 93
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T14:37:53.000Z",
+        "description": "",
+        "id": "1971947225719971840",
+        "name": "张龙翔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971947406150586370/KLEwXGyT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "xiang_long99072",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上纯绿色交友委托/如果谎称投稿人私下联系你们请找我确认防止被骗/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/算卦找@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "2003364757957673187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281271,
+          "following_count": 532,
+          "like_count": 484,
+          "listed_count": 321,
+          "media_count": 11246,
+          "tweet_count": 16309
+        },
+        "username": "Vox35112635",
+        "verified": true
+      }
+    ]
+  }
+}

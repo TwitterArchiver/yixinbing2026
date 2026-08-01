@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2059595522130993376",
+    "created_at": "2026-05-27T14:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059636569733280097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041140932343652352",
+          "start": 0,
+          "username": "Liudisq5qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059636569733280097",
+    "in_reply_to_user_id": "2041140932343652352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059630597220561383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liudisq5qy 有点炸裂啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2059595522130993376",
+        "created_at": "2026-05-27T14:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059636569733280097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041140932343652352",
+              "start": 0,
+              "username": "Liudisq5qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059636569733280097",
+        "in_reply_to_user_id": "2041140932343652352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059630597220561383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liudisq5qy 有点炸裂啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041140932343652352",
+        "conversation_id": "2059595522130993376",
+        "created_at": "2026-05-27T13:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059630597220561383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059630597220561383",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059600766600708146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 老婆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 317,
+          "like_count": 4175,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1804
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T13:08:39.000Z",
+        "description": "我没明星瘾我就是个普女别神化我\n小号@Jiangyuqing08 \n闺蜜@ezimiD181155  \n友跨/顺女/od/自伤/女初/泛性恋/偏s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Jiangyuqing08"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "ezimiD181155"
+              }
+            ]
+          }
+        },
+        "id": "2041140932343652352",
+        "name": "Liu",
+        "pinned_tweet_id": "2059631863778701554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047566740209700864/mOu8UD31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 7,
+          "like_count": 875,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 452
+        },
+        "username": "Liudisq5qy",
+        "verified": false
+      }
+    ]
+  }
+}

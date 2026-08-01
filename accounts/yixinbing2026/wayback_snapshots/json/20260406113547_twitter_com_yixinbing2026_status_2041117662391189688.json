@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2041031944037884130",
+    "created_at": "2026-04-06T11:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041117662391189688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836735399735296000",
+          "start": 0,
+          "username": "Jazzey180"
+        },
+        {
+          "end": 26,
+          "id": "1243590342911410176",
+          "start": 11,
+          "username": "bing2000100830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041117662391189688",
+    "in_reply_to_user_id": "1836735399735296000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041091840053801229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jazzey180 @bing2000100830 包装也好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2041031944037884130",
+        "created_at": "2026-04-06T11:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041117662391189688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836735399735296000",
+              "start": 0,
+              "username": "Jazzey180"
+            },
+            {
+              "end": 26,
+              "id": "1243590342911410176",
+              "start": 11,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041117662391189688",
+        "in_reply_to_user_id": "1836735399735296000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041091840053801229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jazzey180 @bing2000100830 包装也好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836735399735296000",
+        "conversation_id": "2041031944037884130",
+        "created_at": "2026-04-06T09:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041091840053801229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041091840053801229",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1306,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041031944037884130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 中南海蓝莓还挺好抽的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没门槛 不加联系方式 约炮别来找我 处对象别来找我 暴露癖不要找我 精虫上脑别找我 线下查无此人 我不圈钱 不要恶意揣测我了 不熟别给我开恶俗玩笑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 168,
+          "like_count": 1237,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T11:53:53.000Z",
+        "description": "互联网看个乐呵就行 发着玩玩",
+        "id": "1836735399735296000",
+        "location": "North Carolina, USA",
+        "name": "sweetpoetry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012168793674694657/h6vqcHZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 31,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 552
+        },
+        "username": "Jazzey180",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040864556344578048/kDCpXQPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 805,
+          "like_count": 27076,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1640
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

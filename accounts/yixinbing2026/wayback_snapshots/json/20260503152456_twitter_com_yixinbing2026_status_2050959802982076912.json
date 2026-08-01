@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2050944928340115620",
+    "created_at": "2026-05-03T15:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050959802982076912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1991976361356124160",
+          "start": 0,
+          "username": "YUANccorz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050959802982076912",
+    "in_reply_to_user_id": "1991976361356124160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050944928340115620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUANccorz 画饼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2050944928340115620",
+        "created_at": "2026-05-03T15:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050959802982076912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1991976361356124160",
+              "start": 0,
+              "username": "YUANccorz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050959802982076912",
+        "in_reply_to_user_id": "1991976361356124160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050944928340115620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUANccorz 画饼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991976361356124160",
+        "conversation_id": "2050944928340115620",
+        "created_at": "2026-05-03T14:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050944928340115620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050944928340115620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果做不到的话说出承诺的意义又是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢Karina！！\n没啥用的次号@fushishanxia121\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（神临版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 278,
+          "like_count": 2677,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T21:05:55.000Z",
+        "description": "事缓则圆 是缘总会圆",
+        "id": "1991976361356124160",
+        "location": "小狗男你把我毁了",
+        "name": "小缘",
+        "pinned_tweet_id": "2044986078655132011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035100921076822016/UOhIxsI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 88,
+          "like_count": 7914,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1660
+        },
+        "username": "YUANccorz",
+        "verified": false
+      }
+    ]
+  }
+}

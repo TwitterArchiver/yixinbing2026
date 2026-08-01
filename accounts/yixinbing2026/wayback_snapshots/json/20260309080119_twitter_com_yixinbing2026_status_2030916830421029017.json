@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2030678992647586075",
+    "created_at": "2026-03-09T08:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T09:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030916830421029017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894387376858042368",
+          "start": 0,
+          "username": "sbynb88668057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030916830421029017",
+    "in_reply_to_user_id": "1894387376858042368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030678992647586075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sbynb88668057 推特没有蓝v 每天刷推发推有限制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2030678992647586075",
+        "created_at": "2026-03-09T08:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030916830421029017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894387376858042368",
+              "start": 0,
+              "username": "sbynb88668057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030916830421029017",
+        "in_reply_to_user_id": "1894387376858042368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030678992647586075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sbynb88668057 推特没有蓝v 每天刷推发推有限制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894387376858042368",
+        "conversation_id": "2030678992647586075",
+        "created_at": "2026-03-08T16:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030678992647586075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030678992647586075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在软件上发不了推了。怎么回事有人遇见这种情况吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没门槛 不随便加微信 我不约 直女 看成分回关 我不圈钱也不性骚扰的 不要恶意揣测我 支持我不会辜负大家的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 145,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T14:02:08.000Z",
+        "description": "不知道来干嘛，就随便发一些奇奇怪怪的。",
+        "id": "1894387376858042368",
+        "location": "四川省",
+        "name": "ʕ ᵔᴥᵔ ʔ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894387829112729600/YkqE6mfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 19,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 84
+        },
+        "username": "sbynb88668057",
+        "verified": false
+      }
+    ]
+  }
+}

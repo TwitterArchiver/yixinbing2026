@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2059805239742750786",
+    "created_at": "2026-05-29T12:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060333207372075411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016194044280324096",
+          "start": 0,
+          "username": "Mint0v033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060333207372075411",
+    "in_reply_to_user_id": "2016194044280324096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060332344754516147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mint0v033 我去 我这几天早上都水肿 难怪呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2059805239742750786",
+        "created_at": "2026-05-29T12:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060333207372075411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016194044280324096",
+              "start": 0,
+              "username": "Mint0v033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060333207372075411",
+        "in_reply_to_user_id": "2016194044280324096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060332344754516147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mint0v033 我去 我这几天早上都水肿 难怪呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016194044280324096",
+        "conversation_id": "2059805239742750786",
+        "created_at": "2026-05-29T12:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060332344754516147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060332344754516147",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059805239742750786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 没有吧我不怎么耐药之前连续o都还好 加大剂量就行了 但是每次o完都水肿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 317,
+          "like_count": 4253,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1828
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T16:59:30.000Z",
+        "description": "薄荷 06 贪食ed 52vx/88聊天/188 分享日常谢谢你的观看 不接线下不11 请不要骚扰我 只回复口令 女孩可以和我互动互fo谢谢\n日常小号@MintOwOill",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "MintOwOill"
+              }
+            ]
+          }
+        },
+        "id": "2016194044280324096",
+        "location": "别骂我行吗",
+        "name": "薄荷",
+        "pinned_tweet_id": "2022043730619040086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041948043289690112/bFJDIH2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3412,
+          "following_count": 4,
+          "like_count": 181,
+          "listed_count": 5,
+          "media_count": 187,
+          "tweet_count": 1025
+        },
+        "username": "Mint0v033",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2057818149303833082",
+    "created_at": "2026-05-22T17:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057881691105186099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016194044280324096",
+          "start": 0,
+          "username": "Mint0v033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057881691105186099",
+    "in_reply_to_user_id": "2016194044280324096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057873355227746744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mint0v033 我不知道呀 这是商家的…到付"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2057818149303833082",
+        "created_at": "2026-05-22T17:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057881691105186099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016194044280324096",
+              "start": 0,
+              "username": "Mint0v033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057881691105186099",
+        "in_reply_to_user_id": "2016194044280324096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057873355227746744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mint0v033 我不知道呀 这是商家的…到付"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016194044280324096",
+        "conversation_id": "2057818149303833082",
+        "created_at": "2026-05-22T17:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057873355227746744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057873355227746744",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057825299321225704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 不是顺丰也有便宜的呀各种软件新人都能减钱 京东寄也是上门配送也很快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 319,
+          "like_count": 3643,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1590
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T16:59:30.000Z",
+        "description": "薄荷 06 贪食ed 52vx/88聊天/188 分享日常谢谢你的观看 不接线下不11 请不要骚扰我 只回复口令 女孩可以和我互动互fo谢谢",
+        "id": "2016194044280324096",
+        "location": "别骂我行吗",
+        "name": "薄荷",
+        "pinned_tweet_id": "2022043730619040086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041948043289690112/bFJDIH2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3356,
+          "following_count": 4,
+          "like_count": 175,
+          "listed_count": 5,
+          "media_count": 176,
+          "tweet_count": 968
+        },
+        "username": "Mint0v033",
+        "verified": false
+      }
+    ]
+  }
+}

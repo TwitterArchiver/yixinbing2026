@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049771202797768704"
+      ],
+      "media_source_tweet_id": [
+        "2049771281575223357"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2050050517129466075",
+    "created_at": "2026-05-01T03:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T04:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050050517129466075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1474312941352669185",
+          "start": 3,
+          "username": "KRNFILE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k2RyDi9zr7",
+          "end": 67,
+          "expanded_url": "https://x.com/KRNFILE/status/2049771281575223357/video/1",
+          "media_key": "13_2049771202797768704",
+          "start": 44,
+          "url": "https://t.co/k2RyDi9zr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050050517129466075",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 833
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049771281575223357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KRNFILE: in love with this make up look https://t.co/k2RyDi9zr7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3770,
+        "height": 1080,
+        "media_key": "13_2049771202797768704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049771202797768704/img/zCBWC8TVbz32qGpm.jpg",
+        "public_metrics": {
+          "view_count": 65389
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049771202797768704/vid/avc1/1080x1080/AXrZQWbHnoRZRxGN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049771202797768704/pl/K9nPO-VNZO1QYqBp.m3u8"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049771202797768704/vid/avc1/720x720/g6F9oxPMA8tJFn82.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049771202797768704/vid/avc1/540x540/4AoOOstxHxqkXxrD.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049771202797768704/vid/avc1/320x320/brVGLP_2SoFSX43f.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049771202797768704"
+          ],
+          "media_source_tweet_id": [
+            "2049771281575223357"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2050050517129466075",
+        "created_at": "2026-05-01T03:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050050517129466075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1474312941352669185",
+              "start": 3,
+              "username": "KRNFILE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2RyDi9zr7",
+              "end": 67,
+              "expanded_url": "https://x.com/KRNFILE/status/2049771281575223357/video/1",
+              "media_key": "13_2049771202797768704",
+              "start": 44,
+              "url": "https://t.co/k2RyDi9zr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050050517129466075",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 833
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049771281575223357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KRNFILE: in love with this make up look https://t.co/k2RyDi9zr7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049771202797768704"
+          ]
+        },
+        "author_id": "1474312941352669185",
+        "conversation_id": "2049771281575223357",
+        "created_at": "2026-04-30T08:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049771281575223357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2RyDi9zr7",
+              "end": 54,
+              "expanded_url": "https://x.com/KRNFILE/status/2049771281575223357/video/1",
+              "media_key": "13_2049771202797768704",
+              "start": 31,
+              "url": "https://t.co/k2RyDi9zr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049771281575223357",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 465,
+          "impression_count": 204787,
+          "like_count": 4263,
+          "quote_count": 64,
+          "reply_count": 3,
+          "retweet_count": 833
+        },
+        "reply_settings": "everyone",
+        "text": "in love with this make up look https://t.co/k2RyDi9zr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢Karina！！\n没啥用的次号@fushishanxia121\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（神临版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 264,
+          "like_count": 2490,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-24T09:36:26.000Z",
+        "description": "for karina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/katarinabluu/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/katarinabluu/",
+                "start": 0,
+                "url": "https://t.co/OwBpeIb1O1"
+              }
+            ]
+          }
+        },
+        "id": "1474312941352669185",
+        "location": "𝒦.",
+        "name": "karina loops",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967854771768848384/RoEKvmH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40147,
+          "following_count": 11,
+          "like_count": 2176,
+          "listed_count": 662,
+          "media_count": 668,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/OwBpeIb1O1",
+        "username": "KRNFILE",
+        "verified": true
+      }
+    ]
+  }
+}

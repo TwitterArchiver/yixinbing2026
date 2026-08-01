@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2048757479019102308",
+    "created_at": "2026-04-27T13:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048759102323712268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903656802820239360",
+          "start": 0,
+          "username": "ting05x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048759102323712268",
+    "in_reply_to_user_id": "1903656802820239360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048757479019102308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ting05x 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 915,
+        "media_key": "3_2048757435658280960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6mCG9aIAAW0p_.jpg",
+        "width": 719
+      },
+      {
+        "height": 858,
+        "media_key": "3_2048757435666771969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6mCG_bsAEqJ95.jpg",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2048757479019102308",
+        "created_at": "2026-04-27T13:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048759102323712268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903656802820239360",
+              "start": 0,
+              "username": "ting05x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048759102323712268",
+        "in_reply_to_user_id": "1903656802820239360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048757479019102308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ting05x 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048757435658280960",
+            "3_2048757435666771969"
+          ]
+        },
+        "author_id": "1903656802820239360",
+        "conversation_id": "2048757479019102308",
+        "created_at": "2026-04-27T13:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048757479019102308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d03cZZX6E3",
+              "end": 29,
+              "expanded_url": "https://x.com/ting05x/status/2048757479019102308/photo/1",
+              "media_key": "3_2048757435658280960",
+              "start": 6,
+              "url": "https://t.co/d03cZZX6E3"
+            },
+            {
+              "display_url": "pic.x.com/d03cZZX6E3",
+              "end": 29,
+              "expanded_url": "https://x.com/ting05x/status/2048757479019102308/photo/1",
+              "media_key": "3_2048757435666771969",
+              "start": 6,
+              "url": "https://t.co/d03cZZX6E3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048757479019102308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生性不爱笑 https://t.co/d03cZZX6E3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "其实我也不太了解她\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（升级版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 252,
+          "like_count": 2411,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 931
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T03:55:37.000Z",
+        "description": "算了你开心就好",
+        "id": "1903656802820239360",
+        "name": "宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048469953175764992/d0DROQgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 22,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 442
+        },
+        "username": "ting05x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027638269836689725",
+    "created_at": "2026-02-28T16:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027781046528622878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1971379280706928641",
+          "start": 0,
+          "username": "sffg1023732"
+        },
+        {
+          "end": 22,
+          "id": "1759466518184890368",
+          "start": 13,
+          "username": "aiyibb01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027781046528622878",
+    "in_reply_to_user_id": "1971379280706928641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027767345989751020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sffg1023732 @aiyibb01 勤劳一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027638269836689725",
+        "created_at": "2026-02-28T16:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027781046528622878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1971379280706928641",
+              "start": 0,
+              "username": "sffg1023732"
+            },
+            {
+              "end": 22,
+              "id": "1759466518184890368",
+              "start": 13,
+              "username": "aiyibb01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027781046528622878",
+        "in_reply_to_user_id": "1971379280706928641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027767345989751020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sffg1023732 @aiyibb01 勤劳一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971379280706928641",
+        "conversation_id": "2027638269836689725",
+        "created_at": "2026-02-28T15:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027767345989751020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 24,
+              "id": "1759466518184890368",
+              "start": 15,
+              "username": "aiyibb01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027767345989751020",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027679839503974428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 @aiyibb01 咋干到2w的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 78,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T01:00:35.000Z",
+        "description": "",
+        "id": "1971379280706928641",
+        "name": "sffg",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "sffg1023732",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T06:34:56.000Z",
+        "description": "🚪888",
+        "id": "1759466518184890368",
+        "name": "b⋆͛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024907906689499138/JU8iX7vl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90741,
+          "following_count": 181,
+          "like_count": 2517,
+          "listed_count": 7,
+          "media_count": 86,
+          "tweet_count": 1332
+        },
+        "username": "aiyibb01",
+        "verified": false
+      }
+    ]
+  }
+}

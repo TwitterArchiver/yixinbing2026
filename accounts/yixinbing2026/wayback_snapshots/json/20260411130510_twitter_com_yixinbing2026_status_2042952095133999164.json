@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2042609863730303198",
+    "created_at": "2026-04-11T13:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042952095133999164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1488307757547622403",
+          "start": 0,
+          "username": "Puppy_Brat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042952095133999164",
+    "in_reply_to_user_id": "1488307757547622403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042949370891636820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puppy_Brat 啊宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2042609863730303198",
+        "created_at": "2026-04-11T13:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042952095133999164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1488307757547622403",
+              "start": 0,
+              "username": "Puppy_Brat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042952095133999164",
+        "in_reply_to_user_id": "1488307757547622403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042949370891636820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puppy_Brat 啊宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488307757547622403",
+        "conversation_id": "2042609863730303198",
+        "created_at": "2026-04-11T12:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042949370891636820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042949370891636820",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042609863730303198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 omg别哭了小宝宝。用刀片把你讨厌的人全杀了 千刀万剐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "你想知道什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 208,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T00:26:51.000Z",
+        "description": "乱发",
+        "id": "1488307757547622403",
+        "location": "外太空",
+        "name": "乖",
+        "pinned_tweet_id": "1989924637036482852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040240088580517888/vZW0zlY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 62,
+          "like_count": 5221,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 563
+        },
+        "username": "Puppy_Brat",
+        "verified": false
+      }
+    ]
+  }
+}

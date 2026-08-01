@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2057363510716498405",
+    "created_at": "2026-05-21T07:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057364753765564840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957730266514092032",
+          "start": 0,
+          "username": "artemisu22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057364753765564840",
+    "in_reply_to_user_id": "1957730266514092032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057363510716498405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@artemisu22 姐姐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057363501124104192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI05NDJbMAAKDVa.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2057363510716498405",
+        "created_at": "2026-05-21T07:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057364753765564840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957730266514092032",
+              "start": 0,
+              "username": "artemisu22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057364753765564840",
+        "in_reply_to_user_id": "1957730266514092032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057363510716498405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artemisu22 姐姐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057363501124104192"
+          ]
+        },
+        "author_id": "1957730266514092032",
+        "conversation_id": "2057363510716498405",
+        "created_at": "2026-05-21T07:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057363510716498405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Lq29FXUfA",
+              "end": 45,
+              "expanded_url": "https://x.com/artemisu22/status/2057363510716498405/photo/1",
+              "media_key": "3_2057363501124104192",
+              "start": 22,
+              "url": "https://t.co/1Lq29FXUfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057363510716498405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是 你把我肚子 p 出来是怎样😂我真服了 https://t.co/1Lq29FXUfA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 311,
+          "like_count": 3562,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1537
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T09:04:10.000Z",
+        "description": "韩国香港两边走的苦命女孩\n我的threads被meta炸了23个号了\n现在我会低调转战推特分享生活\nNCT RIIZE ITZY🫶🏽💗",
+        "id": "1957730266514092032",
+        "name": "科比布莱恩特ˇ铃音Miko🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057343280254480384/jdogOupL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 49,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 219
+        },
+        "username": "artemisu22",
+        "verified": false
+      }
+    ]
+  }
+}

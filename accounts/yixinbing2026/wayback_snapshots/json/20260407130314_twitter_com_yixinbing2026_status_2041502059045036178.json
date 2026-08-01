@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2041412516472123748",
+    "created_at": "2026-04-07T13:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041502059045036178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "757013769805365249",
+          "start": 0,
+          "username": "intensegamer679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041502059045036178",
+    "in_reply_to_user_id": "757013769805365249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041499995480764908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intensegamer679 哈哈 我一个人会害怕的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2041412516472123748",
+        "created_at": "2026-04-07T13:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041502059045036178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "757013769805365249",
+              "start": 0,
+              "username": "intensegamer679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041502059045036178",
+        "in_reply_to_user_id": "757013769805365249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041499995480764908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intensegamer679 哈哈 我一个人会害怕的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "757013769805365249",
+        "conversation_id": "2041412516472123748",
+        "created_at": "2026-04-07T12:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041499995480764908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041499995480764908",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041412516472123748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 哪个人，你告诉我，我也躲着他点儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没门槛 不加联系方式 约炮别来找我 处对象别来找我 暴露癖不要找我 精虫上脑别找我 线下查无此人 我不圈钱 不要恶意揣测我了 不熟别给我开恶俗玩笑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 170,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-24T00:45:22.000Z",
+        "description": "",
+        "id": "757013769805365249",
+        "name": "Shawn Green",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 185,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 526
+        },
+        "username": "intensegamer679",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-24T00:45:22.000Z",
+        "description": "",
+        "id": "757013769805365249",
+        "name": "Shawn Green",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 185,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "intensegamer679",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2057083019815739731",
+    "created_at": "2026-05-20T16:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057133795107885416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1053832620834844674",
+          "start": 0,
+          "username": "riyao23197447"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057133795107885416",
+    "in_reply_to_user_id": "1053832620834844674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057131909956960615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riyao23197447 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2057083019815739731",
+        "created_at": "2026-05-20T16:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057133795107885416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1053832620834844674",
+              "start": 0,
+              "username": "riyao23197447"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057133795107885416",
+        "in_reply_to_user_id": "1053832620834844674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057131909956960615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riyao23197447 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1053832620834844674",
+        "conversation_id": "2057083019815739731",
+        "created_at": "2026-05-20T16:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057131909956960615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057131909956960615",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057113033353339305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 其实我已经不再是可以用学习作为借口逃避一无是处的生命的年纪了，对不起。我最终还是没能成为想成为的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 311,
+          "like_count": 3515,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-21T02:17:30.000Z",
+        "description": "千藏万躲，最后躲掉的都是真实的自己与人相处的幸运。",
+        "id": "1053832620834844674",
+        "name": "看到我请叫我去学习",
+        "pinned_tweet_id": "2050793193495830968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987250620668256258/3NZQpieJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 4464,
+          "like_count": 19074,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 10695
+        },
+        "username": "riyao23197447",
+        "verified": false
+      }
+    ]
+  }
+}

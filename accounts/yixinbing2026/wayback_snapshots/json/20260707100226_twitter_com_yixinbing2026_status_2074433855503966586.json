@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073484374394437632"
+      ],
+      "media_source_tweet_id": [
+        "2073484382221070725"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2074433855503966586",
+    "created_at": "2026-07-07T10:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074433855503966586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f3U5S8rr81",
+          "end": 52,
+          "expanded_url": "https://x.com/yixinbing2026/status/2073484382221070725/photo/1",
+          "media_key": "3_2073484374394437632",
+          "start": 29,
+          "url": "https://t.co/f3U5S8rr81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074433855503966586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073484382221070725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 还有机会等你下课吗 https://t.co/f3U5S8rr81"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2073484374394437632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZ_DX8agAAi5ls.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073484374394437632"
+          ],
+          "media_source_tweet_id": [
+            "2073484382221070725"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2074433855503966586",
+        "created_at": "2026-07-07T10:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074433855503966586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3U5S8rr81",
+              "end": 52,
+              "expanded_url": "https://x.com/yixinbing2026/status/2073484382221070725/photo/1",
+              "media_key": "3_2073484374394437632",
+              "start": 29,
+              "url": "https://t.co/f3U5S8rr81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074433855503966586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073484382221070725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: 还有机会等你下课吗 https://t.co/f3U5S8rr81"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073484374394437632"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2073484382221070725",
+        "created_at": "2026-07-04T19:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073484382221070725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3U5S8rr81",
+              "end": 33,
+              "expanded_url": "https://x.com/yixinbing2026/status/2073484382221070725/photo/1",
+              "media_key": "3_2073484374394437632",
+              "start": 10,
+              "url": "https://t.co/f3U5S8rr81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073484382221070725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2488,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "还有机会等你下课吗 https://t.co/f3U5S8rr81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 od但不经常餐 找我聊天不想被限流了！独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们 小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 349,
+          "like_count": 5031,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 2100
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      }
+    ]
+  }
+}

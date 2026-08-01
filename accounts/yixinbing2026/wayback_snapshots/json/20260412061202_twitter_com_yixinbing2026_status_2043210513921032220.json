@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2042836632961987012",
+    "created_at": "2026-04-12T06:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043210513921032220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042399282016501762",
+          "start": 0,
+          "username": "Bendecir70ov"
+        },
+        {
+          "end": 27,
+          "id": "2024843174489817088",
+          "start": 14,
+          "username": "Christoph1k2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043210513921032220",
+    "in_reply_to_user_id": "2042399282016501762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043208537908867496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bendecir70ov @Christoph1k2 你啥时候给我发私信了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2042836632961987012",
+        "created_at": "2026-04-12T06:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043210513921032220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042399282016501762",
+              "start": 0,
+              "username": "Bendecir70ov"
+            },
+            {
+              "end": 27,
+              "id": "2024843174489817088",
+              "start": 14,
+              "username": "Christoph1k2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043210513921032220",
+        "in_reply_to_user_id": "2042399282016501762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043208537908867496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bendecir70ov @Christoph1k2 你啥时候给我发私信了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042399282016501762",
+        "conversation_id": "2042836632961987012",
+        "created_at": "2026-04-12T06:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043208537908867496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2024843174489817088",
+              "start": 0,
+              "username": "Christoph1k2"
+            },
+            {
+              "end": 28,
+              "id": "2014553095255293955",
+              "start": 14,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043208537908867496",
+        "in_reply_to_user_id": "2024843174489817088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043206011205378375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Christoph1k2 @yixinbing2026 宝宝什么时候能回我私信啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 219,
+          "like_count": 1514,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T00:29:03.000Z",
+        "description": "",
+        "id": "2042399282016501762",
+        "name": "Bendecir",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "Bendecir70ov",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T13:49:37.000Z",
+        "description": "新号欢迎关注~！女高（走读生）表面乖乖女而已😘入圈时间不长，请多关照",
+        "id": "2024843174489817088",
+        "location": "距离4.58km",
+        "name": "芷凡",
+        "pinned_tweet_id": "2042943977310294412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041029458996641792/VM-r3Pnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 6,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "Christoph1k2",
+        "verified": false
+      }
+    ]
+  }
+}

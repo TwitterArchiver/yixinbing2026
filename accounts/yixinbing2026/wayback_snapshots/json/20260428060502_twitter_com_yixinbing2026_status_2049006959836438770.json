@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2048959432525279520",
+    "created_at": "2026-04-28T06:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049006959836438770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1501224776177643522",
+          "start": 0,
+          "username": "pp74154174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049006959836438770",
+    "in_reply_to_user_id": "1501224776177643522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048959432525279520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pp74154174 我用的都好难用啊啊我一直在踩雷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048959421393620992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9dvOdbUAAA1TR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2048959432525279520",
+        "created_at": "2026-04-28T06:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049006959836438770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1501224776177643522",
+              "start": 0,
+              "username": "pp74154174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049006959836438770",
+        "in_reply_to_user_id": "1501224776177643522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048959432525279520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pp74154174 我用的都好难用啊啊我一直在踩雷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048959421393620992"
+          ]
+        },
+        "author_id": "1501224776177643522",
+        "conversation_id": "2048959432525279520",
+        "created_at": "2026-04-28T02:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048959432525279520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxxclY1j74",
+              "end": 58,
+              "expanded_url": "https://x.com/pp74154174/status/2048959432525279520/photo/1",
+              "media_key": "3_2048959421393620992",
+              "start": 35,
+              "url": "https://t.co/wxxclY1j74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048959432525279520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2484,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次收拾化妆品才意识到我真的买了很多类似的东西，永远在上消费主义的当 https://t.co/wxxclY1j74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "其实我也不太了解她 没啥用的次号@fushishanxia121\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（升级版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 257,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T15:54:25.000Z",
+        "description": "🍀给我发几把阳痿一辈子。小号只过互关@Yuumiii599226 都是无聊的牢骚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Yuumiii599226"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuumi80956",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuumi80956",
+                "start": 0,
+                "url": "https://t.co/YGgA5Xpe7w"
+              }
+            ]
+          }
+        },
+        "id": "1501224776177643522",
+        "name": "忧郁灵猪",
+        "pinned_tweet_id": "2046479591230034395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041575037422202883/nKntp6VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10191,
+          "following_count": 366,
+          "like_count": 17508,
+          "listed_count": 16,
+          "media_count": 163,
+          "tweet_count": 5814
+        },
+        "url": "https://t.co/YGgA5Xpe7w",
+        "username": "pp74154174",
+        "verified": false
+      }
+    ]
+  }
+}

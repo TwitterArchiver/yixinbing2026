@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2063160870184931426",
+    "created_at": "2026-06-06T10:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063205432790032823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1723527413617856512",
+          "start": 0,
+          "username": "11I1018"
+        },
+        {
+          "end": 17,
+          "id": "2042165921200902145",
+          "start": 9,
+          "username": "1239ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063205432790032823",
+    "in_reply_to_user_id": "1723527413617856512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063160870184931426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11I1018 @1239ovo 塞我嘴里媳妇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063160605973110784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHRo9mbYAACjVO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2063160870184931426",
+        "created_at": "2026-06-06T10:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063205432790032823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1723527413617856512",
+              "start": 0,
+              "username": "11I1018"
+            },
+            {
+              "end": 17,
+              "id": "2042165921200902145",
+              "start": 9,
+              "username": "1239ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063205432790032823",
+        "in_reply_to_user_id": "1723527413617856512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063160870184931426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11I1018 @1239ovo 塞我嘴里媳妇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063160605973110784"
+          ]
+        },
+        "author_id": "1723527413617856512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2063160870184931426",
+        "created_at": "2026-06-06T07:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063160870184931426"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "jk"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "萝莉"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "白丝"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "女高"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zf9KA6Lkrj",
+              "end": 46,
+              "expanded_url": "https://x.com/11I1018/status/2063160870184931426/photo/1",
+              "media_key": "3_2063160605973110784",
+              "start": 23,
+              "url": "https://t.co/zf9KA6Lkrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063160870184931426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1474,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "奖励你们吧😌\n#jk #萝莉 #白丝 #女高 https://t.co/zf9KA6Lkrj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 326,
+          "like_count": 4426,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1875
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-12T02:25:52.000Z",
+        "description": "喵喵喵碎碎念私信只回入门和女孩子☺️☺️",
+        "id": "1723527413617856512",
+        "location": "1.2km",
+        "name": "给我安眠药",
+        "pinned_tweet_id": "2007144743944499695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056441378088095744/gTER6bk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 132,
+          "like_count": 1085,
+          "listed_count": 6,
+          "media_count": 359,
+          "tweet_count": 1170
+        },
+        "username": "11I1018",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T09:01:40.000Z",
+        "description": "爱发些乱七八糟的，来找我玩🥺大号@11I1018",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "11I1018"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1239ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1239ovo",
+                "start": 0,
+                "url": "https://t.co/JE8bT4K4Mh"
+              }
+            ]
+          }
+        },
+        "id": "2042165921200902145",
+        "location": "🚪52/166  提问箱➡️",
+        "name": "我泪泪的。",
+        "pinned_tweet_id": "2062222188636410020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059316638772867073/W3cWE-C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 23,
+          "like_count": 60,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/JE8bT4K4Mh",
+        "username": "1239ovo",
+        "verified": true
+      }
+    ]
+  }
+}

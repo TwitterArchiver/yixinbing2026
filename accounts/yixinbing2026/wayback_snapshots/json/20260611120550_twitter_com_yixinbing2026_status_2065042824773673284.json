@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2064784784216224128",
+    "created_at": "2026-06-11T12:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065042824773673284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "93479786",
+          "start": 0,
+          "username": "odaradeverdade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065042824773673284",
+    "in_reply_to_user_id": "93479786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064784784216224128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odaradeverdade 哈喽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2064784779547930624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeW0TqWcAA3sqo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2064784779564711936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeW0TuWgAA_su0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2064784784216224128",
+        "created_at": "2026-06-11T12:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065042824773673284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "93479786",
+              "start": 0,
+              "username": "odaradeverdade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065042824773673284",
+        "in_reply_to_user_id": "93479786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064784784216224128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odaradeverdade 哈喽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064784779547930624",
+            "3_2064784779564711936"
+          ]
+        },
+        "author_id": "93479786",
+        "conversation_id": "2064784784216224128",
+        "created_at": "2026-06-10T19:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T20:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064784784216224128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTyVkByhPK",
+              "end": 78,
+              "expanded_url": "https://x.com/odaradeverdade/status/2064784784216224128/photo/1",
+              "media_key": "3_2064784779547930624",
+              "start": 55,
+              "url": "https://t.co/nTyVkByhPK"
+            },
+            {
+              "display_url": "pic.x.com/nTyVkByhPK",
+              "end": 78,
+              "expanded_url": "https://x.com/odaradeverdade/status/2064784784216224128/photo/1",
+              "media_key": "3_2064784779564711936",
+              "start": 55,
+              "url": "https://t.co/nTyVkByhPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064784784216224128",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 771,
+          "impression_count": 312467,
+          "like_count": 31121,
+          "quote_count": 96,
+          "reply_count": 1337,
+          "retweet_count": 1210
+        },
+        "reply_settings": "everyone",
+        "text": "7 anos de azar pra quem não der oi pro gatinho pançudo https://t.co/nTyVkByhPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 333,
+          "like_count": 4667,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1945
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-29T21:10:33.000Z",
+        "description": "Creator, twitteira & agitadora cultural 💅🏽 odarathetrue@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/odaradeverdade…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/odaradeverdade?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/WX6y6RHCSG"
+              }
+            ]
+          }
+        },
+        "id": "93479786",
+        "name": "Travesti que Habla 🏳️‍⚧️",
+        "pinned_tweet_id": "2064385131079512428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985500071144697856/0_Zmn7FW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188833,
+          "following_count": 126582,
+          "like_count": 95884,
+          "listed_count": 124,
+          "media_count": 12245,
+          "tweet_count": 48502
+        },
+        "url": "https://t.co/WX6y6RHCSG",
+        "username": "odaradeverdade",
+        "verified": true
+      }
+    ]
+  }
+}

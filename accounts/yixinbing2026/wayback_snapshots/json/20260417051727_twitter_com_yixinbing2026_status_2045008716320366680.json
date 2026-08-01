@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2044724707606360354",
+    "created_at": "2026-04-17T05:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045008716320366680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1940872452609093632",
+          "start": 0,
+          "username": "yry8279_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045008716320366680",
+    "in_reply_to_user_id": "1940872452609093632",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044724707606360354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yry8279_ ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2044724707606360354",
+        "created_at": "2026-04-17T05:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045008716320366680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1940872452609093632",
+              "start": 0,
+              "username": "yry8279_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045008716320366680",
+        "in_reply_to_user_id": "1940872452609093632",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044724707606360354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yry8279_ ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940872452609093632",
+        "conversation_id": "2044724707606360354",
+        "created_at": "2026-04-16T10:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044724707606360354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044724707606360354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25405,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友圈有个是做医美的女生，然后我刚看见她朋友圈发的是，止汗针，拒绝夏天出汗的尴尬，牢大我们真的要做这么极端吗，有个东西叫止汗液来着。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "神临日期2010.10具体不说🤤\n我病太多了网友需要包容我 对我的容错率提升100% 女孩子找我互关我将严肃执行 我要转型🤤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 239,
+          "like_count": 1749,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T20:38:15.000Z",
+        "description": "喜欢钱",
+        "id": "1940872452609093632",
+        "location": "🚪",
+        "name": "緣",
+        "pinned_tweet_id": "2029511850514387415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014372792498786304/eAZ_7Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 55,
+          "like_count": 7397,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 833
+        },
+        "username": "yry8279_",
+        "verified": false
+      }
+    ]
+  }
+}

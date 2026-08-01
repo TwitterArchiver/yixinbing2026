@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2041929934118252759",
+    "created_at": "2026-04-09T04:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042103077986300061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2028170442566254592",
+          "start": 0,
+          "username": "lunt13a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042103077986300061",
+    "in_reply_to_user_id": "2028170442566254592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041956459458785331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lunt13a 老婆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2041929934118252759",
+        "created_at": "2026-04-09T04:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042103077986300061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2028170442566254592",
+              "start": 0,
+              "username": "lunt13a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042103077986300061",
+        "in_reply_to_user_id": "2028170442566254592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041956459458785331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lunt13a 老婆！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028170442566254592",
+        "conversation_id": "2041929934118252759",
+        "created_at": "2026-04-08T19:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041956459458785331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041956459458785331",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041929934118252759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 好诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "你想知道什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 180,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T18:08:17.000Z",
+        "description": "这里是某人重生版",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lunt13a",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lunt13a",
+                "start": 0,
+                "url": "https://t.co/SNYoGkoC3O"
+              }
+            ]
+          }
+        },
+        "id": "2028170442566254592",
+        "name": "lun t",
+        "pinned_tweet_id": "2032339276038582445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028170691183620096/wPrKK53A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 30,
+          "like_count": 543,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/SNYoGkoC3O",
+        "username": "lunt13a",
+        "verified": true
+      }
+    ]
+  }
+}

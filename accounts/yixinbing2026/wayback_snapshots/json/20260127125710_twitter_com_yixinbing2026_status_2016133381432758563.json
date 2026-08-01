@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2016133381432758563",
+    "created_at": "2026-01-27T12:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T13:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016133381432758563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1988549916617248768",
+          "start": 3,
+          "username": "SUNWUKONG_ZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016133381432758563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015744587718136307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SUNWUKONG_ZH: 🎙️ AI 使用成本不断走高的背景下，普通用户还应该为“单一模型”承担高成本吗？\n\n🎯 大模型持续进化，AI 正从“尝鲜工具”变为“日常基础设施”。但随之而来的，是使用成本的快速上升：从高频订阅到频繁切换平台，用户如何才能长期受益？一个更灵活…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2250,
+        "media_key": "3_2015743831569002496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lcVb7a8AAe43L.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2016133381432758563",
+        "created_at": "2026-01-27T12:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016133381432758563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988549916617248768",
+              "start": 3,
+              "username": "SUNWUKONG_ZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016133381432758563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015744587718136307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SUNWUKONG_ZH: 🎙️ AI 使用成本不断走高的背景下，普通用户还应该为“单一模型”承担高成本吗？\n\n🎯 大模型持续进化，AI 正从“尝鲜工具”变为“日常基础设施”。但随之而来的，是使用成本的快速上升：从高频订阅到频繁切换平台，用户如何才能长期受益？一个更灵活…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015743831569002496"
+          ]
+        },
+        "author_id": "1988549916617248768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2015744587718136307",
+        "created_at": "2026-01-26T11:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015744587718136307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "Web3"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTt1QSc0Mh",
+              "end": 178,
+              "expanded_url": "https://x.com/SUNWUKONG_ZH/status/2015744587718136307/photo/1",
+              "media_key": "3_2015743831569002496",
+              "start": 155,
+              "url": "https://t.co/JTt1QSc0Mh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015744587718136307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 128,
+                "tag": "Web3"
+              },
+              {
+                "end": 140,
+                "start": 137,
+                "tag": "AI"
+              },
+              {
+                "end": 184,
+                "start": 175,
+                "tag": "SunFlash"
+              },
+              {
+                "end": 250,
+                "start": 244,
+                "tag": "AINFT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 341,
+                "id": "1392094167522742272",
+                "start": 327,
+                "username": "OfficialAINFT"
+              },
+              {
+                "end": 357,
+                "id": "1896499320020680704",
+                "start": 343,
+                "username": "Agent_SunGenX"
+              },
+              {
+                "end": 366,
+                "id": "125112315",
+                "start": 358,
+                "username": "if1ynne"
+              },
+              {
+                "end": 382,
+                "id": "1517131612453965824",
+                "start": 372,
+                "username": "hisevenih"
+              },
+              {
+                "end": 393,
+                "id": "1532661893168771076",
+                "start": 383,
+                "username": "ONEEE1128"
+              },
+              {
+                "end": 403,
+                "id": "1898956480558276608",
+                "start": 394,
+                "username": "AISIM_EN"
+              },
+              {
+                "end": 412,
+                "id": "1881241311275298816",
+                "start": 404,
+                "username": "YOMIRGO"
+              },
+              {
+                "end": 423,
+                "id": "1908726786546163717",
+                "start": 413,
+                "username": "web3houzi"
+              },
+              {
+                "end": 436,
+                "id": "829517468",
+                "start": 424,
+                "username": "0xXiaoXiong"
+              },
+              {
+                "end": 465,
+                "id": "1988549916617248768",
+                "start": 452,
+                "username": "SUNWUKONG_ZH"
+              },
+              {
+                "end": 482,
+                "id": "1896499320020680704",
+                "start": 468,
+                "username": "Agent_SunGenX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/spaces/1eaKb…",
+                "end": 307,
+                "expanded_url": "https://x.com/i/spaces/1eaKbjrQdDjKX?s=20",
+                "start": 284,
+                "url": "https://t.co/VuJYQWdkg0"
+              }
+            ]
+          },
+          "text": "🎙️ AI 使用成本不断走高的背景下，普通用户还应该为“单一模型”承担高成本吗？\n\n🎯 大模型持续进化，AI 正从“尝鲜工具”变为“日常基础设施”。但随之而来的，是使用成本的快速上升：从高频订阅到频繁切换平台，用户如何才能长期受益？一个更灵活、更可持续的 #Web3 原生 #AI 架构，是否正成为新的答案？\n\n🗓 1 月 27 日晚 8 点，本场 #SunFlash Space将围绕四个关键问题展开讨论：AI 成本为何持续走高？是否还值得为单一模型长期付费？多模型聚合将带来哪些改变？#AINFT 又是如何重构使用结构、真正降低成本的？\n\n🔗 锁定Space直播：https://t.co/VuJYQWdkg0\n\n🧑‍🤝‍🧑 特邀嘉宾：\n共同主持: @OfficialAINFT  @Agent_SunGenX @if1ynne\n发言人: @hisevenih @ONEEE1128 @AISIM_EN @YOMIRGO @web3houzi @0xXiaoXiong \n\n🎁 关注订阅有惊喜：关注 @SUNWUKONG_ZH & @Agent_SunGenX, 转发本推文并 @ 三位好友，我们将从参与者中抽取 5 位幸运用户，送出每人 10 USDT 奖励。\n\n📍 模型终将迭代，但结构决定体验。加入讨论，探索如何更自由、更高效地拥抱下一代AI。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4724,
+          "like_count": 130,
+          "quote_count": 10,
+          "reply_count": 147,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "🎙️ AI 使用成本不断走高的背景下，普通用户还应该为“单一模型”承担高成本吗？\n\n🎯 大模型持续进化，AI 正从“尝鲜工具”变为“日常基础设施”。但随之而来的，是使用成本的快速上升：从高频订阅到频繁切换平台，用户如何才能长期受益？一个更灵活、更可持续的 #Web3 原生 #AI 架构，是否正成为新的答案？ https://t.co/JTt1QSc0Mh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 42,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T10:11:01.000Z",
+        "description": "TRON链上金融生态 \n共建开放自由的链上未来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sunwukong.sun.io",
+                "end": 23,
+                "expanded_url": "http://sunwukong.sun.io",
+                "start": 0,
+                "url": "https://t.co/RRI3NGkoHh"
+              }
+            ]
+          }
+        },
+        "id": "1988549916617248768",
+        "name": "孙悟空生态",
+        "pinned_tweet_id": "2013193215894270122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013192623876427777/v1ScWArb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9293,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/RRI3NGkoHh",
+        "username": "SUNWUKONG_ZH",
+        "verified": true
+      }
+    ]
+  }
+}

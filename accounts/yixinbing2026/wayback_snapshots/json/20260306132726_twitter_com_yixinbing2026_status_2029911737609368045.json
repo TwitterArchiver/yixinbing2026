@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2029893279886782793",
+    "created_at": "2026-03-06T13:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T14:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029911737609368045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029720930524794880",
+          "start": 0,
+          "username": "FrankWou7265"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029911737609368045",
+    "in_reply_to_user_id": "2029720930524794880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029906847902085267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankWou7265 哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2029893279886782793",
+        "created_at": "2026-03-06T13:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029911737609368045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029720930524794880",
+              "start": 0,
+              "username": "FrankWou7265"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029911737609368045",
+        "in_reply_to_user_id": "2029720930524794880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029906847902085267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankWou7265 哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029720930524794880",
+        "conversation_id": "2029893279886782793",
+        "created_at": "2026-03-06T13:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029906847902085267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029906847902085267",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029893279886782793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 啊？！我靠你还比我小一岁啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者 没门槛 不随便加微信 我不约 我随便发的 我是女的我不约 看成分回关 我不圈钱也不性骚扰的 不要恶意揣测我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 145,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T00:49:24.000Z",
+        "description": "一个玩mp3的玩家（？）门槛什么的是不可能的啦www，有时随心发点东西",
+        "id": "2029720930524794880",
+        "location": "Manhattan, NY",
+        "name": "是Frank不是Blank（可互关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029721081179758592/2wy9iQw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "FrankWou7265",
+        "verified": false
+      }
+    ]
+  }
+}

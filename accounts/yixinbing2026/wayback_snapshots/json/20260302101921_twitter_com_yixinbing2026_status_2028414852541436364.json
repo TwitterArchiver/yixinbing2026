@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028414847407501313"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2028380858995150918",
+    "created_at": "2026-03-02T10:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028414852541436364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1945894406244208640",
+          "start": 0,
+          "username": "daimengniu8964"
+        },
+        {
+          "end": 27,
+          "id": "1663516164306382852",
+          "start": 16,
+          "username": "DouBao8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jEFzxwetNR",
+          "end": 51,
+          "expanded_url": "https://x.com/yixinbing2026/status/2028414852541436364/photo/1",
+          "media_key": "3_2028414847407501313",
+          "start": 28,
+          "url": "https://t.co/jEFzxwetNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028414852541436364",
+    "in_reply_to_user_id": "1945894406244208640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028380858995150918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daimengniu8964 @DouBao8964 https://t.co/jEFzxwetNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028414847407501313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZgjoTaMAEzgWM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028414847407501313"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2028380858995150918",
+        "created_at": "2026-03-02T10:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028414852541436364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945894406244208640",
+              "start": 0,
+              "username": "daimengniu8964"
+            },
+            {
+              "end": 27,
+              "id": "1663516164306382852",
+              "start": 16,
+              "username": "DouBao8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEFzxwetNR",
+              "end": 51,
+              "expanded_url": "https://x.com/yixinbing2026/status/2028414852541436364/photo/1",
+              "media_key": "3_2028414847407501313",
+              "start": 28,
+              "url": "https://t.co/jEFzxwetNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028414852541436364",
+        "in_reply_to_user_id": "1945894406244208640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028380858995150918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimengniu8964 @DouBao8964 https://t.co/jEFzxwetNR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945894406244208640",
+        "conversation_id": "2028380858995150918",
+        "created_at": "2026-03-02T08:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028380858995150918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028380858995150918",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@DouBao8964 豆包帮我生成一个除了家里那位没叫过任何妈妈，没有在社交平台私信别的女生，精通各类游戏，单纯天真专一纯爱的没和女生聊过骚，不看擦边，没在社交平台发布过游戏集锦中掺杂着几张生活照的处男。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者  没门槛不随便加微信 我不约 我随便发的 我是女的我不约",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 84,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 接广请自行分辨❕牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52💚",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "2024494852826943523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003809315216613376/T96k8TkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11180,
+          "following_count": 51,
+          "like_count": 5127,
+          "listed_count": 8,
+          "media_count": 185,
+          "tweet_count": 3658
+        },
+        "username": "daimengniu8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包 老公@callme_mom_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "callme_mom_"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025774560457654272/ojdpVLBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11330,
+          "following_count": 80,
+          "like_count": 14367,
+          "listed_count": 6,
+          "media_count": 335,
+          "tweet_count": 6275
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

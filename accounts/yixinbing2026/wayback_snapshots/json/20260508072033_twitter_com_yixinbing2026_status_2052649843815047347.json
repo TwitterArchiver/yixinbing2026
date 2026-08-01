@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2052647254365007918",
+    "created_at": "2026-05-08T07:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052649843815047347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550523516545601536",
+          "start": 0,
+          "username": "buxiangjieshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052649843815047347",
+    "in_reply_to_user_id": "1550523516545601536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052649020296974497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buxiangjieshou 咱俩都没钱 别对友人圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2052647254365007918",
+        "created_at": "2026-05-08T07:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052649843815047347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550523516545601536",
+              "start": 0,
+              "username": "buxiangjieshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052649843815047347",
+        "in_reply_to_user_id": "1550523516545601536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052649020296974497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buxiangjieshou 咱俩都没钱 别对友人圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550523516545601536",
+        "conversation_id": "2052647254365007918",
+        "created_at": "2026-05-08T07:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052649020296974497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052649020296974497",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052648843418927553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 好好好，可以圈你的吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（只有唯一员工版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 285,
+          "like_count": 2882,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T16:49:57.000Z",
+        "description": "喜欢HatsuneMiku！！总监大大：@yixinbing2026\ninfp｜树洞｜switch偏sub｜xp小腹｜喜欢亲亲抱抱｜禁欲禁欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "yixinbing2026"
+              }
+            ]
+          }
+        },
+        "id": "1550523516545601536",
+        "location": "心之所向",
+        "name": "不接受",
+        "pinned_tweet_id": "2051261260365451754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045925213150519296/bgr90NXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 23,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 281
+        },
+        "username": "buxiangjieshou",
+        "verified": false
+      }
+    ]
+  }
+}

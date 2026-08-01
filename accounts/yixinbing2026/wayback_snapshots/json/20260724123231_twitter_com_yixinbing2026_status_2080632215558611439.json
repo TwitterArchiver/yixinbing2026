@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073039993191432192"
+      ],
+      "media_source_tweet_id": [
+        "2073040005694644533"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2080632215558611439",
+    "created_at": "2026-07-24T12:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080632215558611439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/evf6X0M5nf",
+          "end": 42,
+          "expanded_url": "https://x.com/yixinbing2026/status/2073040005694644533/photo/1",
+          "media_key": "3_2073039993191432192",
+          "start": 19,
+          "url": "https://t.co/evf6X0M5nf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080632215558611439",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073040005694644533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: https://t.co/evf6X0M5nf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2073039993191432192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTq4-9agAAjTrb.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073039993191432192"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2073040005694644533",
+        "created_at": "2026-07-03T13:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073040005694644533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/evf6X0M5nf",
+              "end": 23,
+              "expanded_url": "https://x.com/yixinbing2026/status/2073040005694644533/photo/1",
+              "media_key": "3_2073039993191432192",
+              "start": 0,
+              "url": "https://t.co/evf6X0M5nf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073040005694644533",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5443,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/evf6X0M5nf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073039993191432192"
+          ],
+          "media_source_tweet_id": [
+            "2073040005694644533"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2080632215558611439",
+        "created_at": "2026-07-24T12:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080632215558611439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/evf6X0M5nf",
+              "end": 42,
+              "expanded_url": "https://x.com/yixinbing2026/status/2073040005694644533/photo/1",
+              "media_key": "3_2073039993191432192",
+              "start": 19,
+              "url": "https://t.co/evf6X0M5nf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080632215558611439",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073040005694644533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: https://t.co/evf6X0M5nf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发\n我的成分：\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 367,
+          "like_count": 5379,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2221
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      }
+    ]
+  }
+}

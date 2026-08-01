@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2064890116548768129",
+    "created_at": "2026-06-11T11:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065039918825689269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1161925320234024960",
+          "start": 0,
+          "username": "smile_kun422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065039918825689269",
+    "in_reply_to_user_id": "1161925320234024960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064890116548768129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smile_kun422 我要当小猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_2064886353121435648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKfzMqta4AAdSy-.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1187,
+        "media_key": "3_2064886353066852352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKfzMqgaAAAPysT.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2064890116548768129",
+        "created_at": "2026-06-11T11:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065039918825689269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1161925320234024960",
+              "start": 0,
+              "username": "smile_kun422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065039918825689269",
+        "in_reply_to_user_id": "1161925320234024960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064890116548768129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smile_kun422 我要当小猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064886353121435648",
+            "3_2064886353066852352"
+          ]
+        },
+        "author_id": "1161925320234024960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          }
+        ],
+        "conversation_id": "2064890116548768129",
+        "created_at": "2026-06-11T01:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064890116548768129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hkK8Nn7Gx",
+              "end": 43,
+              "expanded_url": "https://x.com/smile_kun422/status/2064890116548768129/photo/1",
+              "media_key": "3_2064886353121435648",
+              "start": 20,
+              "url": "https://t.co/9hkK8Nn7Gx"
+            },
+            {
+              "display_url": "pic.x.com/9hkK8Nn7Gx",
+              "end": 43,
+              "expanded_url": "https://x.com/smile_kun422/status/2064890116548768129/photo/1",
+              "media_key": "3_2064886353066852352",
+              "start": 20,
+              "url": "https://t.co/9hkK8Nn7Gx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064890116548768129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 36154,
+          "like_count": 2096,
+          "quote_count": 5,
+          "reply_count": 56,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "犬と猫、生まれ変わるならどっちが良い？ https://t.co/9hkK8Nn7Gx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 333,
+          "like_count": 4667,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-15T08:59:18.000Z",
+        "description": "毎日12時、19時に大喜利お題を投稿中！\n他にもおもしろ画像やネタツイしてます！",
+        "id": "1161925320234024960",
+        "name": "スマイルくん(Smiley)",
+        "pinned_tweet_id": "2064709675040539034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032408622282784768/Y0MyfhNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228685,
+          "following_count": 2367,
+          "like_count": 122013,
+          "listed_count": 766,
+          "media_count": 13792,
+          "tweet_count": 30881
+        },
+        "username": "smile_kun422",
+        "verified": true
+      }
+    ]
+  }
+}

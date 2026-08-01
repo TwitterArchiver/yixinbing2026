@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2080564244916130269",
+    "created_at": "2026-07-24T08:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080567270296994303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2071188380948553728",
+          "start": 0,
+          "username": "kun114kun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080567270296994303",
+    "in_reply_to_user_id": "2071188380948553728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080564244916130269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kun114kun 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2080564244916130269",
+        "created_at": "2026-07-24T08:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080567270296994303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2071188380948553728",
+              "start": 0,
+              "username": "kun114kun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080567270296994303",
+        "in_reply_to_user_id": "2071188380948553728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080564244916130269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kun114kun 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071188380948553728",
+        "conversation_id": "2080564244916130269",
+        "created_at": "2026-07-24T08:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080564244916130269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080564244916130269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要更多流量！更多曝光度！更多朋友！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发\n我的成分：\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 363,
+          "like_count": 5365,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-28T11:06:05.000Z",
+        "description": "原账号@rita_burns52614，邮箱被盗了……😭😭😭\n郑州男宅宅，重度音游人，明日方舟，英雄联盟，FGO，apex……（待开发）\n欢迎各位找我互fo，找我玩\n快来提问我https://t.co/dBc0ApOU7I\n100fo抽奖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "rita_burns52614"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/LST",
+                "end": 111,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 88,
+                "url": "https://t.co/dBc0ApOU7I"
+              }
+            ]
+          }
+        },
+        "id": "2071188380948553728",
+        "name": "困困神",
+        "pinned_tweet_id": "2075057436353089594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071188960148357120/ZimVh_Um_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 136,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "kun114kun",
+        "verified": true
+      }
+    ]
+  }
+}

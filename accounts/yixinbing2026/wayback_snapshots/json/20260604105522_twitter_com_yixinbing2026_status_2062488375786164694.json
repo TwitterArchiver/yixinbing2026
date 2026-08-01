@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2062478169786175554",
+    "created_at": "2026-06-04T10:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062488375786164694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906339730511560704",
+          "start": 0,
+          "username": "wuaichun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062488375786164694",
+    "in_reply_to_user_id": "1906339730511560704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062478169786175554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuaichun 我操字长这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_2062478161275949056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9k9c_akAA7eUs.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2062478169786175554",
+        "created_at": "2026-06-04T10:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062488375786164694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906339730511560704",
+              "start": 0,
+              "username": "wuaichun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062488375786164694",
+        "in_reply_to_user_id": "1906339730511560704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062478169786175554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuaichun 我操字长这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062478161275949056"
+          ]
+        },
+        "author_id": "1906339730511560704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062478169786175554",
+        "created_at": "2026-06-04T10:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062478169786175554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1qfAGySkI",
+              "end": 34,
+              "expanded_url": "https://x.com/wuaichun/status/2062478169786175554/photo/1",
+              "media_key": "3_2062478161275949056",
+              "start": 11,
+              "url": "https://t.co/I1qfAGySkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062478169786175554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校水果店你再这样呢 https://t.co/I1qfAGySkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 325,
+          "like_count": 4376,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-30T13:36:34.000Z",
+        "description": "找个地方说话｜",
+        "id": "1906339730511560704",
+        "name": "大智",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974162252283719680/hCgbgySF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 130,
+          "like_count": 4927,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1508
+        },
+        "username": "wuaichun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2043999860148580795",
+    "created_at": "2026-04-14T10:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043999860148580795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yixinbing2026/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/yixinbing2026/status/2043999601276129644",
+          "start": 10,
+          "url": "https://t.co/brnc2ZurGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043999860148580795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043999601276129644",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有一个🦟骚扰我😭 https://t.co/brnc2ZurGZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14728,
+        "height": 1280,
+        "media_key": "13_2043999511820021761",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043999511820021761/img/08xV78y5eVtgMXKS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043999511820021761/vid/avc1/320x568/Lb6bDX9Kye4odg4x.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043999511820021761/vid/avc1/480x852/6P98zFJn6RAigitm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043999511820021761/vid/avc1/720x1280/wTJdji1X6AIGSDLy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043999511820021761/pl/-hyAGlQTXCpb728z.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2043999860148580795",
+        "created_at": "2026-04-14T10:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043999860148580795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yixinbing2026/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/yixinbing2026/status/2043999601276129644",
+              "start": 10,
+              "url": "https://t.co/brnc2ZurGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043999860148580795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043999601276129644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一个🦟骚扰我😭 https://t.co/brnc2ZurGZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043999511820021761"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2043999601276129644",
+        "created_at": "2026-04-14T10:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043999601276129644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ezBppfDRg",
+              "end": 37,
+              "expanded_url": "https://x.com/yixinbing2026/status/2043999601276129644/video/1",
+              "media_key": "13_2043999511820021761",
+              "start": 14,
+              "url": "https://t.co/4ezBppfDRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043999601276129644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播昨晚就这样哭的崩溃之后 https://t.co/4ezBppfDRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 231,
+          "like_count": 1623,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

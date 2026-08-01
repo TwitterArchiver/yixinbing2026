@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2015116632931336468",
+    "created_at": "2026-01-24T19:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T20:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015144584167522716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1501915925578420228",
+          "start": 0,
+          "username": "shaojiull"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015144584167522716",
+    "in_reply_to_user_id": "1501915925578420228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015116632931336468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaojiull 算法越来越奇怪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2015116632931336468",
+        "created_at": "2026-01-24T19:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015144584167522716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1501915925578420228",
+              "start": 0,
+              "username": "shaojiull"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015144584167522716",
+        "in_reply_to_user_id": "1501915925578420228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015116632931336468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaojiull 算法越来越奇怪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1501915925578420228",
+        "conversation_id": "2015116632931336468",
+        "created_at": "2026-01-24T17:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015116632931336468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015116632931336468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3550,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉推特真人越来越少了，不是盗图就是人机😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 32,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-10T13:40:45.000Z",
+        "description": "",
+        "id": "1501915925578420228",
+        "location": "🚪68",
+        "name": "mio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840020929520513025/qXjrqdVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154851,
+          "following_count": 30,
+          "like_count": 748,
+          "listed_count": 225,
+          "media_count": 307,
+          "tweet_count": 463
+        },
+        "username": "shaojiull",
+        "verified": false
+      }
+    ]
+  }
+}

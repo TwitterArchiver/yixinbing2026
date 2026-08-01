@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2059375725803663465",
+    "created_at": "2026-05-27T12:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059610639887380974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1828500639459995648",
+          "start": 0,
+          "username": "nexTVTforose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059610639887380974",
+    "in_reply_to_user_id": "1828500639459995648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059375725803663465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nexTVTforose 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2059375725803663465",
+        "created_at": "2026-05-27T12:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059610639887380974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1828500639459995648",
+              "start": 0,
+              "username": "nexTVTforose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059610639887380974",
+        "in_reply_to_user_id": "1828500639459995648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059375725803663465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nexTVTforose 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828500639459995648",
+        "conversation_id": "2059375725803663465",
+        "created_at": "2026-05-26T20:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T21:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059375725803663465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059375725803663465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3723,
+          "like_count": 78,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "找对象一定要找原生家庭幸福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 316,
+          "like_count": 4173,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1801
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-27T18:31:49.000Z",
+        "description": "无/不闲聊",
+        "id": "1828500639459995648",
+        "location": "不加v不闲聊",
+        "name": "tearstained",
+        "pinned_tweet_id": "2026515271574499521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054612244969750528/RRwuQURH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 34,
+          "like_count": 8136,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 1677
+        },
+        "username": "nexTVTforose",
+        "verified": false
+      }
+    ]
+  }
+}

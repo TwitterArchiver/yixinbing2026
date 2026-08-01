@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027459046731919695",
+    "created_at": "2026-02-27T19:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T20:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027459046731919695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yixinbing2026/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yixinbing2026/status/2016241737220686085",
+          "start": 7,
+          "url": "https://t.co/NmWDN6paf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027459046731919695",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016241737220686085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每月固定节目 https://t.co/NmWDN6paf8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027459046731919695",
+        "created_at": "2026-02-27T19:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027459046731919695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yixinbing2026/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yixinbing2026/status/2016241737220686085",
+              "start": 7,
+              "url": "https://t.co/NmWDN6paf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027459046731919695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016241737220686085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每月固定节目 https://t.co/NmWDN6paf8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2016241737220686085",
+        "created_at": "2026-01-27T20:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016241737220686085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016241737220686085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 417,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去你妈的大姨妈老子恨你 垂死病中惊坐起就怕自己漏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 77,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 202
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

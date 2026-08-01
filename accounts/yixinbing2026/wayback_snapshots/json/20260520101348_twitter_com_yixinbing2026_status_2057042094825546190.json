@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2057016580681371717",
+    "created_at": "2026-05-20T10:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057042094825546190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957730266514092032",
+          "start": 0,
+          "username": "artemisu22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057042094825546190",
+    "in_reply_to_user_id": "1957730266514092032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057016580681371717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@artemisu22 姐姐好米"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11633,
+        "height": 1280,
+        "media_key": "13_2057016487660122112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057016487660122112/img/cwVgmZk3QzQKQ33Y.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057016487660122112/vid/avc1/320x568/1UtEJfxTsLYdxkcl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057016487660122112/vid/avc1/480x852/Msm0RbxoGykK8K9u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057016487660122112/vid/avc1/720x1280/saZAKSAEE_QXE2VB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057016487660122112/pl/E2-W0_sMP46A-frM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2057016580681371717",
+        "created_at": "2026-05-20T10:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057042094825546190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957730266514092032",
+              "start": 0,
+              "username": "artemisu22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057042094825546190",
+        "in_reply_to_user_id": "1957730266514092032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057016580681371717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artemisu22 姐姐好米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057016487660122112"
+          ]
+        },
+        "author_id": "1957730266514092032",
+        "conversation_id": "2057016580681371717",
+        "created_at": "2026-05-20T08:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057016580681371717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h06aYupxZp",
+              "end": 46,
+              "expanded_url": "https://x.com/artemisu22/status/2057016580681371717/video/1",
+              "media_key": "13_2057016487660122112",
+              "start": 23,
+              "url": "https://t.co/h06aYupxZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057016580681371717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是喜欢我的红黑阴阳头啊啊啊啊\n好想染回来 https://t.co/h06aYupxZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 312,
+          "like_count": 3497,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1512
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T09:04:10.000Z",
+        "description": "韩国香港两边走的苦命女孩\n我的threads被meta炸了23个号了\n现在我会低调转战推特分享生活\nNCT RIIZE ITZY🫶🏽💗",
+        "id": "1957730266514092032",
+        "name": "被meta炸了23个号的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056077057042604032/CigDNaLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 46,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 181
+        },
+        "username": "artemisu22",
+        "verified": false
+      }
+    ]
+  }
+}

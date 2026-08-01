@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2045734218018492550",
+    "created_at": "2026-04-19T09:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045790223272182201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1991976361356124160",
+          "start": 0,
+          "username": "YUANccorz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045790223272182201",
+    "in_reply_to_user_id": "1991976361356124160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045734218018492550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUANccorz 老婆萌死我了 洗衣粉我受你一靠子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045734188167655424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPoZ8aa8AAOHfi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045734186540208128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPoZ2WaEAAXqys.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2045734218018492550",
+        "created_at": "2026-04-19T09:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045790223272182201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1991976361356124160",
+              "start": 0,
+              "username": "YUANccorz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045790223272182201",
+        "in_reply_to_user_id": "1991976361356124160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045734218018492550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUANccorz 老婆萌死我了 洗衣粉我受你一靠子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045734188167655424",
+            "3_2045734186540208128"
+          ]
+        },
+        "author_id": "1991976361356124160",
+        "conversation_id": "2045734218018492550",
+        "created_at": "2026-04-19T05:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045734218018492550"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gUkldfhVx",
+              "end": 39,
+              "expanded_url": "https://x.com/YUANccorz/status/2045734218018492550/photo/1",
+              "media_key": "3_2045734188167655424",
+              "start": 16,
+              "url": "https://t.co/1gUkldfhVx"
+            },
+            {
+              "display_url": "pic.x.com/1gUkldfhVx",
+              "end": 39,
+              "expanded_url": "https://x.com/YUANccorz/status/2045734218018492550/photo/1",
+              "media_key": "3_2045734186540208128",
+              "start": 16,
+              "url": "https://t.co/1gUkldfhVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045734218018492550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呀吼，关注塔菲喵 #自撮り界隈 https://t.co/1gUkldfhVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "神临日期2010.10具体不说🤤\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 238,
+          "like_count": 1873,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T21:05:55.000Z",
+        "description": "世界上最温良之人",
+        "id": "1991976361356124160",
+        "location": "小狗男你把我毁了",
+        "name": "小缘",
+        "pinned_tweet_id": "2044986078655132011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035100921076822016/UOhIxsI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 92,
+          "like_count": 7092,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1524
+        },
+        "username": "YUANccorz",
+        "verified": false
+      }
+    ]
+  }
+}

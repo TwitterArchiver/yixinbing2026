@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2071575774616842409",
+    "created_at": "2026-07-04T15:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073428430583210001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2043240917898047488",
+          "start": 0,
+          "username": "Sssse9uv"
+        },
+        {
+          "end": 22,
+          "id": "1528005407469346818",
+          "start": 10,
+          "username": "K1raK1ra818"
+        },
+        {
+          "end": 36,
+          "id": "1579442033483075584",
+          "start": 23,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073428430583210001",
+    "in_reply_to_user_id": "2043240917898047488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071802699457368504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sssse9uv @K1raK1ra818 @26suversider 真的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2071575774616842409",
+        "created_at": "2026-07-04T15:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073428430583210001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2043240917898047488",
+              "start": 0,
+              "username": "Sssse9uv"
+            },
+            {
+              "end": 22,
+              "id": "1528005407469346818",
+              "start": 10,
+              "username": "K1raK1ra818"
+            },
+            {
+              "end": 36,
+              "id": "1579442033483075584",
+              "start": 23,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073428430583210001",
+        "in_reply_to_user_id": "2043240917898047488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071802699457368504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sssse9uv @K1raK1ra818 @26suversider 真的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043240917898047488",
+        "conversation_id": "2071575774616842409",
+        "created_at": "2026-06-30T03:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071802699457368504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528005407469346818",
+              "start": 0,
+              "username": "K1raK1ra818"
+            },
+            {
+              "end": 26,
+              "id": "1579442033483075584",
+              "start": 13,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071802699457368504",
+        "in_reply_to_user_id": "1528005407469346818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071756923528184028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1raK1ra818 @26suversider 一个卖港美的 开q群卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 od但不经常餐 找我聊天不想被限流了！独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们 小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 346,
+          "like_count": 4983,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-12T08:13:12.000Z",
+        "description": "od男 09 \n闺蜜 @Shu10oo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "Shu10oo"
+              }
+            ]
+          }
+        },
+        "id": "2043240917898047488",
+        "name": "瞬岁",
+        "pinned_tweet_id": "2070195353522143599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070525596128694272/g1gRYdG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 26,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "Sssse9uv",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "🩷@Jaime_Rimi\n熱戀中，愛搞音企，雜食黨。\nヘブバン/fgo/学マス/シャニマス/プロセカ/ガルパ/音ゲーム\n手毬P、広P。\nメンヘラかもん。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "1528005407469346818",
+        "name": "愛",
+        "pinned_tweet_id": "2018555992552968209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070891181513572352/Rm6A754__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 867,
+          "like_count": 17480,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 4140
+        },
+        "url": "",
+        "username": "K1raK1ra818",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bSSvHriTrl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sunxiaochuankk",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sunxiaochuankk",
+                "start": 21,
+                "url": "https://t.co/bSSvHriTrl"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 118,
+          "like_count": 803,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 828
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

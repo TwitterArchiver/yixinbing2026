@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2052656905273978897",
+    "created_at": "2026-05-08T10:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052690094793125921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041140932343652352",
+          "start": 0,
+          "username": "Liudisq5qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052690094793125921",
+    "in_reply_to_user_id": "2041140932343652352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052656905273978897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liudisq5qy 良之再怎么洗能洗成彭于晏吗😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1711,
+        "media_key": "3_2052656896046432256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyAkk6agAA9eku.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2052656905273978897",
+        "created_at": "2026-05-08T10:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052690094793125921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041140932343652352",
+              "start": 0,
+              "username": "Liudisq5qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052690094793125921",
+        "in_reply_to_user_id": "2041140932343652352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052656905273978897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liudisq5qy 良之再怎么洗能洗成彭于晏吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052656896046432256"
+          ]
+        },
+        "author_id": "2041140932343652352",
+        "conversation_id": "2052656905273978897",
+        "created_at": "2026-05-08T07:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052656905273978897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQCEgFTamq",
+              "end": 36,
+              "expanded_url": "https://x.com/Liudisq5qy/status/2052656905273978897/photo/1",
+              "media_key": "3_2052656896046432256",
+              "start": 13,
+              "url": "https://t.co/lQCEgFTamq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052656905273978897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但是宝贝呀 洗澡不是整容 https://t.co/lQCEgFTamq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（只有唯一员工版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 284,
+          "like_count": 2888,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T13:08:39.000Z",
+        "description": "我杯子：@chend8964\n闺蜜@ezimiD181155",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "chend8964"
+              },
+              {
+                "end": 30,
+                "start": 17,
+                "username": "ezimiD181155"
+              }
+            ]
+          }
+        },
+        "id": "2041140932343652352",
+        "name": "小柳",
+        "pinned_tweet_id": "2052549811916992677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047566740209700864/mOu8UD31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 11,
+          "like_count": 456,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 336
+        },
+        "username": "Liudisq5qy",
+        "verified": false
+      }
+    ]
+  }
+}

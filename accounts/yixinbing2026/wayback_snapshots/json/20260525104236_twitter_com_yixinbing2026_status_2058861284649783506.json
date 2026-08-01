@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058861272272420864"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "ALPHA DRIVE ONE Prologue Single ‘No School Tomorrow’ Spoiler Party\n\nALLYZ 오늘 쉬는 날이다! OMG!\n\n갑자기 생긴 쉬는 날 ALLYZ에게만 보여주는 OMG! Spoiler Party!\nALLYZ는 ALD1이랑 같이 놀 준비만 하면 돼 😻\n\n2026. 5. 25 7PM Coming Soon!",
+          "id": "2054422303950196736",
+          "name": "ALPHA DRIVE ONE Spoiler Party"
+        }
+      }
+    ],
+    "conversation_id": "2058861284649783506",
+    "created_at": "2026-05-25T10:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058861284649783506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5pLHO8UP9z",
+          "end": 55,
+          "expanded_url": "https://x.com/yixinbing2026/status/2058861284649783506/photo/1",
+          "media_key": "3_2058861272272420864",
+          "start": 32,
+          "url": "https://t.co/5pLHO8UP9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058861284649783506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "omg我忘记发了 这个小宝宝是谁🤤 天天开心！你会越来越好的！ https://t.co/5pLHO8UP9z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_2058861272272420864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKLazebQAAWzbP.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058861272272420864"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "ALPHA DRIVE ONE Prologue Single ‘No School Tomorrow’ Spoiler Party\n\nALLYZ 오늘 쉬는 날이다! OMG!\n\n갑자기 생긴 쉬는 날 ALLYZ에게만 보여주는 OMG! Spoiler Party!\nALLYZ는 ALD1이랑 같이 놀 준비만 하면 돼 😻\n\n2026. 5. 25 7PM Coming Soon!",
+              "id": "2054422303950196736",
+              "name": "ALPHA DRIVE ONE Spoiler Party"
+            }
+          }
+        ],
+        "conversation_id": "2058861284649783506",
+        "created_at": "2026-05-25T10:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058861284649783506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5pLHO8UP9z",
+              "end": 55,
+              "expanded_url": "https://x.com/yixinbing2026/status/2058861284649783506/photo/1",
+              "media_key": "3_2058861272272420864",
+              "start": 32,
+              "url": "https://t.co/5pLHO8UP9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058861284649783506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "omg我忘记发了 这个小宝宝是谁🤤 天天开心！你会越来越好的！ https://t.co/5pLHO8UP9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 337,
+          "like_count": 3908,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1715
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

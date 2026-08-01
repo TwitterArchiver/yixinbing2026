@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2055883867152924992",
+    "created_at": "2026-05-17T08:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055928052056748094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041140932343652352",
+          "start": 0,
+          "username": "Liudisq5qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055928052056748094",
+    "in_reply_to_user_id": "2041140932343652352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055883867152924992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liudisq5qy 求给我捐款😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055883857547968513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf3edSbQAER-rN.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2055883867152924992",
+        "created_at": "2026-05-17T08:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055928052056748094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041140932343652352",
+              "start": 0,
+              "username": "Liudisq5qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055928052056748094",
+        "in_reply_to_user_id": "2041140932343652352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055883867152924992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liudisq5qy 求给我捐款😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055883857547968513"
+          ]
+        },
+        "author_id": "2041140932343652352",
+        "conversation_id": "2055883867152924992",
+        "created_at": "2026-05-17T05:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055883867152924992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/02z0auCFZW",
+              "end": 34,
+              "expanded_url": "https://x.com/Liudisq5qy/status/2055883867152924992/photo/1",
+              "media_key": "3_2055883857547968513",
+              "start": 11,
+              "url": "https://t.co/02z0auCFZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055883867152924992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "余额一个亿 不好意思 https://t.co/02z0auCFZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "重开日期2010.10 成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 303,
+          "like_count": 3351,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1435
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T13:08:39.000Z",
+        "description": "闺蜜@ezimiD181155\n匿名箱：https://t.co/VDIqpFzaQz\n不加墙内除非打钱 友跨\n小号：@jiangyuqing08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "ezimiD181155"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "jiangyuqing08"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kagami60657",
+                "end": 43,
+                "expanded_url": "https://ngl.link/kagami60657",
+                "start": 20,
+                "url": "https://t.co/VDIqpFzaQz"
+              }
+            ]
+          }
+        },
+        "id": "2041140932343652352",
+        "name": "小柳",
+        "pinned_tweet_id": "2053644599219167637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047566740209700864/mOu8UD31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 11,
+          "like_count": 677,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 385
+        },
+        "username": "Liudisq5qy",
+        "verified": false
+      }
+    ]
+  }
+}

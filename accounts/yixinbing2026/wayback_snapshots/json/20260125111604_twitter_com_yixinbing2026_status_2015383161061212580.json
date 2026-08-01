@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2015162763354767843",
+    "created_at": "2026-01-25T11:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015383161061212580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miaooo_47"
+        },
+        {
+          "end": 19,
+          "id": "1958590105523806208",
+          "start": 11,
+          "username": "pupullz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015383161061212580",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015258949512220859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaooo_47 @pupullz 😭点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2015162763354767843",
+        "created_at": "2026-01-25T11:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015383161061212580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miaooo_47"
+            },
+            {
+              "end": 19,
+              "id": "1958590105523806208",
+              "start": 11,
+              "username": "pupullz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015383161061212580",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015258949512220859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaooo_47 @pupullz 😭点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000126709375623168",
+        "conversation_id": "2015162763354767843",
+        "created_at": "2026-01-25T03:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015258949512220859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1958590105523806208",
+              "start": 0,
+              "username": "pupullz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015258949512220859",
+        "in_reply_to_user_id": "1958590105523806208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015162763354767843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pupullz 知识要是能通过性传播就好了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 33,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 63
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡| infp 双 | ❗️好相处 喜欢互动 都来找我丸 | 当朋友圈发 | 一个人的碎碎念 | 可能是抽象文案bot | 会存一些自己很有感触的话 | 匿名📮 https://t.co/K4cJAy1QYM ┆·✦ʚ♡ɞ✦·┆妹宝们需要互fo请私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cooliya96",
+                "end": 119,
+                "expanded_url": "https://ngl.link/cooliya96",
+                "start": 96,
+                "url": "https://t.co/K4cJAy1QYM"
+              }
+            ]
+          }
+        },
+        "id": "2000126709375623168",
+        "name": "遥",
+        "pinned_tweet_id": "2015080151571399069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010363420365979648/Err54w1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 122,
+          "like_count": 1730,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 555
+        },
+        "username": "Miaooo_47",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T18:01:01.000Z",
+        "description": "色情点很高的m系小画家 当朋友圈发 无门槛 不➕v   ps:熟人看到请绕道。",
+        "id": "1958590105523806208",
+        "name": "pupu 66z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000612136532512768/QVJg-kjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 204,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 124
+        },
+        "username": "pupullz",
+        "verified": false
+      }
+    ]
+  }
+}

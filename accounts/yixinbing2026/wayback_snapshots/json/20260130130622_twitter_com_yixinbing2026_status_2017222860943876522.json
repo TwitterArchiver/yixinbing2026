@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2015587585733894549",
+    "created_at": "2026-01-30T13:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T14:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017222860943876522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1704916763790487552",
+          "start": 0,
+          "username": "yimijiu0304"
+        },
+        {
+          "end": 23,
+          "id": "1995419766954291200",
+          "start": 13,
+          "username": "dinuanmei"
+        },
+        {
+          "end": 38,
+          "id": "1989585929540177920",
+          "start": 24,
+          "username": "kojun_actor67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017222860943876522",
+    "in_reply_to_user_id": "1704916763790487552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015853747315118530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yimijiu0304 @dinuanmei @kojun_actor67 我小学看过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2015587585733894549",
+        "created_at": "2026-01-30T13:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017222860943876522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1704916763790487552",
+              "start": 0,
+              "username": "yimijiu0304"
+            },
+            {
+              "end": 23,
+              "id": "1995419766954291200",
+              "start": 13,
+              "username": "dinuanmei"
+            },
+            {
+              "end": 38,
+              "id": "1989585929540177920",
+              "start": 24,
+              "username": "kojun_actor67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017222860943876522",
+        "in_reply_to_user_id": "1704916763790487552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015853747315118530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yimijiu0304 @dinuanmei @kojun_actor67 我小学看过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704916763790487552",
+        "conversation_id": "2015587585733894549",
+        "created_at": "2026-01-26T18:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015853747315118530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995419766954291200",
+              "start": 0,
+              "username": "dinuanmei"
+            },
+            {
+              "end": 25,
+              "id": "1989585929540177920",
+              "start": 11,
+              "username": "kojun_actor67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015853747315118530",
+        "in_reply_to_user_id": "1995419766954291200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015852726559940838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinuanmei @kojun_actor67 这个视频我初中就有了，现在我上大学了这个还能有这么多流量吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "🇨🇳装松弛感刷推 立场正确 皮下女生 我的冲浪一条线罢 10后",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016166797398220800/9ait4Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 58,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 107
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T17:53:32.000Z",
+        "description": "小号@yimijiu131022，匿名提问箱https://t.co/0Q3JrfbYRm，主页有🐔警告❌。辽宁，06年|190|105|14cm上翘大龟头|第五人格，篮球|ENFP|钢铁直男|。男的想看视频请过🚪🤓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "yimijiu131022"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fafehe7242",
+                "end": 45,
+                "expanded_url": "https://ngl.link/fafehe7242",
+                "start": 22,
+                "url": "https://t.co/0Q3JrfbYRm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fafehe7242",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fafehe7242",
+                "start": 0,
+                "url": "https://t.co/0Q3JrfbYRm"
+              }
+            ]
+          }
+        },
+        "id": "1704916763790487552",
+        "location": "北京",
+        "name": "重生之我是薏米酒",
+        "pinned_tweet_id": "1894376354130661761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894040110116855808/ZEdTNm5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 783,
+          "like_count": 8039,
+          "listed_count": 1,
+          "media_count": 767,
+          "tweet_count": 10295
+        },
+        "url": "https://t.co/0Q3JrfbYRm",
+        "username": "yimijiu0304",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T09:08:49.000Z",
+        "description": "当朋友圈发 只喜欢和友好的人聊天",
+        "id": "1995419766954291200",
+        "name": "就叫木子",
+        "pinned_tweet_id": "2003577595187851521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016376830752595969/6Qlvs8Mf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 30,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 698
+        },
+        "username": "dinuanmei",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T06:47:36.000Z",
+        "description": "유튜브 피핑 채널 / 팬클럽 주소",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buff.ly/wkV9WW6",
+                "end": 23,
+                "expanded_url": "https://buff.ly/wkV9WW6",
+                "start": 0,
+                "url": "https://t.co/zUJ9OCR4ho"
+              }
+            ]
+          }
+        },
+        "id": "1989585929540177920",
+        "name": "고준",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002771737231167488/3QPnkBcJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3325,
+          "following_count": 30,
+          "like_count": 135,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/zUJ9OCR4ho",
+        "username": "kojun_actor67",
+        "verified": false
+      }
+    ]
+  }
+}

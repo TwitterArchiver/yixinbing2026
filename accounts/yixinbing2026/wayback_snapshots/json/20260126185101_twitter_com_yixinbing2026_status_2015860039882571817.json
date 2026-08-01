@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2015860039882571817",
+    "created_at": "2026-01-26T18:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T19:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015860039882571817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "疑心病’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1jMKg…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1jMKgRLpdRPxL",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 无聊谁没睡",
+          "unwound_url": "https://twitter.com/i/spaces/1jMKgRLpdRPxL/peek",
+          "url": "https://t.co/YofICaXoRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015860039882571817",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/YofICaXoRP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2015860039882571817",
+        "created_at": "2026-01-26T18:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015860039882571817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "疑心病’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1jMKg…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1jMKgRLpdRPxL",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 无聊谁没睡",
+              "unwound_url": "https://twitter.com/i/spaces/1jMKgRLpdRPxL/peek",
+              "url": "https://t.co/YofICaXoRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015860039882571817",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YofICaXoRP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 38,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 68
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

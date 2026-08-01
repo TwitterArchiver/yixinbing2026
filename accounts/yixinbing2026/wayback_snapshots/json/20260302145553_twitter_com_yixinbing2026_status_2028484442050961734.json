@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2028417914953695664",
+    "created_at": "2026-03-02T14:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028484442050961734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865782800110010368",
+          "start": 0,
+          "username": "Cheesecateo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028484442050961734",
+    "in_reply_to_user_id": "1865782800110010368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028417914953695664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheesecateo 我也喜欢救命 终于有人懂了🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028417906518982656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZjVsYbAAA1DxH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2028417914953695664",
+        "created_at": "2026-03-02T14:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028484442050961734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865782800110010368",
+              "start": 0,
+              "username": "Cheesecateo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028484442050961734",
+        "in_reply_to_user_id": "1865782800110010368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028417914953695664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheesecateo 我也喜欢救命 终于有人懂了🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028417906518982656"
+          ]
+        },
+        "author_id": "1865782800110010368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028417914953695664",
+        "created_at": "2026-03-02T10:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028417914953695664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBHvtx0Tus",
+              "end": 36,
+              "expanded_url": "https://x.com/Cheesecateo/status/2028417914953695664/photo/1",
+              "media_key": "3_2028417906518982656",
+              "start": 13,
+              "url": "https://t.co/YBHvtx0Tus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028417914953695664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6921,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 87,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们懂不懂饺子蘸番茄酱🚬 https://t.co/YBHvtx0Tus"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者  没门槛不随便加微信 我不约 我随便发的 我是女的我不约",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 84,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T15:37:56.000Z",
+        "description": "我和我的碎碎念 欢迎你来了解我ᯠ_ ̫ _ᯄ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cheesecateo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cheesecateo1",
+                "start": 0,
+                "url": "https://t.co/by4qRSs5Ns"
+              }
+            ]
+          }
+        },
+        "id": "1865782800110010368",
+        "location": "🤲🏻288/520/1314          📭➡️",
+        "name": "还没睡醒",
+        "pinned_tweet_id": "2024297937111826764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024918486951362561/5lHgOnPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 233,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 4514
+        },
+        "url": "https://t.co/by4qRSs5Ns",
+        "username": "Cheesecateo",
+        "verified": false
+      }
+    ]
+  }
+}

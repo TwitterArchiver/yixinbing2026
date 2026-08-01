@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2053875505246679549",
+    "created_at": "2026-05-11T18:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T19:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053900888914514122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843360729199718404",
+          "start": 0,
+          "username": "longlongp97w"
+        },
+        {
+          "end": 23,
+          "id": "2049330128988037120",
+          "start": 14,
+          "username": "Longrc7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053900888914514122",
+    "in_reply_to_user_id": "1843360729199718404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053875505246679549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longlongp97w @Longrc7x 欢迎～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053875494693793792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDU4WoacAA96L2.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2053875505246679549",
+        "created_at": "2026-05-11T18:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T19:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053900888914514122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843360729199718404",
+              "start": 0,
+              "username": "longlongp97w"
+            },
+            {
+              "end": 23,
+              "id": "2049330128988037120",
+              "start": 14,
+              "username": "Longrc7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053900888914514122",
+        "in_reply_to_user_id": "1843360729199718404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053875505246679549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longlongp97w @Longrc7x 欢迎～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053875494693793792"
+          ]
+        },
+        "author_id": "1843360729199718404",
+        "conversation_id": "2053875505246679549",
+        "created_at": "2026-05-11T16:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053875505246679549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "2049330128988037120",
+              "start": 35,
+              "username": "Longrc7x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ou21ESFXzp",
+              "end": 68,
+              "expanded_url": "https://x.com/longlongp97w/status/2053875505246679549/photo/1",
+              "media_key": "3_2053875494693793792",
+              "start": 45,
+              "url": "https://t.co/ou21ESFXzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053875505246679549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我复活了，我回来了…..互fo可以去关注一下我小号，防以后我有被拿下😭@Longrc7x https://t.co/ou21ESFXzp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 293,
+          "like_count": 3104,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）ps.龙的聊天能力堪比人机，龙喜欢被夸🥰,然后我不是同！想多找互关呀，提问箱：https://t.co/oCgXhmsRO0\n小号：@longrc7x  #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "碎碎念"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 142,
+                "start": 133,
+                "username": "longrc7x"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 129,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 106,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050705580327587841/0FGws5YT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 217,
+          "like_count": 9702,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/oCgXhmsRO0",
+        "username": "longlongp97w",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T03:30:02.000Z",
+        "description": "小号善良人格，防被封\n大号@longlongp97w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "longlongp97w"
+              }
+            ]
+          }
+        },
+        "id": "2049330128988037120",
+        "name": "龙（2.0)",
+        "pinned_tweet_id": "2051332179662422472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330433830096896/7gWHHcgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 89,
+          "like_count": 1726,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 184
+        },
+        "username": "Longrc7x",
+        "verified": false
+      }
+    ]
+  }
+}

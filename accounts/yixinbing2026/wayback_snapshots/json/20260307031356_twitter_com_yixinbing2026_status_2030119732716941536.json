@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2029411584054112412",
+    "created_at": "2026-03-07T03:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T04:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030119732716941536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3458374812",
+          "start": 0,
+          "username": "fvOjubXHpbOzsmZ"
+        },
+        {
+          "end": 27,
+          "id": "1306872537754800129",
+          "start": 17,
+          "username": "VaisSpais"
+        },
+        {
+          "end": 36,
+          "id": "1607358782",
+          "start": 28,
+          "username": "j661196"
+        },
+        {
+          "end": 48,
+          "id": "1862535475031928832",
+          "start": 37,
+          "username": "jackson_l7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030119732716941536",
+    "in_reply_to_user_id": "3458374812",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030119126203871514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fvOjubXHpbOzsmZ @VaisSpais @j661196 @jackson_l7 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2029411584054112412",
+        "created_at": "2026-03-07T03:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T04:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030119732716941536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3458374812",
+              "start": 0,
+              "username": "fvOjubXHpbOzsmZ"
+            },
+            {
+              "end": 27,
+              "id": "1306872537754800129",
+              "start": 17,
+              "username": "VaisSpais"
+            },
+            {
+              "end": 36,
+              "id": "1607358782",
+              "start": 28,
+              "username": "j661196"
+            },
+            {
+              "end": 48,
+              "id": "1862535475031928832",
+              "start": 37,
+              "username": "jackson_l7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030119732716941536",
+        "in_reply_to_user_id": "3458374812",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030119126203871514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fvOjubXHpbOzsmZ @VaisSpais @j661196 @jackson_l7 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3458374812",
+        "conversation_id": "2029411584054112412",
+        "created_at": "2026-03-07T03:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T04:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030119126203871514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1306872537754800129",
+              "start": 0,
+              "username": "VaisSpais"
+            },
+            {
+              "end": 19,
+              "id": "1607358782",
+              "start": 11,
+              "username": "j661196"
+            },
+            {
+              "end": 31,
+              "id": "1862535475031928832",
+              "start": 20,
+              "username": "jackson_l7"
+            },
+            {
+              "end": 46,
+              "id": "2014553095255293955",
+              "start": 32,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030119126203871514",
+        "in_reply_to_user_id": "1306872537754800129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030117174061523047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VaisSpais @j661196 @jackson_l7 @yixinbing2026 已互"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者 没门槛 不随便加微信 我不约 我随便发的 我是女的我不约 看成分回关 我不圈钱也不性骚扰的 不要恶意揣测我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 143,
+          "like_count": 819,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-05T10:46:30.000Z",
+        "description": "本人经验丰富无法阐述.......",
+        "id": "3458374812",
+        "name": "陳筱雯🐬TermMax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007280205556318208/AQYTp_xv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 16
+        },
+        "username": "fvOjubXHpbOzsmZ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-18T08:28:01.000Z",
+        "description": "Студент, в прошлом турист",
+        "id": "1306872537754800129",
+        "location": "Уфа, Башкортостан республика",
+        "name": "VaisSpais",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1307168817789964288/H86evWFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 61,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "VaisSpais",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-20T03:46:14.000Z",
+        "description": "追风赶月莫停留，平芜尽处是春山",
+        "id": "1607358782",
+        "name": "互关芒果🐬TermMax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007279017494454272/CALh2Ix4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 31,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "username": "j661196",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T16:34:06.000Z",
+        "description": "",
+        "id": "1862535475031928832",
+        "name": "jackson_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014331486770741248/s9voQUzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 25,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "jackson_l7",
+        "verified": false
+      }
+    ]
+  }
+}

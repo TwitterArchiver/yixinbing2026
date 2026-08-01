@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2042986324207231035",
+    "created_at": "2026-04-11T15:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042986324207231035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yixinbing2026/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yixinbing2026/status/2042899112287441202",
+          "start": 9,
+          "url": "https://t.co/67sHdmth5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042986324207231035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042899112287441202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不扩了 谢谢喜欢 https://t.co/67sHdmth5i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2042986324207231035",
+        "created_at": "2026-04-11T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042986324207231035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yixinbing2026/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yixinbing2026/status/2042899112287441202",
+              "start": 9,
+              "url": "https://t.co/67sHdmth5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042986324207231035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042899112287441202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不扩了 谢谢喜欢 https://t.co/67sHdmth5i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2042899112287441202",
+        "created_at": "2026-04-11T09:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042899112287441202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yixinbing2026/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/yixinbing2026/status/2042861962019946565",
+              "start": 28,
+              "url": "https://t.co/h4YR9kDG6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042899112287441202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042861962019946565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主播回不过来了你们太热情了😭 人再多就创群了 谢谢大家 https://t.co/h4YR9kDG6u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "你想知道什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 207,
+          "like_count": 1469,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

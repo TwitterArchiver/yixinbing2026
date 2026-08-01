@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060827868511571968"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2060827880071008667",
+    "created_at": "2026-05-30T20:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T21:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060827880071008667"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5VvO4Hygys",
+          "end": 35,
+          "expanded_url": "https://x.com/yixinbing2026/status/2060827880071008667/photo/1",
+          "media_key": "3_2060827868511571968",
+          "start": 12,
+          "url": "https://t.co/5VvO4Hygys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060827880071008667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会发着呆 然后忘记你 https://t.co/5VvO4Hygys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2060827868511571968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmIBxXbkAAKrI9.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060827868511571968"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2060827880071008667",
+        "created_at": "2026-05-30T20:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060827880071008667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5VvO4Hygys",
+              "end": 35,
+              "expanded_url": "https://x.com/yixinbing2026/status/2060827880071008667/photo/1",
+              "media_key": "3_2060827868511571968",
+              "start": 12,
+              "url": "https://t.co/5VvO4Hygys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060827880071008667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会发着呆 然后忘记你 https://t.co/5VvO4Hygys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 319,
+          "like_count": 4293,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      }
+    ]
+  }
+}

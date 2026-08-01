@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015385794660433920"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2015385824867831879",
+    "created_at": "2026-01-25T11:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015385824867831879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/khkNB8taKh",
+          "end": 29,
+          "expanded_url": "https://x.com/yixinbing2026/status/2015385824867831879/photo/1",
+          "media_key": "3_2015385794660433920",
+          "start": 6,
+          "url": "https://t.co/khkNB8taKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015385824867831879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雷霆特效🤣 https://t.co/khkNB8taKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2015385794660433920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gWs8gagAAhjcn.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015385794660433920"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2015385824867831879",
+        "created_at": "2026-01-25T11:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015385824867831879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khkNB8taKh",
+              "end": 29,
+              "expanded_url": "https://x.com/yixinbing2026/status/2015385824867831879/photo/1",
+              "media_key": "3_2015385794660433920",
+              "start": 6,
+              "url": "https://t.co/khkNB8taKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015385824867831879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雷霆特效🤣 https://t.co/khkNB8taKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 33,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

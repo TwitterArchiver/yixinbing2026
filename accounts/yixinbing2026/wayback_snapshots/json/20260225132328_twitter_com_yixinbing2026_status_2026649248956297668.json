@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026649231872925696"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2026649248956297668",
+    "created_at": "2026-02-25T13:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T14:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026649248956297668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5wgmf6TYQW",
+          "end": 52,
+          "expanded_url": "https://x.com/yixinbing2026/status/2026649248956297668/photo/1",
+          "media_key": "3_2026649231872925696",
+          "start": 29,
+          "url": "https://t.co/5wgmf6TYQW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026649248956297668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实去年很火的这个姿势 开广角手指往上放卡视角可以拍出来 https://t.co/5wgmf6TYQW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2026649231872925696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAavR4aoAAOoF-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026649231872925696"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2026649248956297668",
+        "created_at": "2026-02-25T13:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026649248956297668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wgmf6TYQW",
+              "end": 52,
+              "expanded_url": "https://x.com/yixinbing2026/status/2026649248956297668/photo/1",
+              "media_key": "3_2026649231872925696",
+              "start": 29,
+              "url": "https://t.co/5wgmf6TYQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026649248956297668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实去年很火的这个姿势 开广角手指往上放卡视角可以拍出来 https://t.co/5wgmf6TYQW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "偶而看看",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 69,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 158
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

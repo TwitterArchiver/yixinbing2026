@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2052903159140606082",
+    "created_at": "2026-05-09T06:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052992187168879063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2049330128988037120",
+          "start": 0,
+          "username": "Longrc7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052992187168879063",
+    "in_reply_to_user_id": "2049330128988037120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052903159140606082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Longrc7x 都有吧 泛指"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2052903159140606082",
+        "created_at": "2026-05-09T06:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052992187168879063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2049330128988037120",
+              "start": 0,
+              "username": "Longrc7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052992187168879063",
+        "in_reply_to_user_id": "2049330128988037120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052903159140606082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longrc7x 都有吧 泛指"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049330128988037120",
+        "conversation_id": "2052903159140606082",
+        "created_at": "2026-05-09T00:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T01:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052903159140606082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lizisu2000/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/lizisu2000/status/2052772427143446803",
+              "start": 58,
+              "url": "https://t.co/DFIiv4DPlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052903159140606082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052772427143446803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有个问题，xp到底是性癖（看到后会起欲望）还是喜欢的人物特征（看到后就是纯粹的喜欢），我感觉好多人都把他们搞混了 https://t.co/DFIiv4DPlA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（只有唯一员工版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 286,
+          "like_count": 2933,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T03:30:02.000Z",
+        "description": "小号善良人格，防被封\n大号@longlongp97w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "longlongp97w"
+              }
+            ]
+          }
+        },
+        "id": "2049330128988037120",
+        "name": "龙（2.0)",
+        "pinned_tweet_id": "2051332179662422472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330433830096896/7gWHHcgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 71,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 131
+        },
+        "username": "Longrc7x",
+        "verified": false
+      }
+    ]
+  }
+}

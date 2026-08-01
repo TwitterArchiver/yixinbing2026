@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2074426811795354040",
+    "created_at": "2026-07-07T16:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074524493738049919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047313822420283392",
+          "start": 0,
+          "username": "bbdjeo4a"
+        },
+        {
+          "end": 22,
+          "id": "1893615880304832512",
+          "start": 10,
+          "username": "ThbggC73706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074524493738049919",
+    "in_reply_to_user_id": "2047313822420283392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074523852529434973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbdjeo4a @ThbggC73706 这是ai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2074426811795354040",
+        "created_at": "2026-07-07T16:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074524493738049919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047313822420283392",
+              "start": 0,
+              "username": "bbdjeo4a"
+            },
+            {
+              "end": 22,
+              "id": "1893615880304832512",
+              "start": 10,
+              "username": "ThbggC73706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074524493738049919",
+        "in_reply_to_user_id": "2047313822420283392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074523852529434973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbdjeo4a @ThbggC73706 这是ai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047313822420283392",
+        "conversation_id": "2074426811795354040",
+        "created_at": "2026-07-07T16:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074523852529434973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893615880304832512",
+              "start": 0,
+              "username": "ThbggC73706"
+            },
+            {
+              "end": 27,
+              "id": "2014553095255293955",
+              "start": 13,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074523852529434973",
+        "in_reply_to_user_id": "1893615880304832512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074446276532506800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThbggC73706 @yixinbing2026 是的 超级容易掉色 而且素颜有点hold不住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 od但不经常餐 找我聊天不想被限流了！独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们 小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 348,
+          "like_count": 5035,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2110
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T13:58:44.000Z",
+        "description": "",
+        "id": "2047313822420283392",
+        "name": "bbdj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047314329259982848/NtzTnxq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 136,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "bbdjeo4a",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T10:59:11.000Z",
+        "description": "",
+        "id": "1893615880304832512",
+        "name": "Thbgg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925750342811058176/XcxwWnME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 58,
+          "like_count": 3086,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "ThbggC73706",
+        "verified": false
+      }
+    ]
+  }
+}

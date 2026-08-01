@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2053979279138902453",
+    "created_at": "2026-05-12T19:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T20:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054286588822294877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2052374028636024833",
+          "start": 0,
+          "username": "bhyshdnl"
+        },
+        {
+          "end": 23,
+          "id": "1053157503461027840",
+          "start": 10,
+          "username": "yifengchen28"
+        },
+        {
+          "end": 35,
+          "id": "1535701819812462600",
+          "start": 24,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054286588822294877",
+    "in_reply_to_user_id": "2052374028636024833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054181434877968729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bhyshdnl @yifengchen28 @Kenntnis22 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2053979279138902453",
+        "created_at": "2026-05-12T19:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054286588822294877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2052374028636024833",
+              "start": 0,
+              "username": "bhyshdnl"
+            },
+            {
+              "end": 23,
+              "id": "1053157503461027840",
+              "start": 10,
+              "username": "yifengchen28"
+            },
+            {
+              "end": 35,
+              "id": "1535701819812462600",
+              "start": 24,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054286588822294877",
+        "in_reply_to_user_id": "2052374028636024833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054181434877968729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bhyshdnl @yifengchen28 @Kenntnis22 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052374028636024833",
+        "conversation_id": "2053979279138902453",
+        "created_at": "2026-05-12T12:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054181434877968729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1053157503461027840",
+              "start": 0,
+              "username": "yifengchen28"
+            },
+            {
+              "end": 25,
+              "id": "1535701819812462600",
+              "start": 14,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054181434877968729",
+        "in_reply_to_user_id": "1053157503461027840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054057478732886527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifengchen28 @Kenntnis22 我他妈还真去过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 爱我请尝试给我打钱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 295,
+          "like_count": 3172,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T13:05:41.000Z",
+        "description": "",
+        "id": "2052374028636024833",
+        "name": "宇智波佐助",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052760635952504833/HqfsJe8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 73,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "bhyshdnl",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-19T05:34:50.000Z",
+        "description": "维尼写诗 维尼禁止 维尼做不可能的事 维尼学会弹琴写词 维尼失去理智",
+        "id": "1053157503461027840",
+        "name": "维尼写诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1326575939766026240/FQKS_O04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4868,
+          "following_count": 6536,
+          "like_count": 444543,
+          "listed_count": 20,
+          "media_count": 977,
+          "tweet_count": 46232
+        },
+        "username": "yifengchen28",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2054170667294060623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54732,
+          "following_count": 438,
+          "like_count": 57329,
+          "listed_count": 263,
+          "media_count": 12240,
+          "tweet_count": 18745
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027457799186473347",
+    "created_at": "2026-02-27T18:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027457799186473347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1783058785134895104",
+          "start": 3,
+          "username": "youaremylove976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027457799186473347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027237981774545117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youaremylove976: 教大家一个暧昧小技巧\n就是如果你发现对方在卖萌或者卖惨\n你可以直接打钱过去\n就说我买了！\n学会了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027457799186473347",
+        "created_at": "2026-02-27T18:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027457799186473347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1783058785134895104",
+              "start": 3,
+              "username": "youaremylove976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027457799186473347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027237981774545117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youaremylove976: 教大家一个暧昧小技巧\n就是如果你发现对方在卖萌或者卖惨\n你可以直接打钱过去\n就说我买了！\n学会了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783058785134895104",
+        "conversation_id": "2027237981774545117",
+        "created_at": "2026-02-27T04:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027237981774545117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027237981774545117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15456,
+          "like_count": 237,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "教大家一个暧昧小技巧\n就是如果你发现对方在卖萌或者卖惨\n你可以直接打钱过去\n就说我买了！\n学会了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 77,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 199
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T09:02:06.000Z",
+        "description": "直男 随便发发日常，欢迎大家找我聊天\n可以来玩匿名喔https://t.co/zvsivWwNz9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wudixiaomao",
+                "end": 49,
+                "expanded_url": "https://ngl.link/wudixiaomao",
+                "start": 26,
+                "url": "https://t.co/zvsivWwNz9"
+              }
+            ]
+          }
+        },
+        "id": "1783058785134895104",
+        "name": "电子止疼药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892950429870264321/VhtiFZNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 248,
+          "like_count": 2914,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1252
+        },
+        "username": "youaremylove976",
+        "verified": false
+      }
+    ]
+  }
+}

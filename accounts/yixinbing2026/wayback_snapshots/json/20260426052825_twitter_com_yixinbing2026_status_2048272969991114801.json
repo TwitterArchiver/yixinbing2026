@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2047986982316622241",
+    "created_at": "2026-04-26T05:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048272969991114801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2027373195901480960",
+          "start": 0,
+          "username": "Nimmmaiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048272969991114801",
+    "in_reply_to_user_id": "2027373195901480960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047986982316622241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nimmmaiii 点个赞bro自动解锁聊骚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047986970291552256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvpTHzbQAA7XKE.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047986970232860672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvpTHlbsAAKvvB.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2047986982316622241",
+        "created_at": "2026-04-26T05:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048272969991114801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2027373195901480960",
+              "start": 0,
+              "username": "Nimmmaiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048272969991114801",
+        "in_reply_to_user_id": "2027373195901480960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047986982316622241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nimmmaiii 点个赞bro自动解锁聊骚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047986970291552256",
+            "3_2047986970232860672"
+          ]
+        },
+        "author_id": "2027373195901480960",
+        "conversation_id": "2047986982316622241",
+        "created_at": "2026-04-25T10:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047986982316622241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBL7xCpWBf",
+              "end": 36,
+              "expanded_url": "https://x.com/Nimmmaiii/status/2047986982316622241/photo/1",
+              "media_key": "3_2047986970291552256",
+              "start": 13,
+              "url": "https://t.co/tBL7xCpWBf"
+            },
+            {
+              "display_url": "pic.x.com/tBL7xCpWBf",
+              "end": 36,
+              "expanded_url": "https://x.com/Nimmmaiii/status/2047986982316622241/photo/1",
+              "media_key": "3_2047986970232860672",
+              "start": 13,
+              "url": "https://t.co/tBL7xCpWBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047986982316622241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 407988,
+          "like_count": 449,
+          "quote_count": 1,
+          "reply_count": 323,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "额，我就给你点了个赞而已 https://t.co/tBL7xCpWBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "其实我也不太了解她\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（升级版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 247,
+          "like_count": 2365,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T13:20:20.000Z",
+        "description": "拒绝任何形式的开黄腔",
+        "id": "2027373195901480960",
+        "name": "我不要",
+        "pinned_tweet_id": "2027395455286706633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027374208909742080/DUyEzwVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 15,
+          "like_count": 180,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 193
+        },
+        "username": "Nimmmaiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2059294629992993092",
+    "created_at": "2026-05-27T06:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059529201334804958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041140932343652352",
+          "start": 0,
+          "username": "Liudisq5qy"
+        },
+        {
+          "end": 22,
+          "id": "2048743225763233793",
+          "start": 12,
+          "username": "Bfhhhxwwh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059529201334804958",
+    "in_reply_to_user_id": "2041140932343652352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059529072468967864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liudisq5qy @Bfhhhxwwh 牛逼 神他妈的四角裤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2059294629992993092",
+        "created_at": "2026-05-27T06:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059529201334804958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041140932343652352",
+              "start": 0,
+              "username": "Liudisq5qy"
+            },
+            {
+              "end": 22,
+              "id": "2048743225763233793",
+              "start": 12,
+              "username": "Bfhhhxwwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059529201334804958",
+        "in_reply_to_user_id": "2041140932343652352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059529072468967864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liudisq5qy @Bfhhhxwwh 牛逼 神他妈的四角裤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041140932343652352",
+        "conversation_id": "2059294629992993092",
+        "created_at": "2026-05-27T06:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059529072468967864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 25,
+              "id": "2048743225763233793",
+              "start": 15,
+              "username": "Bfhhhxwwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059529072468967864",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059340423840293297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 @Bfhhhxwwh 男的要穿四角内裤的多所以认为你也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 316,
+          "like_count": 4146,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T13:08:39.000Z",
+        "description": "别给我发你好、在吗、能认识下吗这种弱智言论😂 \n小号@Jiangyuqing08\n闺蜜@ezimiD181155 \n友跨/顺女/od/自伤/女初",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Jiangyuqing08"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "ezimiD181155"
+              }
+            ]
+          }
+        },
+        "id": "2041140932343652352",
+        "name": "Liu",
+        "pinned_tweet_id": "2059245210757152998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047566740209700864/mOu8UD31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 7,
+          "like_count": 861,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 442
+        },
+        "username": "Liudisq5qy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T13:00:56.000Z",
+        "description": "私信看眼缘回有意思的//\n主页全是吧唧照的不回//\n嘴毒别找骂// 没有门//不打游戏//\n喜欢我的碎碎念可以赞赏哦^_^",
+        "id": "2048743225763233793",
+        "name": "Bfhhh",
+        "pinned_tweet_id": "2051709202507411642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050903549023068160/7g1BESpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 33,
+          "like_count": 2611,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 297
+        },
+        "username": "Bfhhhxwwh",
+        "verified": false
+      }
+    ]
+  }
+}

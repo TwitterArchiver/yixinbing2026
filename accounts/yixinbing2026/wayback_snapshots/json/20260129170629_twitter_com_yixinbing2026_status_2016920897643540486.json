@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2016920897643540486",
+    "created_at": "2026-01-29T17:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T18:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016920897643540486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "疑心病’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1rmxP…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1rmxPvMRXBnGN",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 来聊会天睡觉",
+          "unwound_url": "https://twitter.com/i/spaces/1rmxPvMRXBnGN/peek",
+          "url": "https://t.co/OgVDJe3XLf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016920897643540486",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/OgVDJe3XLf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2016920897643540486",
+        "created_at": "2026-01-29T17:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016920897643540486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "疑心病’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1rmxP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1rmxPvMRXBnGN",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 来聊会天睡觉",
+              "unwound_url": "https://twitter.com/i/spaces/1rmxPvMRXBnGN/peek",
+              "url": "https://t.co/OgVDJe3XLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016920897643540486",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OgVDJe3XLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "🇨🇳装松弛感刷推 立场正确 皮下女生 我的冲浪一条线罢 10后",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016166797398220800/9ait4Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 52,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 102
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

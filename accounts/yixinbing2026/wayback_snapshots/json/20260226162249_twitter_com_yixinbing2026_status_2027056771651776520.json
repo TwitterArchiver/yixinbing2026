@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2026813713005559832",
+    "created_at": "2026-02-26T16:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027056771651776520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1102280585559470080",
+          "start": 0,
+          "username": "Sg3Lu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027056771651776520",
+    "in_reply_to_user_id": "1102280585559470080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026813713005559832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sg3Lu 像ai"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10100,
+        "height": 1280,
+        "media_key": "13_2024855736354816001",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024855736354816001/img/gNtRQF5ZKvVUsWST.jpg",
+        "public_metrics": {
+          "view_count": 4581289
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024855736354816001/vid/avc1/320x568/K6RM1fAtVEASlhOz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024855736354816001/vid/avc1/480x852/zeXIL0FXz1qb7sGt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024855736354816001/vid/avc1/720x1280/R3xFfHm2g-uAb8xK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024855736354816001/pl/sNZYv9-7VICOd0gJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2026813713005559832",
+        "created_at": "2026-02-26T16:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027056771651776520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1102280585559470080",
+              "start": 0,
+              "username": "Sg3Lu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027056771651776520",
+        "in_reply_to_user_id": "1102280585559470080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026813713005559832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sg3Lu 像ai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024855736354816001"
+          ],
+          "media_source_tweet_id": [
+            "2024855790922707352"
+          ]
+        },
+        "author_id": "1102280585559470080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2026813713005559832",
+        "created_at": "2026-02-26T00:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026813713005559832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0AXsDerZay",
+              "end": 36,
+              "expanded_url": "https://x.com/BsBsAlmyawi/status/2024855790922707352/video/1",
+              "media_key": "13_2024855736354816001",
+              "start": 13,
+              "url": "https://t.co/0AXsDerZay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026813713005559832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1822,
+          "impression_count": 2777631,
+          "like_count": 4428,
+          "quote_count": 299,
+          "reply_count": 469,
+          "retweet_count": 479
+        },
+        "reply_settings": "everyone",
+        "text": "なに食べてんだよ…。\n\n https://t.co/0AXsDerZay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "偶而看看",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 72,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 174
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-03T18:52:25.000Z",
+        "description": "芸能、ニュース、気になる話題等、様々なジャンルの情報発信を行っています👀✨主に引用となりますが不適切&除去依頼等、その他ご要望があればDMまでお願い致します🥰",
+        "id": "1102280585559470080",
+        "name": "らんまる👀✨",
+        "pinned_tweet_id": "1735981251016986854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688864349719535616/U73n4G6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90892,
+          "following_count": 31178,
+          "like_count": 116340,
+          "listed_count": 167,
+          "media_count": 8674,
+          "tweet_count": 23371
+        },
+        "username": "Sg3Lu",
+        "verified": true
+      }
+    ]
+  }
+}

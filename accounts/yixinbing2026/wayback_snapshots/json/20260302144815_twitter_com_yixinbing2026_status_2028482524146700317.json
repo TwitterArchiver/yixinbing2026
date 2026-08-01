@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2028219907163267399",
+    "created_at": "2026-03-02T14:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028482524146700317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1945894406244208640",
+          "start": 0,
+          "username": "daimengniu8964"
+        },
+        {
+          "end": 27,
+          "id": "1597404206226448385",
+          "start": 16,
+          "username": "digithetic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028482524146700317",
+    "in_reply_to_user_id": "1945894406244208640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028455928828510533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daimengniu8964 @digithetic 我笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2028219907163267399",
+        "created_at": "2026-03-02T14:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028482524146700317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945894406244208640",
+              "start": 0,
+              "username": "daimengniu8964"
+            },
+            {
+              "end": 27,
+              "id": "1597404206226448385",
+              "start": 16,
+              "username": "digithetic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028482524146700317",
+        "in_reply_to_user_id": "1945894406244208640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028455928828510533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimengniu8964 @digithetic 我笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945894406244208640",
+        "conversation_id": "2028219907163267399",
+        "created_at": "2026-03-02T13:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028455928828510533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597404206226448385",
+              "start": 0,
+              "username": "digithetic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028455928828510533",
+        "in_reply_to_user_id": "1597404206226448385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028219907163267399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@digithetic 都没见过逼是吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者  没门槛不随便加微信 我不约 我随便发的 我是女的我不约",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 84,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 接广请自行分辨❕牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52💚",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "2024494852826943523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003809315216613376/T96k8TkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11178,
+          "following_count": 51,
+          "like_count": 5142,
+          "listed_count": 8,
+          "media_count": 185,
+          "tweet_count": 3668
+        },
+        "username": "daimengniu8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T01:37:10.000Z",
+        "description": "dale thorne ; painter. Charlotte, NC",
+        "id": "1597404206226448385",
+        "name": "dale",
+        "pinned_tweet_id": "1750723610942013890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870578644218679296/9077VnIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5019,
+          "following_count": 305,
+          "like_count": 3820,
+          "listed_count": 30,
+          "media_count": 605,
+          "tweet_count": 2683
+        },
+        "username": "digithetic",
+        "verified": false
+      }
+    ]
+  }
+}

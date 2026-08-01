@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2042861962019946565",
+    "created_at": "2026-04-11T09:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042897037239423285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1322787991111323648",
+          "start": 0,
+          "username": "QaoTun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042897037239423285",
+    "in_reply_to_user_id": "1322787991111323648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042896777637159341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QaoTun 有的有的兄弟有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2042861962019946565",
+        "created_at": "2026-04-11T09:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042897037239423285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1322787991111323648",
+              "start": 0,
+              "username": "QaoTun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042897037239423285",
+        "in_reply_to_user_id": "1322787991111323648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042896777637159341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QaoTun 有的有的兄弟有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322787991111323648",
+        "conversation_id": "2042861962019946565",
+        "created_at": "2026-04-11T09:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042896777637159341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042896777637159341",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042861962019946565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 活动还在吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "你想知道什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 201,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-01T06:30:20.000Z",
+        "description": "04/178/64 男大 base 深圳",
+        "id": "1322787991111323648",
+        "name": "张三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042783344317149184/7Pd5Xkgb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 37,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "QaoTun",
+        "verified": false
+      }
+    ]
+  }
+}

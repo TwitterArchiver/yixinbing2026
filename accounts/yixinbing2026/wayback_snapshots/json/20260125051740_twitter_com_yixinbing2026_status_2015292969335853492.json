@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2015251526944452903",
+    "created_at": "2026-01-25T05:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T06:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015292969335853492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1986698799776210946",
+          "start": 0,
+          "username": "XinbiC96378"
+        },
+        {
+          "end": 24,
+          "id": "360897875",
+          "start": 13,
+          "username": "yx53834975"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015292969335853492",
+    "in_reply_to_user_id": "1986698799776210946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015282066599158170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinbiC96378 @yx53834975 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2015251526944452903",
+        "created_at": "2026-01-25T05:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T06:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015292969335853492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1986698799776210946",
+              "start": 0,
+              "username": "XinbiC96378"
+            },
+            {
+              "end": 24,
+              "id": "360897875",
+              "start": 13,
+              "username": "yx53834975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015292969335853492",
+        "in_reply_to_user_id": "1986698799776210946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015282066599158170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinbiC96378 @yx53834975 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986698799776210946",
+        "conversation_id": "2015251526944452903",
+        "created_at": "2026-01-25T04:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015282066599158170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "360897875",
+              "start": 0,
+              "username": "yx53834975"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015282066599158170",
+        "in_reply_to_user_id": "360897875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015251526944452903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yx53834975 脑瘫吧，傻逼玩意儿，找到视频就断章取义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 32,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T07:34:48.000Z",
+        "description": "",
+        "id": "1986698799776210946",
+        "name": "xinbi cui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986698985281863680/MDQwqvPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 30,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "XinbiC96378",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-23T23:01:57.000Z",
+        "description": "幸福在于自给自足之中。\n坏人因畏惧而服从，好人因爱而服从。",
+        "id": "360897875",
+        "name": "映萱",
+        "pinned_tweet_id": "2008352316248752134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690624895451824128/OtBLsh9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18099,
+          "following_count": 383,
+          "like_count": 6370,
+          "listed_count": 88,
+          "media_count": 6928,
+          "tweet_count": 8281
+        },
+        "username": "yx53834975",
+        "verified": false
+      }
+    ]
+  }
+}

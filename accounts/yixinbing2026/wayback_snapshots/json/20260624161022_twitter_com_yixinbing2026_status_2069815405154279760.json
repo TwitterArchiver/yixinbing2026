@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069798741628915712"
+      ],
+      "media_source_tweet_id": [
+        "2069798757873676536"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2069815405154279760",
+    "created_at": "2026-06-24T16:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069815405154279760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069790112725229568",
+          "start": 3,
+          "username": "Xiaomaozto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tKnBIhTKlA",
+          "end": 75,
+          "expanded_url": "https://x.com/Xiaomaozto/status/2069798757873676536/photo/1",
+          "media_key": "3_2069798741628915712",
+          "start": 52,
+          "url": "https://t.co/tKnBIhTKlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069815405154279760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069798757873676536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaomaozto: 封7天谁能帮我转转…………求你们惹。。。前世会谈，找我吧。7天后才复活 https://t.co/tKnBIhTKlA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069798741628915712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlm_T9XkAAiVp1.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069798741628915712"
+          ],
+          "media_source_tweet_id": [
+            "2069798757873676536"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2069815405154279760",
+        "created_at": "2026-06-24T16:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069815405154279760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069790112725229568",
+              "start": 3,
+              "username": "Xiaomaozto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKnBIhTKlA",
+              "end": 75,
+              "expanded_url": "https://x.com/Xiaomaozto/status/2069798757873676536/photo/1",
+              "media_key": "3_2069798741628915712",
+              "start": 52,
+              "url": "https://t.co/tKnBIhTKlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069815405154279760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069798757873676536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaomaozto: 封7天谁能帮我转转…………求你们惹。。。前世会谈，找我吧。7天后才复活 https://t.co/tKnBIhTKlA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069798741628915712"
+          ]
+        },
+        "author_id": "2069790112725229568",
+        "conversation_id": "2069798757873676536",
+        "created_at": "2026-06-24T15:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069798757873676536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKnBIhTKlA",
+              "end": 59,
+              "expanded_url": "https://x.com/Xiaomaozto/status/2069798757873676536/photo/1",
+              "media_key": "3_2069798741628915712",
+              "start": 36,
+              "url": "https://t.co/tKnBIhTKlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069798757873676536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "封7天谁能帮我转转…………求你们惹。。。前世会谈，找我吧。7天后才复活 https://t.co/tKnBIhTKlA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 od但不经常餐 找我聊天不想被限流了！独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们 小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 344,
+          "like_count": 4971,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-24T14:30:47.000Z",
+        "description": "@nigich436594大号封7天捏……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "nigich436594"
+              }
+            ]
+          }
+        },
+        "id": "2069790112725229568",
+        "name": "茶茶",
+        "pinned_tweet_id": "2069798757873676536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069791599069200384/xfkGeajF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 35,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Xiaomaozto",
+        "verified": false
+      }
+    ]
+  }
+}

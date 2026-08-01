@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2048272354066006153",
+    "created_at": "2026-05-10T06:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053364237205221479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2027309946623418368",
+          "start": 0,
+          "username": "ruoruotnio"
+        },
+        {
+          "end": 21,
+          "id": "2049330128988037120",
+          "start": 12,
+          "username": "Longrc7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053364237205221479",
+    "in_reply_to_user_id": "2027309946623418368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053363012522934445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoruotnio @Longrc7x 我也爱上你了大姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2048272354066006153",
+        "created_at": "2026-05-10T06:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053364237205221479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2027309946623418368",
+              "start": 0,
+              "username": "ruoruotnio"
+            },
+            {
+              "end": 21,
+              "id": "2049330128988037120",
+              "start": 12,
+              "username": "Longrc7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053364237205221479",
+        "in_reply_to_user_id": "2027309946623418368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053363012522934445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoruotnio @Longrc7x 我也爱上你了大姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027309946623418368",
+        "conversation_id": "2048272354066006153",
+        "created_at": "2026-05-10T06:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053363012522934445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 24,
+              "id": "2049330128988037120",
+              "start": 15,
+              "username": "Longrc7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053363012522934445",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048272354066006153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 @Longrc7x 我爱上你了小妹妹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 289,
+          "like_count": 2986,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1285
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T09:10:24.000Z",
+        "description": "像水一样",
+        "id": "2027309946623418368",
+        "name": "活着就是为了死",
+        "pinned_tweet_id": "2033581646520504447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052351058534678528/lYmyOASV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 52,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 144
+        },
+        "username": "ruoruotnio",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T03:30:02.000Z",
+        "description": "小号善良人格，防被封\n大号@longlongp97w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "longlongp97w"
+              }
+            ]
+          }
+        },
+        "id": "2049330128988037120",
+        "name": "龙（2.0)",
+        "pinned_tweet_id": "2051332179662422472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330433830096896/7gWHHcgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 78,
+          "like_count": 1474,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 164
+        },
+        "username": "Longrc7x",
+        "verified": false
+      }
+    ]
+  }
+}

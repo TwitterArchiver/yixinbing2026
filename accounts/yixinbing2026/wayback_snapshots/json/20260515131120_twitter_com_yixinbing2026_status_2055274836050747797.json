@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2055269491534377010",
+    "created_at": "2026-05-15T13:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055274836050747797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550523516545601536",
+          "start": 0,
+          "username": "buxiangjieshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055274836050747797",
+    "in_reply_to_user_id": "1550523516545601536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055269491534377010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buxiangjieshou 这种解锁放几天就行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055269479056289792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXIs7DaMAAMZMk.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2055269491534377010",
+        "created_at": "2026-05-15T13:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055274836050747797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550523516545601536",
+              "start": 0,
+              "username": "buxiangjieshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055274836050747797",
+        "in_reply_to_user_id": "1550523516545601536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055269491534377010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buxiangjieshou 这种解锁放几天就行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055269479056289792"
+          ]
+        },
+        "author_id": "1550523516545601536",
+        "conversation_id": "2055269491534377010",
+        "created_at": "2026-05-15T12:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055269491534377010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2c3NviEwUU",
+              "end": 41,
+              "expanded_url": "https://x.com/buxiangjieshou/status/2055269491534377010/photo/1",
+              "media_key": "3_2055269479056289792",
+              "start": 18,
+              "url": "https://t.co/2c3NviEwUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055269491534377010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赶巧了也是，晚安哦，祝你好梦，爱你 https://t.co/2c3NviEwUU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "重开日期2010.10 成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 299,
+          "like_count": 3262,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1363
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T16:49:57.000Z",
+        "description": "喜欢HatsuneMiku！！总监大大：@yixinbing2026\n最帅气最漂亮最棒的龙龙@longlongp97w @Longrc7x \ninfp｜树洞｜switch偏sub｜xp小腹｜喜欢亲亲抱抱｜禁欲禁欲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "yixinbing2026"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "longlongp97w"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Longrc7x"
+              }
+            ]
+          }
+        },
+        "id": "1550523516545601536",
+        "location": "心之所向",
+        "name": "不接受",
+        "pinned_tweet_id": "2051261260365451754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045925213150519296/bgr90NXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 343
+        },
+        "username": "buxiangjieshou",
+        "verified": false
+      }
+    ]
+  }
+}

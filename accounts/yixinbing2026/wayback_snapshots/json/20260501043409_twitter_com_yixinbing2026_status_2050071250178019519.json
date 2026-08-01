@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2049859380225667109",
+    "created_at": "2026-05-01T04:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050071250178019519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "399403355",
+          "start": 0,
+          "username": "Aires_777"
+        },
+        {
+          "end": 18,
+          "id": "2034586230881722368",
+          "start": 11,
+          "username": "hgds03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050071250178019519",
+    "in_reply_to_user_id": "399403355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050015956043452757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aires_777 @hgds03 兄弟我换微信了你还捐款吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2049859380225667109",
+        "created_at": "2026-05-01T04:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050071250178019519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "399403355",
+              "start": 0,
+              "username": "Aires_777"
+            },
+            {
+              "end": 18,
+              "id": "2034586230881722368",
+              "start": 11,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050071250178019519",
+        "in_reply_to_user_id": "399403355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050015956043452757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aires_777 @hgds03 兄弟我换微信了你还捐款吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "399403355",
+        "conversation_id": "2049859380225667109",
+        "created_at": "2026-05-01T00:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050015956043452757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2034586230881722368",
+              "start": 0,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050015956043452757",
+        "in_reply_to_user_id": "2034586230881722368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 638,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049859380225667109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds03 别说了😭再说我要忍不住捐款了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢Karina！！\n没啥用的次号@fushishanxia121\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（神临版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 264,
+          "like_count": 2500,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-27T13:03:11.000Z",
+        "description": "怕黑",
+        "id": "399403355",
+        "location": "Wong Tai Sin District",
+        "name": "海边的阿狗",
+        "pinned_tweet_id": "2043278009910841774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032996906339872768/s3N_yELs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 3218,
+          "like_count": 5755,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2288
+        },
+        "username": "Aires_777",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2049474627983003853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 234,
+          "like_count": 1598,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 200
+        },
+        "username": "hgds03",
+        "verified": false
+      }
+    ]
+  }
+}

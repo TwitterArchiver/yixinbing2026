@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2047591286434406589",
+    "created_at": "2026-04-26T05:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048270870519677282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926702744036917248",
+          "start": 0,
+          "username": "ziykxkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048270870519677282",
+    "in_reply_to_user_id": "1926702744036917248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047591286434406589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziykxkl 啊啊啊姐姐！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2047591278347739136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqBa0ca4AA9UBb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1404,
+        "media_key": "3_2047591278335152128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqBa0Za0AAc12e.jpg",
+        "width": 920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2047591278410641408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqBa0rasAA4E1h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2047591286434406589",
+        "created_at": "2026-04-26T05:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048270870519677282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926702744036917248",
+              "start": 0,
+              "username": "ziykxkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048270870519677282",
+        "in_reply_to_user_id": "1926702744036917248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047591286434406589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziykxkl 啊啊啊姐姐！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047591278347739136",
+            "3_2047591278335152128",
+            "3_2047591278410641408"
+          ]
+        },
+        "author_id": "1926702744036917248",
+        "conversation_id": "2047591286434406589",
+        "created_at": "2026-04-24T08:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047591286434406589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXag6DqUh6",
+              "end": 45,
+              "expanded_url": "https://x.com/ziykxkl/status/2047591286434406589/photo/1",
+              "media_key": "3_2047591278347739136",
+              "start": 22,
+              "url": "https://t.co/WXag6DqUh6"
+            },
+            {
+              "display_url": "pic.x.com/WXag6DqUh6",
+              "end": 45,
+              "expanded_url": "https://x.com/ziykxkl/status/2047591286434406589/photo/1",
+              "media_key": "3_2047591278335152128",
+              "start": 22,
+              "url": "https://t.co/WXag6DqUh6"
+            },
+            {
+              "display_url": "pic.x.com/WXag6DqUh6",
+              "end": 45,
+              "expanded_url": "https://x.com/ziykxkl/status/2047591286434406589/photo/1",
+              "media_key": "3_2047591278410641408",
+              "start": 22,
+              "url": "https://t.co/WXag6DqUh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047591286434406589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "姐姐知道 你是个一焦虑就私密作品的可爱女孩 https://t.co/WXag6DqUh6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "其实我也不太了解她\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（升级版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 247,
+          "like_count": 2355,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T18:11:56.000Z",
+        "description": "双相情感障碍 这里是重生七次的虾仁/这个命你就欺负我吧💔/主页日常更新穿搭和妆造偶尔心情好掉落擦边/这个x求你放过我吧 🚪288好友位388掉落生活照520掉落裸照888 1314求礼貌的门哥过门/求你了黑叉别让我再转生第八次了😿欢迎女宝找我互fo互转 像我匿名提问https://t.co/W3CVMjErGg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaren1",
+                "end": 156,
+                "expanded_url": "https://ngl.link/xiaren1",
+                "start": 133,
+                "url": "https://t.co/W3CVMjErGg"
+              }
+            ]
+          }
+        },
+        "id": "1926702744036917248",
+        "location": "距离1.4km",
+        "name": "ziy",
+        "pinned_tweet_id": "2039643856724181102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039548018719182848/1fCLjrCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 102,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 209
+        },
+        "username": "ziykxkl",
+        "verified": false
+      }
+    ]
+  }
+}

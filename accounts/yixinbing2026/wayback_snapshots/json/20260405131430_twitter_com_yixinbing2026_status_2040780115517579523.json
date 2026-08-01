@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2040780115517579523",
+    "created_at": "2026-04-05T13:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040780115517579523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1995yiwang/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/1995yiwang/status/2040778899119030395",
+          "start": 12,
+          "url": "https://t.co/7ow74qB0Zk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040780115517579523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040778899119030395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他吗笑死了 震撼首发 https://t.co/7ow74qB0Zk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2040780115517579523",
+        "created_at": "2026-04-05T13:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040780115517579523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1995yiwang/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/1995yiwang/status/2040778899119030395",
+              "start": 12,
+              "url": "https://t.co/7ow74qB0Zk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040780115517579523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040778899119030395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他吗笑死了 震撼首发 https://t.co/7ow74qB0Zk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464687099848925184",
+        "conversation_id": "2040741903260688499",
+        "created_at": "2026-04-05T13:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040778899119030395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 29,
+              "id": "1694641294327332864",
+              "start": 15,
+              "username": "FengGuan67327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040778899119030395",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040774990581358935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 @FengGuan67327 啥，原来又是个潜在门槛儿姐啊，难怪逻辑都一样😆看来别人骂你还骂对了，炸出你内心想法了属于是😂合着你主页那些碎碎念是养号呢，让人觉得你比较正常，其实骚的一比是啊😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没门槛 不加联系方式 约炮别来找我 处对象别来找我 暴露癖不要找我 精虫上脑别找我 线下查无此人 我不圈钱 不要恶意揣测我了 不熟别给我开恶俗玩笑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 167,
+          "like_count": 1191,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T20:08:19.000Z",
+        "description": "骗子横行的时代，祝骗子横尸遍野",
+        "id": "1464687099848925184",
+        "location": "地球",
+        "name": "无语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007348243253080071/sGPg9xX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 111
+        },
+        "username": "1995yiwang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067461880738897920"
+      ],
+      "media_source_tweet_id": [
+        "2067461891518328916"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2067492170135924751",
+    "created_at": "2026-06-18T06:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067492170135924751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ENlDGwWrJF",
+          "end": 67,
+          "expanded_url": "https://x.com/yixinbing2026/status/2067461891518328916/photo/1",
+          "media_key": "3_2067461880738897920",
+          "start": 44,
+          "url": "https://t.co/ENlDGwWrJF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067492170135924751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067461891518328916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 那你呢。我对你而言真的很重要吗( ˘•ω•˘ ) https://t.co/ENlDGwWrJF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067492170135924751].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067492170135924751",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067492170135924751"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067461880738897920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEZoGwaYAA6VJO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067461880738897920"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2067461891518328916",
+        "created_at": "2026-06-18T04:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067461891518328916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENlDGwWrJF",
+              "end": 48,
+              "expanded_url": "https://x.com/yixinbing2026/status/2067461891518328916/photo/1",
+              "media_key": "3_2067461880738897920",
+              "start": 25,
+              "url": "https://t.co/ENlDGwWrJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067461891518328916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 97,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那你呢。我对你而言真的很重要吗( ˘•ω•˘ ) https://t.co/ENlDGwWrJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 339,
+          "like_count": 4906,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2017
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      }
+    ]
+  }
+}

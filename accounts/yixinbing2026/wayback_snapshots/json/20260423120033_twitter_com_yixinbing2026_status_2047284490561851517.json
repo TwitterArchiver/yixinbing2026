@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2047284490561851517",
+    "created_at": "2026-04-23T12:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047284490561851517"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047284490561851517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【水鸡筹】很抱歉打扰了，本人于2026年4月23日查出两眼昏花饥饿症，情况紧急\n所幸有个朋友的姥爷是中医，让我照着这个药方抓药:蛋挞*2、烤翅*2对、鸡块*2、薯条*2，汉堡包*2可乐*500ml原味鸡*2、老北京鸡肉卷*2、辣翅*2\n急需50医药费，谢谢大家帮助，感激不尽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2047284490561851517",
+        "created_at": "2026-04-23T12:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047284490561851517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047284490561851517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【水鸡筹】很抱歉打扰了，本人于2026年4月23日查出两眼昏花饥饿症，情况紧急\n所幸有个朋友的姥爷是中医，让我照着这个药方抓药:蛋挞*2、烤翅*2对、鸡块*2、薯条*2，汉堡包*2可乐*500ml原味鸡*2、老北京鸡肉卷*2、辣翅*2\n急需50医药费，谢谢大家帮助，感激不尽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "其实我也不太了解她\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 250,
+          "like_count": 2253,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 879
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

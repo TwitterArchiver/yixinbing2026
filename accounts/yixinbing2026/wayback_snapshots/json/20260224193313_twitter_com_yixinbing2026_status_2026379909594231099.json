@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2026277290561466408",
+    "created_at": "2026-02-24T19:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T20:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026379909594231099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757710478610972672",
+          "start": 0,
+          "username": "foreversungbaek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026379909594231099",
+    "in_reply_to_user_id": "1757710478610972672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026277290561466408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foreversungbaek 广东是我很喜欢的一个城市 有机会想去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2026277290561466408",
+        "created_at": "2026-02-24T19:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T20:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026379909594231099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757710478610972672",
+              "start": 0,
+              "username": "foreversungbaek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026379909594231099",
+        "in_reply_to_user_id": "1757710478610972672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026277290561466408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreversungbaek 广东是我很喜欢的一个城市 有机会想去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757710478610972672",
+        "conversation_id": "2026277290561466408",
+        "created_at": "2026-02-24T12:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026277290561466408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026277290561466408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 26943,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉这推特中国人里广东人占比50%（包括在广东上班/上学）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "偶而看看",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 68,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 144
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T10:17:01.000Z",
+        "description": "纯kpop乐子人 喜欢圈钱不给钱也欢迎交友 没话题的就别来了 记录本女孩想死的每一天😂",
+        "id": "1757710478610972672",
+        "location": "600m",
+        "name": "我喜欢男高男大男研如何呢",
+        "pinned_tweet_id": "1867606742336500212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026263151759773696/Tf1u29q2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6447,
+          "following_count": 273,
+          "like_count": 1448,
+          "listed_count": 16,
+          "media_count": 178,
+          "tweet_count": 2752
+        },
+        "username": "foreversungbaek",
+        "verified": false
+      }
+    ]
+  }
+}

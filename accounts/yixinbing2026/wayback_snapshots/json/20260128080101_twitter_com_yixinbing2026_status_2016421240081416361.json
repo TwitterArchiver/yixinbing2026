@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016420923264663553",
+        "3_2016420923239550976",
+        "13_2016420923243708416"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016421240081416361",
+    "created_at": "2026-01-28T08:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T09:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016421240081416361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5xTl1Tf6Oc",
+          "end": 32,
+          "expanded_url": "https://x.com/yixinbing2026/status/2016421240081416361/video/1",
+          "media_key": "3_2016420923264663553",
+          "start": 9,
+          "url": "https://t.co/5xTl1Tf6Oc"
+        },
+        {
+          "display_url": "pic.x.com/5xTl1Tf6Oc",
+          "end": 32,
+          "expanded_url": "https://x.com/yixinbing2026/status/2016421240081416361/video/1",
+          "media_key": "3_2016420923239550976",
+          "start": 9,
+          "url": "https://t.co/5xTl1Tf6Oc"
+        },
+        {
+          "display_url": "pic.x.com/5xTl1Tf6Oc",
+          "end": 32,
+          "expanded_url": "https://x.com/yixinbing2026/status/2016421240081416361/video/1",
+          "media_key": "13_2016420923243708416",
+          "start": 9,
+          "url": "https://t.co/5xTl1Tf6Oc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016421240081416361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打开快手两眼一黑 https://t.co/5xTl1Tf6Oc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016420923264663553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vEJXDbAAEIWvF.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016420923239550976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vEJW9b0AA877u.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 16914,
+        "height": 1280,
+        "media_key": "13_2016420923243708416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016420923243708416/img/rBbtlYd4acKrropv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016420923243708416/vid/avc1/320x570/YQGzAKwNkMi8WrNa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016420923243708416/vid/avc1/480x854/19C0H8VB_cStrnIR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016420923243708416/vid/avc1/718x1280/NHs4Fgxgm7zpSERY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016420923243708416/pl/rFfQ1t8mKJevdbsS.m3u8"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016420923264663553",
+            "3_2016420923239550976",
+            "13_2016420923243708416"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016421240081416361",
+        "created_at": "2026-01-28T08:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016421240081416361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xTl1Tf6Oc",
+              "end": 32,
+              "expanded_url": "https://x.com/yixinbing2026/status/2016421240081416361/video/1",
+              "media_key": "3_2016420923264663553",
+              "start": 9,
+              "url": "https://t.co/5xTl1Tf6Oc"
+            },
+            {
+              "display_url": "pic.x.com/5xTl1Tf6Oc",
+              "end": 32,
+              "expanded_url": "https://x.com/yixinbing2026/status/2016421240081416361/video/1",
+              "media_key": "3_2016420923239550976",
+              "start": 9,
+              "url": "https://t.co/5xTl1Tf6Oc"
+            },
+            {
+              "display_url": "pic.x.com/5xTl1Tf6Oc",
+              "end": 32,
+              "expanded_url": "https://x.com/yixinbing2026/status/2016421240081416361/video/1",
+              "media_key": "13_2016420923243708416",
+              "start": 9,
+              "url": "https://t.co/5xTl1Tf6Oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016421240081416361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打开快手两眼一黑 https://t.co/5xTl1Tf6Oc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "🇨🇳装松弛感刷推 立场正确 皮下女生 我的冲浪一条线罢 10后",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016166797398220800/9ait4Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 49,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 98
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

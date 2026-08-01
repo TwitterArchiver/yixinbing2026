@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2030479276840280110",
+    "created_at": "2026-03-08T03:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T04:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030479276840280110"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030479276840280110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一个外国小姐姐找我聊天 我真以为是一个真人 但是他回我消息很快 我消息都没已读就直接发了好几条大消息 跟机器人一样 原来外国人也会搞诈骗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2030479276840280110",
+        "created_at": "2026-03-08T03:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030479276840280110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030479276840280110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一个外国小姐姐找我聊天 我真以为是一个真人 但是他回我消息很快 我消息都没已读就直接发了好几条大消息 跟机器人一样 原来外国人也会搞诈骗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没门槛 不随便加微信 我不约 直女 看成分回关 我不圈钱也不性骚扰的 不要恶意揣测我 支持我不会辜负大家的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 145,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

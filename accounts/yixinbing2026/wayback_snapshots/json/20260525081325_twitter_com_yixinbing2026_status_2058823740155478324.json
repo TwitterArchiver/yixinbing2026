@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058815517285289984"
+      ],
+      "media_source_tweet_id": [
+        "2058815527313866860"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2058823740155478324",
+    "created_at": "2026-05-25T08:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058823740155478324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CXQnGf7YdI",
+          "end": 99,
+          "expanded_url": "https://x.com/yixinbing2026/status/2058815527313866860/photo/1",
+          "media_key": "3_2058815517285289984",
+          "start": 76,
+          "url": "https://t.co/CXQnGf7YdI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058823740155478324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058815527313866860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: OK啊 推u们放心 我有在吃东西…但是这个麻婆豆腐馅的好吃但是我吃第一口没啥劲 还是吃完了一个 还有个给我妈吃🤤 https://t.co/CXQnGf7YdI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058815517285289984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJhzg3aEAAp642.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058815517285289984"
+          ],
+          "media_source_tweet_id": [
+            "2058815527313866860"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058823740155478324",
+        "created_at": "2026-05-25T08:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058823740155478324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXQnGf7YdI",
+              "end": 99,
+              "expanded_url": "https://x.com/yixinbing2026/status/2058815527313866860/photo/1",
+              "media_key": "3_2058815517285289984",
+              "start": 76,
+              "url": "https://t.co/CXQnGf7YdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058823740155478324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058815527313866860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: OK啊 推u们放心 我有在吃东西…但是这个麻婆豆腐馅的好吃但是我吃第一口没啥劲 还是吃完了一个 还有个给我妈吃🤤 https://t.co/CXQnGf7YdI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058815517285289984"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058815527313866860",
+        "created_at": "2026-05-25T07:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058815527313866860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXQnGf7YdI",
+              "end": 80,
+              "expanded_url": "https://x.com/yixinbing2026/status/2058815527313866860/photo/1",
+              "media_key": "3_2058815517285289984",
+              "start": 57,
+              "url": "https://t.co/CXQnGf7YdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058815527313866860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "OK啊 推u们放心 我有在吃东西…但是这个麻婆豆腐馅的好吃但是我吃第一口没啥劲 还是吃完了一个 还有个给我妈吃🤤 https://t.co/CXQnGf7YdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 336,
+          "like_count": 3878,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

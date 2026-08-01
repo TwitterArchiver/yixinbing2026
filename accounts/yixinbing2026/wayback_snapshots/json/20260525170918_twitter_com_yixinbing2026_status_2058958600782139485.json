@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2058958600782139485",
+    "created_at": "2026-05-25T17:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058958600782139485"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058958600782139485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不普通对啊 我一直是什么都是最差的 小学人际关系最差的 初中学校最差的 甚至不好的事要我承担 我一直都差劲不中用 指望不上 什么都没用 哈哈 说我长得好看吗 有什么用 发发自拍让网友夸夸我 这是我最大的用处了 我不是最好看的 我得不到什么 不管怎么样都会有比我更好的 比我好看比我优秀 我算什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2058958600782139485",
+        "created_at": "2026-05-25T17:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058958600782139485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058958600782139485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不普通对啊 我一直是什么都是最差的 小学人际关系最差的 初中学校最差的 甚至不好的事要我承担 我一直都差劲不中用 指望不上 什么都没用 哈哈 说我长得好看吗 有什么用 发发自拍让网友夸夸我 这是我最大的用处了 我不是最好看的 我得不到什么 不管怎么样都会有比我更好的 比我好看比我优秀 我算什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 336,
+          "like_count": 3951,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1726
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

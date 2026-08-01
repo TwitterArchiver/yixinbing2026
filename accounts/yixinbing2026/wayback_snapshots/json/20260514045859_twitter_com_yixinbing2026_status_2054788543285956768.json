@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2054749539505193104",
+    "created_at": "2026-05-14T04:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054788543285956768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041140932343652352",
+          "start": 0,
+          "username": "Liudisq5qy"
+        },
+        {
+          "end": 27,
+          "id": "1732243878512914432",
+          "start": 12,
+          "username": "xxiaoluu091217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054788543285956768",
+    "in_reply_to_user_id": "2041140932343652352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054787852664520717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liudisq5qy @xxiaoluu091217 你骂他反而给他骂爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2054749539505193104",
+        "created_at": "2026-05-14T04:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054788543285956768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041140932343652352",
+              "start": 0,
+              "username": "Liudisq5qy"
+            },
+            {
+              "end": 27,
+              "id": "1732243878512914432",
+              "start": 12,
+              "username": "xxiaoluu091217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054788543285956768",
+        "in_reply_to_user_id": "2041140932343652352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054787852664520717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liudisq5qy @xxiaoluu091217 你骂他反而给他骂爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041140932343652352",
+        "conversation_id": "2054749539505193104",
+        "created_at": "2026-05-14T04:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054787852664520717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 30,
+              "id": "1732243878512914432",
+              "start": 15,
+              "username": "xxiaoluu091217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054787852664520717",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054784354656846147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 @xxiaoluu091217 我去牛逼哈哈原来不止我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 爱我请尝试给我打钱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 297,
+          "like_count": 3206,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T13:08:39.000Z",
+        "description": "闺蜜@ezimiD181155\n匿名箱：https://t.co/VDIqpFzaQz\n别给我私信你好、在吗、能认识下吗这种傻逼词汇\n我刻薄素质低最好别惹我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "ezimiD181155"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kagami60657",
+                "end": 43,
+                "expanded_url": "https://ngl.link/kagami60657",
+                "start": 20,
+                "url": "https://t.co/VDIqpFzaQz"
+              }
+            ]
+          }
+        },
+        "id": "2041140932343652352",
+        "name": "小柳",
+        "pinned_tweet_id": "2053644599219167637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047566740209700864/mOu8UD31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 8,
+          "like_count": 634,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 425
+        },
+        "username": "Liudisq5qy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T03:41:49.000Z",
+        "description": "",
+        "id": "1732243878512914432",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052423613215895553/Jat_FAWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 90,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "xxiaoluu091217",
+        "verified": false
+      }
+    ]
+  }
+}

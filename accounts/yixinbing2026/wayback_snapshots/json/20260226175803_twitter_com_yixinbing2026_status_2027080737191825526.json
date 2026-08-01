@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027052079492255994",
+    "created_at": "2026-02-26T17:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027080737191825526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769334388746244096",
+          "start": 0,
+          "username": "smoke_33bae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027080737191825526",
+    "in_reply_to_user_id": "1769334388746244096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027080664634577241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smoke_33bae 哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027052079492255994",
+        "created_at": "2026-02-26T17:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027080737191825526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769334388746244096",
+              "start": 0,
+              "username": "smoke_33bae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027080737191825526",
+        "in_reply_to_user_id": "1769334388746244096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027080664634577241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smoke_33bae 哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769334388746244096",
+        "conversation_id": "2027052079492255994",
+        "created_at": "2026-02-26T17:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027080664634577241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027080664634577241",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027055272683057654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 太无聊了只能打王者了我是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "偶而看看",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 75,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 177
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T12:06:24.000Z",
+        "description": "珠海",
+        "id": "1769334388746244096",
+        "name": "叔叔别拉了我害怕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769334908491829248/zhL6pTa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 118,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "username": "smoke_33bae",
+        "verified": false
+      }
+    ]
+  }
+}

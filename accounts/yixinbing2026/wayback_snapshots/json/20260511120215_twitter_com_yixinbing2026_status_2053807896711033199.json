@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2053724287643877478",
+    "created_at": "2026-05-11T12:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053807896711033199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021059261481324544",
+          "start": 0,
+          "username": "jinyiyi26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053807896711033199",
+    "in_reply_to_user_id": "2021059261481324544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053791698611003854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinyiyi26 可以关注了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2053724287643877478",
+        "created_at": "2026-05-11T12:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053807896711033199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021059261481324544",
+              "start": 0,
+              "username": "jinyiyi26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053807896711033199",
+        "in_reply_to_user_id": "2021059261481324544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053791698611003854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinyiyi26 可以关注了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021059261481324544",
+        "conversation_id": "2053724287643877478",
+        "created_at": "2026-05-11T10:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053791698611003854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053791698611003854",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053724287643877478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 像我这种搞反诈骗的可以吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 291,
+          "like_count": 3073,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T03:11:03.000Z",
+        "description": "此号专注帮新人辨识骗子，皮下男。我回复抽象是为了积累素材。模拟新人第一次玩推，因为我也吃过亏。不想让兄弟们再吃一次亏。推荐关注，社恐的元大鹰@tiancai312，烧杯学长。关注门槛姐优先看他们关注的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "tiancai312"
+              }
+            ]
+          }
+        },
+        "id": "2021059261481324544",
+        "name": "Riley",
+        "pinned_tweet_id": "2053511930086891875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021059526221545472/6NUFHDsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 169,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 933
+        },
+        "username": "jinyiyi26",
+        "verified": false
+      }
+    ]
+  }
+}

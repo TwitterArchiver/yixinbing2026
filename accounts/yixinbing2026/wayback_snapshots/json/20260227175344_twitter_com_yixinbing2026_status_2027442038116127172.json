@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027258842535559577",
+    "created_at": "2026-02-27T17:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027442038116127172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 29,
+          "id": "1709392663198277632",
+          "start": 16,
+          "username": "yitian810485"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027442038116127172",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027269165455978593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 @yitian810485 我六年级第一次翻墙 花40搞了个免费的第二天号就封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027258842535559577",
+        "created_at": "2026-02-27T17:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027442038116127172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 29,
+              "id": "1709392663198277632",
+              "start": 16,
+              "username": "yitian810485"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027442038116127172",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027269165455978593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 @yitian810485 我六年级第一次翻墙 花40搞了个免费的第二天号就封了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2027258842535559577",
+        "created_at": "2026-02-27T06:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027269165455978593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1709392663198277632",
+              "start": 0,
+              "username": "yitian810485"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027269165455978593",
+        "in_reply_to_user_id": "1709392663198277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2287,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027268960224469243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yitian810485 10后能翻出来的，已经是很有能力了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "偶而看看",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 77,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 194
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "Xiaomi Partner/RainEngine UX Design/GMT+8/ZH-CN/EN-US is OK",
+        "id": "1810873766119100416",
+        "name": "夏日晴海",
+        "pinned_tweet_id": "2025756639283044716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6967,
+          "following_count": 805,
+          "like_count": 54556,
+          "listed_count": 5,
+          "media_count": 1196,
+          "tweet_count": 8227
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T02:19:14.000Z",
+        "description": "世纪水年，隶属于siwuyi-system，互联网形态cwy-water(旧名新用)",
+        "id": "1709392663198277632",
+        "location": "siwuyi-system/I",
+        "name": "世纪水年cwy-water",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026995365015355392/1SpS3u-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 76
+        },
+        "username": "yitian810485",
+        "verified": false
+      }
+    ]
+  }
+}

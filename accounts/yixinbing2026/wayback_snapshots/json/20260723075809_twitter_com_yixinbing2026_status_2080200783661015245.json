@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2080121014663708882",
+    "created_at": "2026-07-23T07:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080200783661015245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055089878682243072",
+          "start": 0,
+          "username": "Jiangyuqing08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080200783661015245",
+    "in_reply_to_user_id": "2055089878682243072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080121014663708882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiangyuqing08 我也不喜欢小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2080121014663708882",
+        "created_at": "2026-07-23T07:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080200783661015245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055089878682243072",
+              "start": 0,
+              "username": "Jiangyuqing08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080200783661015245",
+        "in_reply_to_user_id": "2055089878682243072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080121014663708882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiangyuqing08 我也不喜欢小孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055089878682243072",
+        "conversation_id": "2080121014663708882",
+        "created_at": "2026-07-23T02:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080121014663708882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080121014663708882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看见婴幼儿就想你妈的给摔死给你脑袋磕桌子上🙏亲戚家小孩爬我床上我闻到一股很难描述的臭味，我真的要吐出来了，还踩我肚子上面爬，我觉得好恶心啊特别是手脚白花花一片肥腻五花肉的感觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发\n我的成分：\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 358,
+          "like_count": 5306,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2191
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T00:57:38.000Z",
+        "description": "顺女｜10年｜高中生｜友跨｜泛性恋｜cod、fgo、东方爱好者｜寻求前世互关，谁都可以找我玩和互fo🤍🩹｜自伤｜od\n我有恋残癖，慎关 。如果你看了我的推文感到不适，不好意思你怀了我的孩子\n原账号：@Liuzimidq5qy\n全网找对象",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Liuzimidq5qy"
+              }
+            ]
+          }
+        },
+        "id": "2055089878682243072",
+        "name": "小芙",
+        "pinned_tweet_id": "2079569257638318462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078864758384762881/P9cN8L0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 6,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "Jiangyuqing08",
+        "verified": false
+      }
+    ]
+  }
+}

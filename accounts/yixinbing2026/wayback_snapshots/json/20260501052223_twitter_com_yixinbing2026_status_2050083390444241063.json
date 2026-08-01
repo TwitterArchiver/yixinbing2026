@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050052406759837696"
+      ],
+      "media_source_tweet_id": [
+        "2050052412531180030"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2050083390444241063",
+    "created_at": "2026-05-01T05:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050083390444241063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w74rwpdwcD",
+          "end": 59,
+          "expanded_url": "https://x.com/yixinbing2026/status/2050052412531180030/photo/1",
+          "media_key": "3_2050052406759837696",
+          "start": 36,
+          "url": "https://t.co/w74rwpdwcD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050083390444241063",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050052412531180030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 不想完蛋不想搞砸一切 不想失去了 https://t.co/w74rwpdwcD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050052406759837696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHM_zWPa0AACVLN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050052406759837696"
+          ],
+          "media_source_tweet_id": [
+            "2050052412531180030"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2050083390444241063",
+        "created_at": "2026-05-01T05:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050083390444241063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w74rwpdwcD",
+              "end": 59,
+              "expanded_url": "https://x.com/yixinbing2026/status/2050052412531180030/photo/1",
+              "media_key": "3_2050052406759837696",
+              "start": 36,
+              "url": "https://t.co/w74rwpdwcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050083390444241063",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050052412531180030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: 不想完蛋不想搞砸一切 不想失去了 https://t.co/w74rwpdwcD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050052406759837696"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2050052412531180030",
+        "created_at": "2026-05-01T03:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050052412531180030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w74rwpdwcD",
+              "end": 40,
+              "expanded_url": "https://x.com/yixinbing2026/status/2050052412531180030/photo/1",
+              "media_key": "3_2050052406759837696",
+              "start": 17,
+              "url": "https://t.co/w74rwpdwcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050052412531180030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不想完蛋不想搞砸一切 不想失去了 https://t.co/w74rwpdwcD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢Karina！！\n没啥用的次号@fushishanxia121\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（神临版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 265,
+          "like_count": 2506,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

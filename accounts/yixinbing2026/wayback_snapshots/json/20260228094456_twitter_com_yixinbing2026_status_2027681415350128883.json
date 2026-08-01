@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027681415350128883",
+    "created_at": "2026-02-28T09:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T10:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027681415350128883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yixinbing2026/…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/yixinbing2026/status/2027633416892780745",
+          "start": 41,
+          "url": "https://t.co/w0THR9SUld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027681415350128883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027633416892780745",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼这是官方发的我眼瞎了我以为真的有人暗恋我 差点花38开会员看是谁了 我是傻逼 https://t.co/w0THR9SUld"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027681415350128883",
+        "created_at": "2026-02-28T09:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027681415350128883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yixinbing2026/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/yixinbing2026/status/2027633416892780745",
+              "start": 41,
+              "url": "https://t.co/w0THR9SUld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027681415350128883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027633416892780745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼这是官方发的我眼瞎了我以为真的有人暗恋我 差点花38开会员看是谁了 我是傻逼 https://t.co/w0THR9SUld"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027633416892780745",
+        "created_at": "2026-02-28T06:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027633416892780745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yixinbing2026/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yixinbing2026/status/2027633357614686452",
+              "start": 12,
+              "url": "https://t.co/r4hCDcaZC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027633416892780745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027633357614686452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得这个人是开玩笑的 https://t.co/r4hCDcaZC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 78,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

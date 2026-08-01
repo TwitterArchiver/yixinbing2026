@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2017904012335489024"
+      ],
+      "media_source_tweet_id": [
+        "2017904041473303026"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2018281035281387815",
+    "created_at": "2026-02-02T11:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T12:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018281035281387815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881766999572811776",
+          "start": 3,
+          "username": "Nightbloomc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W1GUqelQpQ",
+          "end": 72,
+          "expanded_url": "https://x.com/Nightbloomc/status/2017904041473303026/video/1",
+          "media_key": "7_2017904012335489024",
+          "start": 49,
+          "url": "https://t.co/W1GUqelQpQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018281035281387815",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3544
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017904041473303026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nightbloomc: With you in another universe... https://t.co/W1GUqelQpQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10218,
+        "height": 956,
+        "media_key": "7_2017904012335489024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2017904012335489024/pu/img/NvXicjbmNVlGCHYe.jpg",
+        "public_metrics": {
+          "view_count": 147577
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017904012335489024/pu/vid/avc1/320x424/5FaTVpPeniLDKqKT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017904012335489024/pu/vid/avc1/480x636/57jFWHUWVFGouck5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2017904012335489024/pu/vid/avc1/720x956/vx_j7Hq2HxlOL0vd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2017904012335489024/pu/pl/HzF6L6vHOBurzWp8.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017904012335489024"
+          ],
+          "media_source_tweet_id": [
+            "2017904041473303026"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2018281035281387815",
+        "created_at": "2026-02-02T11:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018281035281387815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881766999572811776",
+              "start": 3,
+              "username": "Nightbloomc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1GUqelQpQ",
+              "end": 72,
+              "expanded_url": "https://x.com/Nightbloomc/status/2017904041473303026/video/1",
+              "media_key": "7_2017904012335489024",
+              "start": 49,
+              "url": "https://t.co/W1GUqelQpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018281035281387815",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3544
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017904041473303026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nightbloomc: With you in another universe... https://t.co/W1GUqelQpQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2017904012335489024"
+          ]
+        },
+        "author_id": "1881766999572811776",
+        "conversation_id": "2017904041473303026",
+        "created_at": "2026-02-01T10:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017904041473303026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1GUqelQpQ",
+              "end": 55,
+              "expanded_url": "https://x.com/Nightbloomc/status/2017904041473303026/video/1",
+              "media_key": "7_2017904012335489024",
+              "start": 32,
+              "url": "https://t.co/W1GUqelQpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017904041473303026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2594,
+          "impression_count": 633198,
+          "like_count": 18281,
+          "quote_count": 297,
+          "reply_count": 156,
+          "retweet_count": 3544
+        },
+        "reply_settings": "everyone",
+        "text": "With you in another universe... https://t.co/W1GUqelQpQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我珍惜妳的方式錯了嗎",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "pinned_tweet_id": "2017318014472097921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017315538603839488/70k3GEnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 64,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 107
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T18:13:47.000Z",
+        "description": "",
+        "id": "1881766999572811776",
+        "name": "Nightbloom",
+        "pinned_tweet_id": "2017904041473303026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000652071205261316/ZawxbEIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17575,
+          "following_count": 1973,
+          "like_count": 45133,
+          "listed_count": 46,
+          "media_count": 2678,
+          "tweet_count": 18587
+        },
+        "username": "Nightbloomc",
+        "verified": true
+      }
+    ]
+  }
+}

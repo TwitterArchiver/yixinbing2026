@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2074990358929559731",
+    "created_at": "2026-07-09T06:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T07:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075106024105869637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2074453617030090752",
+          "start": 0,
+          "username": "pvwk7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075106024105869637",
+    "in_reply_to_user_id": "2074453617030090752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074990358929559731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pvwk7c 不是说好只给我一个人看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 835,
+        "media_key": "3_2074990349467197440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvYuqRbIAAxLc_.jpg",
+        "width": 615
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074990349454598144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvYuqOa4AA1Gfk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2074990358929559731",
+        "created_at": "2026-07-09T06:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075106024105869637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2074453617030090752",
+              "start": 0,
+              "username": "pvwk7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075106024105869637",
+        "in_reply_to_user_id": "2074453617030090752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074990358929559731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pvwk7c 不是说好只给我一个人看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074990349467197440",
+            "3_2074990349454598144"
+          ]
+        },
+        "author_id": "2074453617030090752",
+        "conversation_id": "2074990358929559731",
+        "created_at": "2026-07-08T22:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T23:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074990358929559731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxZ6XwYbaM",
+              "end": 40,
+              "expanded_url": "https://x.com/pvwk7c/status/2074990358929559731/photo/1",
+              "media_key": "3_2074990349467197440",
+              "start": 17,
+              "url": "https://t.co/GxZ6XwYbaM"
+            },
+            {
+              "display_url": "pic.x.com/GxZ6XwYbaM",
+              "end": 40,
+              "expanded_url": "https://x.com/pvwk7c/status/2074990358929559731/photo/1",
+              "media_key": "3_2074990349454598144",
+              "start": 17,
+              "url": "https://t.co/GxZ6XwYbaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074990358929559731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "75的好看还是82的好看？hhh https://t.co/GxZ6XwYbaM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "什么是风格？\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 346,
+          "like_count": 5058,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 2126
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-07T11:24:14.000Z",
+        "description": "💕OD | 餐卷妹 | 165 79 | 正常聊天欢迎| 直fo就是喜欢你吖｜大号@nigich436594",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "nigich436594"
+              }
+            ]
+          }
+        },
+        "id": "2074453617030090752",
+        "location": "🚪77聊天好友位",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2074458895955939382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074455267388104705/9WMGUXHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 82,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "pvwk7c",
+        "verified": false
+      }
+    ]
+  }
+}

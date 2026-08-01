@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2080950557779632274",
+    "created_at": "2026-07-25T09:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080950557779632274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c2f4f4f/status…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/c2f4f4f/status/2080935712216773086",
+          "start": 81,
+          "url": "https://t.co/VjDEJFd5WT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080950557779632274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080935712216773086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子们 我是疑心病啊 我在这里面提醒你们千万不要od 我建议你们把手头还有的药全都销毁 对了我是专业销毁这些的 建议你们直接寄给我帮你们销毁 绝对不是因为我要磕 https://t.co/VjDEJFd5WT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2080950557779632274",
+        "created_at": "2026-07-25T09:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080950557779632274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c2f4f4f/status…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/c2f4f4f/status/2080935712216773086",
+              "start": 81,
+              "url": "https://t.co/VjDEJFd5WT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080950557779632274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080935712216773086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们 我是疑心病啊 我在这里面提醒你们千万不要od 我建议你们把手头还有的药全都销毁 对了我是专业销毁这些的 建议你们直接寄给我帮你们销毁 绝对不是因为我要磕 https://t.co/VjDEJFd5WT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612280433064185859",
+        "conversation_id": "2080935712216773086",
+        "created_at": "2026-07-25T08:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080935712216773086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080935712216773086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们 我是小川啊 我在这里面提醒你们千万不要od 我建议你们把手头还有的药全都销毁 对了我是专业销毁这些的 建议你们直接寄给我帮你们销毁 绝对不是因为我要磕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发\n我的成分：\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 372,
+          "like_count": 5435,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 402,
+          "like_count": 9781,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 757
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

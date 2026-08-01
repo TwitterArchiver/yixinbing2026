@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2044667117270921541",
+    "created_at": "2026-04-16T06:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044667117270921541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        },
+        {
+          "end": 27,
+          "id": "1478786087602376704",
+          "start": 19,
+          "username": "MibuRyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044667117270921541",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044634191724503326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: @MibuRyo 兄弟是水仙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2044667117270921541",
+        "created_at": "2026-04-16T06:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044667117270921541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 27,
+              "id": "1478786087602376704",
+              "start": 19,
+              "username": "MibuRyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044667117270921541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044634191724503326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: @MibuRyo 兄弟是水仙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2044633386661339537",
+        "created_at": "2026-04-16T04:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044634191724503326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1478786087602376704",
+              "start": 0,
+              "username": "MibuRyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044634191724503326",
+        "in_reply_to_user_id": "1478786087602376704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044634051718664427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MibuRyo 兄弟是水仙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 233,
+          "like_count": 1699,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T17:51:08.000Z",
+        "description": "业余吉他手兼画手｜最喜欢的画师是Tsunako｜Vrchat孤儿｜拉康 尼采 网哲高手｜日本語オーケー｜一応ギターと絵描きやってます｜热情欢迎交流 お話や交流大歓迎です",
+        "id": "1478786087602376704",
+        "location": "Ehra_SnowMiraheaume",
+        "name": "常咲_筱",
+        "pinned_tweet_id": "2042679085449777501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044643487174537216/lYwJ-5Et_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 621,
+          "like_count": 1130,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 720
+        },
+        "username": "MibuRyo",
+        "verified": false
+      }
+    ]
+  }
+}

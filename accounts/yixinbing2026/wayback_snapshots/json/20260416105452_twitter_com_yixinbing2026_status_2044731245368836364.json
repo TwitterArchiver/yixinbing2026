@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2044670075916173497",
+    "created_at": "2026-04-16T10:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044731245368836364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1758905538115706880",
+          "start": 0,
+          "username": "heihe225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044731245368836364",
+    "in_reply_to_user_id": "1758905538115706880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044731067274559731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heihe225 我去…我..我…疯狂星期四v我50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2044670075916173497",
+        "created_at": "2026-04-16T10:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044731245368836364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1758905538115706880",
+              "start": 0,
+              "username": "heihe225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044731245368836364",
+        "in_reply_to_user_id": "1758905538115706880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044731067274559731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heihe225 我去…我..我…疯狂星期四v我50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758905538115706880",
+        "conversation_id": "2044670075916173497",
+        "created_at": "2026-04-16T10:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044731067274559731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044731067274559731",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044670075916173497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 我命令你！😡👉🏻使用你的超级大脑去狠狠想文案😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 235,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T17:26:01.000Z",
+        "description": "感觉世界好吵。",
+        "id": "1758905538115706880",
+        "name": "heihe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026146455816474625/NrJzcoKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 31,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 753
+        },
+        "username": "heihe225",
+        "verified": false
+      }
+    ]
+  }
+}

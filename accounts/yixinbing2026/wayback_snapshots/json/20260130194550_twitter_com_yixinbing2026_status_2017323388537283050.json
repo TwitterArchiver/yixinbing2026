@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2017210484504814012",
+    "created_at": "2026-01-30T19:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T20:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017323388537283050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991711672684421121",
+          "start": 0,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017323388537283050",
+    "in_reply_to_user_id": "1991711672684421121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017210484504814012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pearl0812lucky 我刚刚还在搜可爱的颜文字！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2017210484504814012",
+        "created_at": "2026-01-30T19:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T20:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017323388537283050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017323388537283050",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017210484504814012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 我刚刚还在搜可爱的颜文字！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2017210484504814012",
+        "created_at": "2026-01-30T12:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017210484504814012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017210484504814012",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 4530,
+          "like_count": 193,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "˶╹ꇴ╹˶\n\n✩︎ *:. ˶&gt; o &lt;˶ .:* ✩︎\n\n૮⑉･-･⑉ა\n\n^›⩊‹^ ੭\n\nʢᴗ.ᴗʡᶻ\n\nᜊ•͈⌔•͈ᜊ\n\n՞⩌⌯⩌՞ ᶻ 𝗓\n\n⌯'ᵕ'⌯\n\n꒰ᐢ⸝⸝•༝•⸝⸝ᐢ꒱\n\n=⩌⩊⩌=\n\nฅ^•𐃷•^ฅ\n\n♡˃̶͈ ꇴ ˂̶͈♡\n\n⌯&gt;𖥦&lt;⌯\n\n=^･ᴥ･^=\n\n՞ʕ̯•͡ˑ͓•̯᷅ʔ\n\n૮ฅ•͈ ₃ •͈ฅა\n\n₍^˶ ╸𖥦  ╸˵^₎⟆\n\n՞ ˶'ᵕ'˶)꜆ 🍴\n\nฅᐞ˶⦁༝⦁˶ᐞฅ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我珍惜妳的方式錯了嗎",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "pinned_tweet_id": "2017318014472097921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017315538603839488/70k3GEnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 58,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 99
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 45,
+          "like_count": 3393,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 805
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

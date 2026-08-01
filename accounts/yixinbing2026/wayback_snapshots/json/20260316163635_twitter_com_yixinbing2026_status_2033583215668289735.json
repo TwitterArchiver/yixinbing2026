@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033583152799809536"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2033583215668289735",
+    "created_at": "2026-03-16T16:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033583215668289735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VjnPBDKVMA",
+          "end": 28,
+          "expanded_url": "https://x.com/yixinbing2026/status/2033583215668289735/video/1",
+          "media_key": "13_2033583152799809536",
+          "start": 5,
+          "url": "https://t.co/VjnPBDKVMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033583215668289735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有点累 https://t.co/VjnPBDKVMA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6898,
+        "height": 1280,
+        "media_key": "13_2033583152799809536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033583152799809536/img/IT7kmTC2gQ9CeNzd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033583152799809536/vid/avc1/320x568/4JcwByQFWy3bMuHB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033583152799809536/vid/avc1/480x852/iyycZbQIh9K-HZD_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033583152799809536/vid/avc1/720x1280/AMY8qxDf-J7DCrPR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033583152799809536/pl/0UV3J0zXzEf4Kw5w.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033583152799809536"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2033583215668289735",
+        "created_at": "2026-03-16T16:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033583215668289735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VjnPBDKVMA",
+              "end": 28,
+              "expanded_url": "https://x.com/yixinbing2026/status/2033583215668289735/video/1",
+              "media_key": "13_2033583152799809536",
+              "start": 5,
+              "url": "https://t.co/VjnPBDKVMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033583215668289735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点累 https://t.co/VjnPBDKVMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没门槛 不加联系方式 约炮别来找我 处对象别来找我 暴露癖不要找我 精虫上脑别找我 线下查无此人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 153,
+          "like_count": 935,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027287344685146134",
+    "created_at": "2026-02-28T06:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027634935591563603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1518626636476092417",
+          "start": 0,
+          "username": "Six_One61_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027634935591563603",
+    "in_reply_to_user_id": "1518626636476092417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027287344685146134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Six_One61_ 😭谁跟我说话温柔一点我就爱上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027287344685146134",
+        "created_at": "2026-02-28T06:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027634935591563603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1518626636476092417",
+              "start": 0,
+              "username": "Six_One61_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027634935591563603",
+        "in_reply_to_user_id": "1518626636476092417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027287344685146134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Six_One61_ 😭谁跟我说话温柔一点我就爱上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518626636476092417",
+        "conversation_id": "2027287344685146134",
+        "created_at": "2026-02-27T07:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027287344685146134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027287344685146134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7612,
+          "like_count": 139,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "不打炮不是因为本人素质多高，而是因为我深知自己是那种会爱上炮友的傻逼谢谢🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 77,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T16:23:09.000Z",
+        "description": "我喜欢你/@Zhuazdream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Zhuazdream"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sixone19716",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sixone19716",
+                "start": 0,
+                "url": "https://t.co/UayD1uu2UG"
+              }
+            ]
+          }
+        },
+        "id": "1518626636476092417",
+        "name": "小猫抓",
+        "pinned_tweet_id": "1916723484878635255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881504833448091648/ZFRN2Ag7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 375,
+          "like_count": 5554,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 2561
+        },
+        "url": "https://t.co/UayD1uu2UG",
+        "username": "Six_One61_",
+        "verified": false
+      }
+    ]
+  }
+}

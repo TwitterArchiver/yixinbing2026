@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042881505555623936",
+        "3_2042881505563938817",
+        "3_2042881505563938816"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2042881516762730957",
+    "created_at": "2026-04-11T08:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042881516762730957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g7OqC2xOdJ",
+          "end": 30,
+          "expanded_url": "https://x.com/yixinbing2026/status/2042881516762730957/photo/1",
+          "media_key": "3_2042881505555623936",
+          "start": 7,
+          "url": "https://t.co/g7OqC2xOdJ"
+        },
+        {
+          "display_url": "pic.x.com/g7OqC2xOdJ",
+          "end": 30,
+          "expanded_url": "https://x.com/yixinbing2026/status/2042881516762730957/photo/1",
+          "media_key": "3_2042881505563938817",
+          "start": 7,
+          "url": "https://t.co/g7OqC2xOdJ"
+        },
+        {
+          "display_url": "pic.x.com/g7OqC2xOdJ",
+          "end": 30,
+          "expanded_url": "https://x.com/yixinbing2026/status/2042881516762730957/photo/1",
+          "media_key": "3_2042881505563938816",
+          "start": 7,
+          "url": "https://t.co/g7OqC2xOdJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042881516762730957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的妈呀大姐 https://t.co/g7OqC2xOdJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042881505555623936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnF59jbsAAsH5g.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042881505563938817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnF59lakAEXfHQ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042881505563938816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnF59lakAAN0X5.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042881505555623936",
+            "3_2042881505563938817",
+            "3_2042881505563938816"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2042881516762730957",
+        "created_at": "2026-04-11T08:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042881516762730957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7OqC2xOdJ",
+              "end": 30,
+              "expanded_url": "https://x.com/yixinbing2026/status/2042881516762730957/photo/1",
+              "media_key": "3_2042881505555623936",
+              "start": 7,
+              "url": "https://t.co/g7OqC2xOdJ"
+            },
+            {
+              "display_url": "pic.x.com/g7OqC2xOdJ",
+              "end": 30,
+              "expanded_url": "https://x.com/yixinbing2026/status/2042881516762730957/photo/1",
+              "media_key": "3_2042881505563938817",
+              "start": 7,
+              "url": "https://t.co/g7OqC2xOdJ"
+            },
+            {
+              "display_url": "pic.x.com/g7OqC2xOdJ",
+              "end": 30,
+              "expanded_url": "https://x.com/yixinbing2026/status/2042881516762730957/photo/1",
+              "media_key": "3_2042881505563938816",
+              "start": 7,
+              "url": "https://t.co/g7OqC2xOdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042881516762730957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀大姐 https://t.co/g7OqC2xOdJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "你想知道什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 191,
+          "like_count": 1455,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 556
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2051578617768096167",
+    "created_at": "2026-05-05T08:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051578617768096167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911571346942791680",
+          "start": 3,
+          "username": "feiQwQ555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051578617768096167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921869702160162860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @feiQwQ555: 骗子起号真TM容易，先来讲耳机，打电话和我说不是骗子反说小哭哭是皮下男，邀请他一起骗钱，还说哭哭威胁他给他开户了寄刀片，结果自己被开了也是男的，再来就是小哭哭和坏坏，你TM是不畜生，号不火了另起是吧之前小哭哭名的V号一改，就成坏坏了，在赚死后的棺材…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921869694283513856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvaTfBbgAA77KN.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921869694438391808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvaTfmWwAABsqe.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921869694429986816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvaTfkWgAAeJDW.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921869694421659648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqvaTfiXcAAZ3bS.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2051578617768096167",
+        "created_at": "2026-05-05T08:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051578617768096167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911571346942791680",
+              "start": 3,
+              "username": "feiQwQ555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051578617768096167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921869702160162860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @feiQwQ555: 骗子起号真TM容易，先来讲耳机，打电话和我说不是骗子反说小哭哭是皮下男，邀请他一起骗钱，还说哭哭威胁他给他开户了寄刀片，结果自己被开了也是男的，再来就是小哭哭和坏坏，你TM是不畜生，号不火了另起是吧之前小哭哭名的V号一改，就成坏坏了，在赚死后的棺材…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921869694283513856",
+            "3_1921869694438391808",
+            "3_1921869694429986816",
+            "3_1921869694421659648"
+          ]
+        },
+        "author_id": "1911571346942791680",
+        "conversation_id": "1921869702160162860",
+        "created_at": "2025-05-12T10:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921869702160162860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 150,
+              "id": "1909670266063798273",
+              "start": 141,
+              "username": "Xhhooooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7G0LmQHWg",
+              "end": 174,
+              "expanded_url": "https://x.com/feiQwQ555/status/1921869702160162860/photo/1",
+              "media_key": "3_1921869694283513856",
+              "start": 151,
+              "url": "https://t.co/J7G0LmQHWg"
+            },
+            {
+              "display_url": "pic.x.com/J7G0LmQHWg",
+              "end": 174,
+              "expanded_url": "https://x.com/feiQwQ555/status/1921869702160162860/photo/1",
+              "media_key": "3_1921869694438391808",
+              "start": 151,
+              "url": "https://t.co/J7G0LmQHWg"
+            },
+            {
+              "display_url": "pic.x.com/J7G0LmQHWg",
+              "end": 174,
+              "expanded_url": "https://x.com/feiQwQ555/status/1921869702160162860/photo/1",
+              "media_key": "3_1921869694429986816",
+              "start": 151,
+              "url": "https://t.co/J7G0LmQHWg"
+            },
+            {
+              "display_url": "pic.x.com/J7G0LmQHWg",
+              "end": 174,
+              "expanded_url": "https://x.com/feiQwQ555/status/1921869702160162860/photo/1",
+              "media_key": "3_1921869694421659648",
+              "start": 151,
+              "url": "https://t.co/J7G0LmQHWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921869702160162860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 54465,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "骗子起号真TM容易，先来讲耳机，打电话和我说不是骗子反说小哭哭是皮下男，邀请他一起骗钱，还说哭哭威胁他给他开户了寄刀片，结果自己被开了也是男的，再来就是小哭哭和坏坏，你TM是不畜生，号不火了另起是吧之前小哭哭名的V号一改，就成坏坏了，在赚死后的棺材本是吗，@xiaokukuQwQ @Xhhooooo https://t.co/J7G0LmQHWg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢Karina！！\n没啥用的次号@fushishanxia121\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（神临版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 281,
+          "like_count": 2762,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T00:05:19.000Z",
+        "description": "不知道你们能不能私信我，出于善良提醒你们，小哭哭皮下男，我帮他收过钱，支付宝所有收款号都是男实名，视频估计找的别人录的",
+        "id": "1911571346942791680",
+        "location": "Kanan-cho, Osaka",
+        "name": "爱被那个小哭哭和坏坏骗就大胆约她线下吧",
+        "pinned_tweet_id": "1921869702160162860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915084384438484992/P_VHYLoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 11,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 30
+        },
+        "username": "feiQwQ555",
+        "verified": false
+      }
+    ]
+  }
+}

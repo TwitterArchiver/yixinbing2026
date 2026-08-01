@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2048026525120008645",
+    "created_at": "2026-04-26T07:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048302554820575427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734188803747962880",
+          "start": 0,
+          "username": "GeBiubiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048302554820575427",
+    "in_reply_to_user_id": "1734188803747962880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048026525120008645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeBiubiu 抽烟喝酒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2048026456996130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwNNjPbMAA7kMq.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2048026525120008645",
+        "created_at": "2026-04-26T07:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048302554820575427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734188803747962880",
+              "start": 0,
+              "username": "GeBiubiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048302554820575427",
+        "in_reply_to_user_id": "1734188803747962880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048026525120008645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeBiubiu 抽烟喝酒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048026456996130816"
+          ]
+        },
+        "author_id": "1734188803747962880",
+        "conversation_id": "2048026525120008645",
+        "created_at": "2026-04-25T13:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048026525120008645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0L5G6Q6JIz",
+              "end": 43,
+              "expanded_url": "https://x.com/GeBiubiu/status/2048026525120008645/photo/1",
+              "media_key": "3_2048026456996130816",
+              "start": 20,
+              "url": "https://t.co/0L5G6Q6JIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048026525120008645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 359651,
+          "like_count": 363,
+          "quote_count": 50,
+          "reply_count": 1345,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "敢不敢自曝一个很烧钱\n但又戒不掉的爱好 https://t.co/0L5G6Q6JIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "其实我也不太了解她\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（升级版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 247,
+          "like_count": 2369,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T12:30:30.000Z",
+        "description": "🇨🇳 钢筋直男 分享 美好\n      \n（视频图片源自网络 如有侵权请联系删除～）",
+        "id": "1734188803747962880",
+        "location": "Jiangxi China",
+        "name": "是Biubiu_Ge",
+        "pinned_tweet_id": "2028390436583485865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011019340095897601/M3EAib_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11388,
+          "following_count": 6015,
+          "like_count": 377539,
+          "listed_count": 36,
+          "media_count": 1036,
+          "tweet_count": 18095
+        },
+        "username": "GeBiubiu",
+        "verified": false
+      }
+    ]
+  }
+}

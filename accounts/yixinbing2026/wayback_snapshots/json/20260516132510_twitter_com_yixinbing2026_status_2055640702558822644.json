@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2055610343649681629",
+    "created_at": "2026-05-16T13:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055640702558822644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014234031622377472",
+          "start": 0,
+          "username": "fushishanxia121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055640702558822644",
+    "in_reply_to_user_id": "2014234031622377472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055610343649681629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fushishanxia121 一言为定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2055610343649681629",
+        "created_at": "2026-05-16T13:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055640702558822644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014234031622377472",
+              "start": 0,
+              "username": "fushishanxia121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055640702558822644",
+        "in_reply_to_user_id": "2014234031622377472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055610343649681629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fushishanxia121 一言为定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014234031622377472",
+        "conversation_id": "2055610343649681629",
+        "created_at": "2026-05-16T11:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055610343649681629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055610343649681629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天南地北 我都不会再让你一个人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "重开日期2010.10 成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 304,
+          "like_count": 3322,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T07:10:02.000Z",
+        "description": "단 하나만을 위해 Yu Ji🩵",
+        "id": "2014234031622377472",
+        "location": "首尔",
+        "name": "YukiAurora",
+        "pinned_tweet_id": "2050079501535924582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052083457908764672/vErLoQXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 41,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 73
+        },
+        "username": "fushishanxia121",
+        "verified": false
+      }
+    ]
+  }
+}

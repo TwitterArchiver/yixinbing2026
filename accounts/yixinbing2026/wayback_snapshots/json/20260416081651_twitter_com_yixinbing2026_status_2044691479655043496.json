@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2044670075916173497",
+    "created_at": "2026-04-16T08:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044691479655043496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842567018899288064",
+          "start": 0,
+          "username": "lyh1310z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044691479655043496",
+    "in_reply_to_user_id": "1842567018899288064",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044673935611158786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyh1310z ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2044670075916173497",
+        "created_at": "2026-04-16T08:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044691479655043496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842567018899288064",
+              "start": 0,
+              "username": "lyh1310z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044691479655043496",
+        "in_reply_to_user_id": "1842567018899288064",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044673935611158786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyh1310z ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842567018899288064",
+        "conversation_id": "2044670075916173497",
+        "created_at": "2026-04-16T07:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044673935611158786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044673935611158786",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044670075916173497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 可以发单口相声"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 233,
+          "like_count": 1703,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T14:06:37.000Z",
+        "description": "Anime best",
+        "id": "1842567018899288064",
+        "location": "Tokyo",
+        "name": "坂本銀時",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999871052659531776/nTsIQ3Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 145
+        },
+        "username": "lyh1310z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T14:06:37.000Z",
+        "description": "Anime best",
+        "id": "1842567018899288064",
+        "location": "Tokyo",
+        "name": "坂本銀時",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999871052659531776/nTsIQ3Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "lyh1310z",
+        "verified": false
+      }
+    ]
+  }
+}

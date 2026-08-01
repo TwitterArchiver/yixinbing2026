@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2017667824635023369",
+    "created_at": "2026-01-31T18:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017667824635023369"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017667824635023369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2017667824635023369",
+        "created_at": "2026-01-31T18:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017667824635023369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017667824635023369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我珍惜妳的方式錯了嗎",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "pinned_tweet_id": "2017318014472097921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017315538603839488/70k3GEnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 63,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 105
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2080865574096441367",
+    "created_at": "2026-07-25T06:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T07:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080904946904686807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021059261481324544",
+          "start": 0,
+          "username": "jinyiyi26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080904946904686807",
+    "in_reply_to_user_id": "2021059261481324544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080865574096441367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinyiyi26 生日快乐～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080865552122413056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOC4MduagAAEZoG.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2080865564378210304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOC4NLYbIAABoIh.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2080865574096441367",
+        "created_at": "2026-07-25T06:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080904946904686807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021059261481324544",
+              "start": 0,
+              "username": "jinyiyi26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080904946904686807",
+        "in_reply_to_user_id": "2021059261481324544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080865574096441367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinyiyi26 生日快乐～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080865552122413056",
+            "3_2080865564378210304"
+          ]
+        },
+        "author_id": "2021059261481324544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080865574096441367",
+        "created_at": "2026-07-25T03:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080865574096441367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKMmxwse3P",
+              "end": 45,
+              "expanded_url": "https://x.com/jinyiyi26/status/2080865574096441367/photo/1",
+              "media_key": "3_2080865552122413056",
+              "start": 22,
+              "url": "https://t.co/YKMmxwse3P"
+            },
+            {
+              "display_url": "pic.x.com/YKMmxwse3P",
+              "end": 45,
+              "expanded_url": "https://x.com/jinyiyi26/status/2080865574096441367/photo/1",
+              "media_key": "3_2080865564378210304",
+              "start": 22,
+              "url": "https://t.co/YKMmxwse3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080865574096441367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1658,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天也是我生日，我想听到那一句。谢谢大家。 https://t.co/YKMmxwse3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发\n我的成分：\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 371,
+          "like_count": 5424,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-10T03:11:03.000Z",
+        "description": "男｜门姐圈反诈，防骗 \n5月6日后开始分享避坑，\n只因自己被骗1300+ \n我只验证是否真人，不保证人品 \n帮社恐新人少踩雷 推荐关注：\n\n@tiancai312（元大鹰）、烧杯学长\n\n认证的在表格里面，我关注的不代表认证。\n\n追踪骗子号@jinyiyi26liu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "tiancai312"
+              },
+              {
+                "end": 132,
+                "start": 119,
+                "username": "jinyiyi26liu"
+              }
+            ]
+          }
+        },
+        "id": "2021059261481324544",
+        "location": "接受投稿，接鉴定。需要已验证的，看我亮点里面。也有我验证的门",
+        "name": "Riley（防骗+反诈）",
+        "pinned_tweet_id": "2079412681950597415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021059526221545472/6NUFHDsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5935,
+          "following_count": 135,
+          "like_count": 2311,
+          "listed_count": 6,
+          "media_count": 203,
+          "tweet_count": 2085
+        },
+        "url": "",
+        "username": "jinyiyi26",
+        "verified": true
+      }
+    ]
+  }
+}

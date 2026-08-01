@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2044633616769221045",
+    "created_at": "2026-04-16T10:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044730227256070594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842567018899288064",
+          "start": 0,
+          "username": "lyh1310z"
+        },
+        {
+          "end": 19,
+          "id": "1934497971489431552",
+          "start": 10,
+          "username": "Rei90420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044730227256070594",
+    "in_reply_to_user_id": "1842567018899288064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044729259080757647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyh1310z @Rei90420 四五次😏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2044633616769221045",
+        "created_at": "2026-04-16T10:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044730227256070594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842567018899288064",
+              "start": 0,
+              "username": "lyh1310z"
+            },
+            {
+              "end": 19,
+              "id": "1934497971489431552",
+              "start": 10,
+              "username": "Rei90420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044730227256070594",
+        "in_reply_to_user_id": "1842567018899288064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044729259080757647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyh1310z @Rei90420 四五次😏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842567018899288064",
+        "conversation_id": "2044633616769221045",
+        "created_at": "2026-04-16T10:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044729259080757647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            },
+            {
+              "end": 24,
+              "id": "1934497971489431552",
+              "start": 15,
+              "username": "Rei90420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044729259080757647",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044720690079953275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 @Rei90420 一天能充几回电"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 235,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T14:06:37.000Z",
+        "description": "Anime best",
+        "id": "1842567018899288064",
+        "location": "Tokyo",
+        "name": "坂本銀時",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999871052659531776/nTsIQ3Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 146
+        },
+        "username": "lyh1310z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T06:27:25.000Z",
+        "description": "纯清水推 infp 水瓶座 双相情感障碍 恐人 我脾气很差 间歇性发疯 魔丸形态谁都看不顺眼 不扩列 不回私信 非要加好友请给我打钱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rei38286",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rei38286",
+                "start": 0,
+                "url": "https://t.co/u3FBGJOpgw"
+              }
+            ]
+          }
+        },
+        "id": "1934497971489431552",
+        "name": "Rei",
+        "pinned_tweet_id": "2029631548438552944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032355916000215042/Cu35exk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/u3FBGJOpgw",
+        "username": "Rei90420",
+        "verified": false
+      }
+    ]
+  }
+}

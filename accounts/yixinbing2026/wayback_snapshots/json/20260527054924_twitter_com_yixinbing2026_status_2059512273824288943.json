@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2059505706928340999",
+    "created_at": "2026-05-27T05:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059512273824288943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583636097937993729",
+          "start": 0,
+          "username": "huzi76473556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059512273824288943",
+    "in_reply_to_user_id": "1583636097937993729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059505706928340999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huzi76473556 算你牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2059505706928340999",
+        "created_at": "2026-05-27T05:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059512273824288943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583636097937993729",
+              "start": 0,
+              "username": "huzi76473556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059512273824288943",
+        "in_reply_to_user_id": "1583636097937993729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059505706928340999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huzi76473556 算你牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583636097937993729",
+        "conversation_id": "2059505706928340999",
+        "created_at": "2026-05-27T05:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059505706928340999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059505706928340999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去医院爬了16层楼梯。牛逼吧。哈哈。。😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 315,
+          "like_count": 4127,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-22T01:47:51.000Z",
+        "description": "熊好难过。互关回家。小暗二世降临！上一世 @huahuahuaziw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "huahuahuaziw"
+              }
+            ]
+          }
+        },
+        "id": "1583636097937993729",
+        "name": "小暗二世。",
+        "pinned_tweet_id": "2056439234018603029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056391662667190272/1bvuB1hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 306,
+          "like_count": 1565,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 80
+        },
+        "username": "huzi76473556",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2015803292706902468",
+    "created_at": "2026-01-27T15:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016168255174676790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959674017373462528",
+          "start": 0,
+          "username": "Alicemimimiao11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016168255174676790",
+    "in_reply_to_user_id": "1959674017373462528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015803292706902468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alicemimimiao11 我也喜欢这种"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2015803278580502528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mSZtTb0AAFkvf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2015803292706902468",
+        "created_at": "2026-01-27T15:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016168255174676790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959674017373462528",
+              "start": 0,
+              "username": "Alicemimimiao11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016168255174676790",
+        "in_reply_to_user_id": "1959674017373462528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015803292706902468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alicemimimiao11 我也喜欢这种"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015803278580502528"
+          ]
+        },
+        "author_id": "1959674017373462528",
+        "conversation_id": "2015803292706902468",
+        "created_at": "2026-01-26T15:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015803292706902468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4HIT8oSXv",
+              "end": 50,
+              "expanded_url": "https://x.com/Alicemimimiao11/status/2015803292706902468/photo/1",
+              "media_key": "3_2015803278580502528",
+              "start": 27,
+              "url": "https://t.co/G4HIT8oSXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015803292706902468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 34358,
+          "like_count": 789,
+          "quote_count": 1,
+          "reply_count": 73,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "特别喜欢买这种脖子或者胸口有点东西的内衣 感觉特别色 https://t.co/G4HIT8oSXv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "装松弛感刷推 立场正确🇨🇳 皮下女生 我的冲浪一条线罢 10后",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016166797398220800/9ait4Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 49,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 87
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T17:47:59.000Z",
+        "description": "废话很多 喜欢女宝｜不定时删帖｜不约不加联系方式｜私信看心情回｜没有陪聊的义务 陪聊打钱谢谢｜骂我的没妈｜另一个我@Wendyyyy_awo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "Wendyyyy_awo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alice51462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alice51462",
+                "start": 0,
+                "url": "https://t.co/Py9CPZxB06"
+              }
+            ]
+          }
+        },
+        "id": "1959674017373462528",
+        "location": "🚪288/520/1314 匿名➡️",
+        "name": "Alice",
+        "pinned_tweet_id": "2006335726410183054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010237010825392128/cuiFSv0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2530,
+          "following_count": 107,
+          "like_count": 4546,
+          "listed_count": 14,
+          "media_count": 100,
+          "tweet_count": 1798
+        },
+        "url": "https://t.co/Py9CPZxB06",
+        "username": "Alicemimimiao11",
+        "verified": false
+      }
+    ]
+  }
+}

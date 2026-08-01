@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2009427988249457145",
+    "created_at": "2026-01-26T15:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T16:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015808515223453949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818240251925868544",
+          "start": 0,
+          "username": "puputongtong99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015808515223453949",
+    "in_reply_to_user_id": "1818240251925868544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009427988249457145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puputongtong99 新粉算吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_2009427978397339649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-LsGZYa0AEy1mg.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2009427988249457145",
+        "created_at": "2026-01-26T15:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015808515223453949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818240251925868544",
+              "start": 0,
+              "username": "puputongtong99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015808515223453949",
+        "in_reply_to_user_id": "1818240251925868544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009427988249457145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puputongtong99 新粉算吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009427978397339649"
+          ]
+        },
+        "author_id": "1818240251925868544",
+        "conversation_id": "2009427988249457145",
+        "created_at": "2026-01-09T00:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T01:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009427988249457145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxjyge59qD",
+              "end": 34,
+              "expanded_url": "https://x.com/puputongtong99/status/2009427988249457145/photo/1",
+              "media_key": "3_2009427978397339649",
+              "start": 11,
+              "url": "https://t.co/jxjyge59qD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009427988249457145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 40813,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的真的有女粉吗…. https://t.co/jxjyge59qD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp 性别男女后者",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 36,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 67
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T11:00:40.000Z",
+        "description": "黑皮纯工科👨/正在✈️旅居全国，希望认识更多的朋友👫date最重要的两项快乐和安全✈️https://t.co/30TlFmxvU1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/pupuyulanbot?s…",
+                "end": 66,
+                "expanded_url": "https://t.me/pupuyulanbot?start=p___53d1ab3",
+                "start": 43,
+                "url": "https://t.co/30TlFmxvU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/pupuyulanbot?s…",
+                "end": 23,
+                "expanded_url": "https://t.me/pupuyulanbot?start=p___53d1ab3",
+                "start": 0,
+                "url": "https://t.co/30TlFmxvU1"
+              }
+            ]
+          }
+        },
+        "id": "1818240251925868544",
+        "location": "San Jose, CA",
+        "name": "噗噗🍔",
+        "pinned_tweet_id": "1962703975297491117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999145546959974400/di55tdkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91352,
+          "following_count": 22,
+          "like_count": 40,
+          "listed_count": 189,
+          "media_count": 46,
+          "tweet_count": 161
+        },
+        "url": "https://t.co/30TlFmxvU1",
+        "username": "puputongtong99",
+        "verified": false
+      }
+    ]
+  }
+}

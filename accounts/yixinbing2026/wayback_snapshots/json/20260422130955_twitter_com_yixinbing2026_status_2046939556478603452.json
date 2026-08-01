@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2046938804876091730",
+    "created_at": "2026-04-22T13:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046939556478603452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550523516545601536",
+          "start": 0,
+          "username": "buxiangjieshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046939556478603452",
+    "in_reply_to_user_id": "1550523516545601536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046939364190802060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buxiangjieshou 喝完半夜别起来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2046939348344635392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgwff7aAAArHu-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2046938804876091730",
+        "created_at": "2026-04-22T13:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046939556478603452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550523516545601536",
+              "start": 0,
+              "username": "buxiangjieshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046939556478603452",
+        "in_reply_to_user_id": "1550523516545601536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046939364190802060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buxiangjieshou 喝完半夜别起来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046939348344635392"
+          ]
+        },
+        "author_id": "1550523516545601536",
+        "conversation_id": "2046938804876091730",
+        "created_at": "2026-04-22T13:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046939364190802060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nixNJSOOhT",
+              "end": 42,
+              "expanded_url": "https://x.com/buxiangjieshou/status/2046939364190802060/photo/1",
+              "media_key": "3_2046939348344635392",
+              "start": 19,
+              "url": "https://t.co/nixNJSOOhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046939364190802060",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046938804876091730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 陪了（ https://t.co/nixNJSOOhT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "其实我也不太了解她\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 246,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T16:49:57.000Z",
+        "description": "♂｜infp｜树洞｜switch偏sub｜xp小腹｜喜欢亲亲抱抱｜1i=4i｜只是一个只懂的大道理和纸上谈兵的老处男罢了",
+        "id": "1550523516545601536",
+        "location": "心之所向",
+        "name": "不接受",
+        "pinned_tweet_id": "1550526736441507842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045925213150519296/bgr90NXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 349,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 145
+        },
+        "username": "buxiangjieshou",
+        "verified": false
+      }
+    ]
+  }
+}

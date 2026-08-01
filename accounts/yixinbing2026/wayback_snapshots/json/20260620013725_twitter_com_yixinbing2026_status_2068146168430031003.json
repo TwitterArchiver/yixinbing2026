@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2067591933422411949",
+    "created_at": "2026-06-20T01:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068146168430031003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936364865792454656",
+          "start": 0,
+          "username": "CUTE_PUPPY666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068146168430031003",
+    "in_reply_to_user_id": "1936364865792454656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067591933422411949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CUTE_PUPPY666 真的好贵…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067591924496891904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGP5pgagAAyBIp.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2067591933422411949",
+        "created_at": "2026-06-20T01:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068146168430031003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936364865792454656",
+              "start": 0,
+              "username": "CUTE_PUPPY666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068146168430031003",
+        "in_reply_to_user_id": "1936364865792454656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067591933422411949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CUTE_PUPPY666 真的好贵…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067591924496891904"
+          ]
+        },
+        "author_id": "1936364865792454656",
+        "conversation_id": "2067591933422411949",
+        "created_at": "2026-06-18T12:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067591933422411949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JEbw3ejOb",
+              "end": 45,
+              "expanded_url": "https://x.com/CUTE_PUPPY666/status/2067591933422411949/photo/1",
+              "media_key": "3_2067591924496891904",
+              "start": 22,
+              "url": "https://t.co/9JEbw3ejOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067591933422411949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5166,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽贝壳真的好好看。。我一定要攒钱买下来。 https://t.co/9JEbw3ejOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 343,
+          "like_count": 4937,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2028
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-21T10:05:45.000Z",
+        "description": "08高三重抑重焦小狗｜幼犬｜brat 我是双性恋^_^不敢在墙内发的碎碎念在这发... 有时是黄推有时是抑郁推 🚪58｜128｜小狗也想被爱｜不入🚪的宝宝的私信我随机回。没回是对你的话题不感兴趣qwq提问箱 https://t.co/sCKFy2Gx5V",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%91%86%E5%9…",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E5%91%86%E5%91%8637656",
+                "start": 104,
+                "url": "https://t.co/sCKFy2Gx5V"
+              }
+            ]
+          }
+        },
+        "id": "1936364865792454656",
+        "location": "中国",
+        "name": "小宝呆呆^",
+        "pinned_tweet_id": "2017474855894147172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936376782501883904/QmlDpCvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4129,
+          "following_count": 28,
+          "like_count": 34,
+          "listed_count": 5,
+          "media_count": 58,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "CUTE_PUPPY666",
+        "verified": false
+      }
+    ]
+  }
+}

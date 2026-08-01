@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2052712187467325635",
+    "created_at": "2026-05-08T16:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052785362582569226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1991976361356124160",
+          "start": 0,
+          "username": "YUANccorz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052785362582569226",
+    "in_reply_to_user_id": "1991976361356124160",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052712187467325635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUANccorz ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "3_2052712177862385664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyy2ZubIAA-bKl.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2052712187467325635",
+        "created_at": "2026-05-08T16:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052785362582569226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1991976361356124160",
+              "start": 0,
+              "username": "YUANccorz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052785362582569226",
+        "in_reply_to_user_id": "1991976361356124160",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052712187467325635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUANccorz ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052712177862385664"
+          ]
+        },
+        "author_id": "1991976361356124160",
+        "conversation_id": "2052712187467325635",
+        "created_at": "2026-05-08T11:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052712187467325635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoWRQcPXuR",
+              "end": 31,
+              "expanded_url": "https://x.com/YUANccorz/status/2052712187467325635/photo/1",
+              "media_key": "3_2052712177862385664",
+              "start": 8,
+              "url": "https://t.co/LoWRQcPXuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052712187467325635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文游是没救了。 https://t.co/LoWRQcPXuR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我就是那个爱发自拍的女的 不谈恋爱\n我最敬业也是唯一的员工@buxiangjieshou\n搬砖兄弟@rita_burns52614还有个兄弟记不住推号\n神临日期2010.10具体不说 女生可以直接互关扩列别的看成分 最后就是展示我的神秘小号@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "buxiangjieshou"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "rita_burns52614"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（只有唯一员工版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 286,
+          "like_count": 2907,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T21:05:55.000Z",
+        "description": "事缓则圆 是缘总会圆",
+        "id": "1991976361356124160",
+        "location": "小狗男你把我毁了",
+        "name": "小缘",
+        "pinned_tweet_id": "2044986078655132011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035100921076822016/UOhIxsI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 90,
+          "like_count": 8353,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1795
+        },
+        "username": "YUANccorz",
+        "verified": false
+      }
+    ]
+  }
+}

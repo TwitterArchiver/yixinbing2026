@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2070026304939065456",
+    "created_at": "2026-06-25T07:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070050223964266729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069790112725229568",
+          "start": 0,
+          "username": "Xiaomaozto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070050223964266729",
+    "in_reply_to_user_id": "2069790112725229568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070026304939065456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaomaozto 加上我😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070026294377824256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo18oAbwAAH32S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070026294340009984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo18n3awAAxGTc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2070026304939065456",
+        "created_at": "2026-06-25T07:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070050223964266729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069790112725229568",
+              "start": 0,
+              "username": "Xiaomaozto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070050223964266729",
+        "in_reply_to_user_id": "2069790112725229568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070026304939065456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaomaozto 加上我😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070026294377824256",
+            "3_2070026294340009984"
+          ]
+        },
+        "author_id": "2069790112725229568",
+        "conversation_id": "2070026304939065456",
+        "created_at": "2026-06-25T06:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070026304939065456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1kEGUFDmq",
+              "end": 37,
+              "expanded_url": "https://x.com/Xiaomaozto/status/2070026304939065456/photo/1",
+              "media_key": "3_2070026294377824256",
+              "start": 14,
+              "url": "https://t.co/M1kEGUFDmq"
+            },
+            {
+              "display_url": "pic.x.com/M1kEGUFDmq",
+              "end": 37,
+              "expanded_url": "https://x.com/Xiaomaozto/status/2070026304939065456/photo/1",
+              "media_key": "3_2070026294340009984",
+              "start": 14,
+              "url": "https://t.co/M1kEGUFDmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070026304939065456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶嘿(⁎⁍̴̛ᴗ⁍̴̛⁎) https://t.co/M1kEGUFDmq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90喜欢我请给我打钱 清水 低精力人 重抑中焦 成分互关 眼熟加好友 顺女 o餐跨随互 od但不经常餐 找我聊天不想被限流了！独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们 小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 120,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 344,
+          "like_count": 4975,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-24T14:30:47.000Z",
+        "description": "@nigich436594大号封7天捏……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "nigich436594"
+              }
+            ]
+          }
+        },
+        "id": "2069790112725229568",
+        "name": "茶茶",
+        "pinned_tweet_id": "2069798757873676536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069791599069200384/xfkGeajF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 52,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "Xiaomaozto",
+        "verified": false
+      }
+    ]
+  }
+}

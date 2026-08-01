@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027633416892780745",
+    "created_at": "2026-02-28T06:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027633416892780745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yixinbing2026/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yixinbing2026/status/2027633357614686452",
+          "start": 12,
+          "url": "https://t.co/r4hCDcaZC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027633416892780745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027633357614686452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得这个人是开玩笑的 https://t.co/r4hCDcaZC5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027633350958321664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOZyjKbEAALkAy.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027633416892780745",
+        "created_at": "2026-02-28T06:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027633416892780745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yixinbing2026/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yixinbing2026/status/2027633357614686452",
+              "start": 12,
+              "url": "https://t.co/r4hCDcaZC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027633416892780745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027633357614686452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得这个人是开玩笑的 https://t.co/r4hCDcaZC5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027633350958321664"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027633357614686452",
+        "created_at": "2026-02-28T06:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027633357614686452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7LYjxywIJ",
+              "end": 42,
+              "expanded_url": "https://x.com/yixinbing2026/status/2027633357614686452/photo/1",
+              "media_key": "3_2027633350958321664",
+              "start": 19,
+              "url": "https://t.co/h7LYjxywIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027633357614686452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你谁啊 我不知道有人喜欢我 认真的吗 https://t.co/h7LYjxywIJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 77,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 209
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

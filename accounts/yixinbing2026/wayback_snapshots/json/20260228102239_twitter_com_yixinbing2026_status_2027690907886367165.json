@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2026664428222226833",
+    "created_at": "2026-02-28T10:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027690907886367165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1727256661973409792",
+          "start": 0,
+          "username": "Hexysi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027690907886367165",
+    "in_reply_to_user_id": "1727256661973409792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026664428222226833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hexysi 尤克里里 我有一把吉他"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43628,
+        "height": 720,
+        "media_key": "7_2026664378788098052",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026664378788098052/pu/img/aA3xwQy7QZdFKMhR.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026664378788098052/pu/vid/avc1/480x270/QmO6XMMCieKFKRGf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026664378788098052/pu/vid/avc1/640x360/Hv4Q1N1Z2YuVG0S3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026664378788098052/pu/vid/avc1/1280x720/NWo0oUhG-Hi3mu30.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026664378788098052/pu/pl/0qvhUTNfO3Ro20-W.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2026664428222226833",
+        "created_at": "2026-02-28T10:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027690907886367165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1727256661973409792",
+              "start": 0,
+              "username": "Hexysi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027690907886367165",
+        "in_reply_to_user_id": "1727256661973409792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026664428222226833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hexysi 尤克里里 我有一把吉他"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026664378788098052"
+          ]
+        },
+        "author_id": "1727256661973409792",
+        "conversation_id": "2026664428222226833",
+        "created_at": "2026-02-25T14:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026664428222226833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUshp4PF2k",
+              "end": 33,
+              "expanded_url": "https://x.com/Hexysi/status/2026664428222226833/video/1",
+              "media_key": "7_2026664378788098052",
+              "start": 10,
+              "url": "https://t.co/KUshp4PF2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026664428222226833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经营一下减少人机感 https://t.co/KUshp4PF2k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 78,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T09:24:40.000Z",
+        "description": "玫瑰太贵了，用野草来纪念我",
+        "id": "1727256661973409792",
+        "name": "Hxey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021517459279466496/P2-CGrm5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 79,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 28
+        },
+        "username": "Hexysi",
+        "verified": false
+      }
+    ]
+  }
+}

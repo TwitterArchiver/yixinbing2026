@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024907453662724099"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2024572650476249299",
+    "created_at": "2026-02-20T18:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T19:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024907467508126054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442522226234781701",
+          "start": 0,
+          "username": "Santamoer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uwcSTjrCP6",
+          "end": 34,
+          "expanded_url": "https://x.com/yixinbing2026/status/2024907467508126054/photo/1",
+          "media_key": "3_2024907453662724099",
+          "start": 11,
+          "url": "https://t.co/uwcSTjrCP6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024907467508126054",
+    "in_reply_to_user_id": "1442522226234781701",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024572650476249299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Santamoer https://t.co/uwcSTjrCP6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024907453662724099",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnqmcabgAMTvCQ.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024907453662724099"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2024572650476249299",
+        "created_at": "2026-02-20T18:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024907467508126054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442522226234781701",
+              "start": 0,
+              "username": "Santamoer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwcSTjrCP6",
+              "end": 34,
+              "expanded_url": "https://x.com/yixinbing2026/status/2024907467508126054/photo/1",
+              "media_key": "3_2024907453662724099",
+              "start": 11,
+              "url": "https://t.co/uwcSTjrCP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024907467508126054",
+        "in_reply_to_user_id": "1442522226234781701",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024572650476249299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Santamoer https://t.co/uwcSTjrCP6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442522226234781701",
+        "conversation_id": "2024572650476249299",
+        "created_at": "2026-02-19T19:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T20:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024572650476249299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024572650476249299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特到底是社交软件还是看片软件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "偶而看看",
+        "name": "疑心病",
+        "pinned_tweet_id": "2017318014472097921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 68,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 131
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T16:11:21.000Z",
+        "description": "大人当久了也要偶尔做小孩",
+        "id": "1442522226234781701",
+        "name": "奥尔良炸鹅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1442741249350402048/84khtHge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 33,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 28
+        },
+        "username": "Santamoer",
+        "verified": false
+      }
+    ]
+  }
+}

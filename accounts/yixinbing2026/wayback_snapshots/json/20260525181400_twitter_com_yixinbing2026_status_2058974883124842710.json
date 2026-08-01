@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2058915076732829832",
+    "created_at": "2026-05-25T18:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058974883124842710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1707338046301962240",
+          "start": 0,
+          "username": "yy8796593412899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058974883124842710",
+    "in_reply_to_user_id": "1707338046301962240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058915076732829832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy8796593412899 生日快乐糊糊姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_2058915072471429120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK8WY1bcAAMiGS.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2058915076732829832",
+        "created_at": "2026-05-25T18:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058974883124842710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1707338046301962240",
+              "start": 0,
+              "username": "yy8796593412899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058974883124842710",
+        "in_reply_to_user_id": "1707338046301962240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058915076732829832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy8796593412899 生日快乐糊糊姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058915072471429120"
+          ]
+        },
+        "author_id": "1707338046301962240",
+        "conversation_id": "2058915076732829832",
+        "created_at": "2026-05-25T14:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058915076732829832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZICXALg9C",
+              "end": 32,
+              "expanded_url": "https://x.com/yy8796593412899/status/2058915076732829832/photo/1",
+              "media_key": "3_2058915072471429120",
+              "start": 9,
+              "url": "https://t.co/KZICXALg9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058915076732829832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 950,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想听生日快乐歌🎵 https://t.co/KZICXALg9C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 336,
+          "like_count": 3972,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1736
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T10:14:55.000Z",
+        "description": "人生就是瞬间呐～｜糊糊树洞｜糊糊鉴定｜糊糊聊天｜糊糊咨询（情感）｜真诚交友帖子",
+        "id": "1707338046301962240",
+        "location": "我❤️里",
+        "name": "糊小姐",
+        "pinned_tweet_id": "2057348237254906216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795676377536143360/bfxDz3tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15461,
+          "following_count": 245,
+          "like_count": 16115,
+          "listed_count": 19,
+          "media_count": 816,
+          "tweet_count": 7923
+        },
+        "username": "yy8796593412899",
+        "verified": false
+      }
+    ]
+  }
+}

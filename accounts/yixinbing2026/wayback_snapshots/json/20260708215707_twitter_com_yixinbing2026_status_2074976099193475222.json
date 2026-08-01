@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056057562945175552"
+      ],
+      "media_source_tweet_id": [
+        "2056058194431226088"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074976099193475222",
+    "created_at": "2026-07-08T21:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T22:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074976099193475222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mI3MoAXjJV",
+          "end": 44,
+          "expanded_url": "https://x.com/yixinbing2026/status/2056058194431226088/video/1",
+          "media_key": "13_2056057562945175552",
+          "start": 21,
+          "url": "https://t.co/mI3MoAXjJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074976099193475222",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056058194431226088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 😯 https://t.co/mI3MoAXjJV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20533,
+        "height": 1280,
+        "media_key": "13_2056057562945175552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056057562945175552/img/YjEP2SsIzxC0QE36.jpg",
+        "public_metrics": {
+          "view_count": 281
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056057562945175552/vid/avc1/320x568/htRsvPyE1pKbSC1u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056057562945175552/vid/avc1/480x852/GvlFS8ZyuH_aBK6B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056057562945175552/vid/avc1/720x1280/pJXGdDWUZfQFh--l.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056057562945175552/pl/7LZLsWsMDnud-hQQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056057562945175552"
+          ],
+          "media_source_tweet_id": [
+            "2056058194431226088"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074976099193475222",
+        "created_at": "2026-07-08T21:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074976099193475222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mI3MoAXjJV",
+              "end": 44,
+              "expanded_url": "https://x.com/yixinbing2026/status/2056058194431226088/video/1",
+              "media_key": "13_2056057562945175552",
+              "start": 21,
+              "url": "https://t.co/mI3MoAXjJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074976099193475222",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056058194431226088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: 😯 https://t.co/mI3MoAXjJV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056057562945175552"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2056058194431226088",
+        "created_at": "2026-05-17T17:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056058194431226088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mI3MoAXjJV",
+              "end": 25,
+              "expanded_url": "https://x.com/yixinbing2026/status/2056058194431226088/video/1",
+              "media_key": "13_2056057562945175552",
+              "start": 2,
+              "url": "https://t.co/mI3MoAXjJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056058194431226088",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1691,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😯 https://t.co/mI3MoAXjJV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "什么是风格？\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 346,
+          "like_count": 5055,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 2123
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

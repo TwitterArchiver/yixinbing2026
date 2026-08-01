@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2058815527313866860",
+    "created_at": "2026-05-25T11:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058869750927908925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1555973289293520898",
+          "start": 0,
+          "username": "shichaogang1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058869750927908925",
+    "in_reply_to_user_id": "1555973289293520898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058832273655386569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shichaogang1 不知道哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2058815527313866860",
+        "created_at": "2026-05-25T11:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058869750927908925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1555973289293520898",
+              "start": 0,
+              "username": "shichaogang1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058869750927908925",
+        "in_reply_to_user_id": "1555973289293520898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058832273655386569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shichaogang1 不知道哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555973289293520898",
+        "conversation_id": "2058815527313866860",
+        "created_at": "2026-05-25T08:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058832273655386569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058832273655386569",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058831968448733222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 为什么感觉都是炒菜系列包子."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 337,
+          "like_count": 3916,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T17:45:44.000Z",
+        "description": "世间本浑浊.\n罪与爱同歌.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xuqianye511023",
+                "end": 23,
+                "expanded_url": "https://t.me/xuqianye511023",
+                "start": 0,
+                "url": "https://t.co/Unb8HK5awl"
+              }
+            ]
+          }
+        },
+        "id": "1555973289293520898",
+        "location": "成都",
+        "name": "梦十三.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556000127910907905/HqPjhoC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/Unb8HK5awl",
+        "username": "shichaogang1",
+        "verified": false
+      }
+    ]
+  }
+}

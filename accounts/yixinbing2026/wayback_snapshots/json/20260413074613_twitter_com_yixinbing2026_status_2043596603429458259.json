@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2043239570578473383",
+    "created_at": "2026-04-13T07:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T08:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043596603429458259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "129845480",
+          "start": 0,
+          "username": "carlha19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043596603429458259",
+    "in_reply_to_user_id": "129845480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043596438723285422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carlha19 骗子机器人引流诈骗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2043239570578473383",
+        "created_at": "2026-04-13T07:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043596603429458259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "129845480",
+              "start": 0,
+              "username": "carlha19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043596603429458259",
+        "in_reply_to_user_id": "129845480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043596438723285422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carlha19 骗子机器人引流诈骗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "129845480",
+        "conversation_id": "2043239570578473383",
+        "created_at": "2026-04-13T07:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043596438723285422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043596438723285422",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043239570578473383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 这是怎么了 怎么都说这个呀 我最近也看到很多这方面的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 223,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-05T15:54:26.000Z",
+        "description": "",
+        "id": "129845480",
+        "name": "荔枝没有皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042176427299311616/FdE2lmo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 351,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1067
+        },
+        "username": "carlha19",
+        "verified": true
+      }
+    ]
+  }
+}

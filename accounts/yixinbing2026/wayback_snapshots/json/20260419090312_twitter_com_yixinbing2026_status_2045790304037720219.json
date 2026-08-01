@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2045774779568083210",
+    "created_at": "2026-04-19T09:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045790304037720219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041140932343652352",
+          "start": 0,
+          "username": "Liudisq5qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045790304037720219",
+    "in_reply_to_user_id": "2041140932343652352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045774779568083210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liudisq5qy 心疼老婆！！洗衣粉要做好消毒呜呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_2045774755199172608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQNTQYbwAAmuG3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2045774779568083210",
+        "created_at": "2026-04-19T09:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045790304037720219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041140932343652352",
+              "start": 0,
+              "username": "Liudisq5qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045790304037720219",
+        "in_reply_to_user_id": "2041140932343652352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045774779568083210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liudisq5qy 心疼老婆！！洗衣粉要做好消毒呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045774755199172608"
+          ]
+        },
+        "author_id": "2041140932343652352",
+        "conversation_id": "2045774779568083210",
+        "created_at": "2026-04-19T08:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045774779568083210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kq7zDzupPp",
+              "end": 31,
+              "expanded_url": "https://x.com/Liudisq5qy/status/2045774779568083210/photo/1",
+              "media_key": "3_2045774755199172608",
+              "start": 8,
+              "url": "https://t.co/Kq7zDzupPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045774779568083210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苹果十七好高清 https://t.co/Kq7zDzupPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "神临日期2010.10具体不说🤤\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 238,
+          "like_count": 1874,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 753
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T13:08:39.000Z",
+        "description": "10年女初/infp/od/解离性障碍/自伤/友跨\n女孩子互fo大欢迎（小红书圣母母狗别骚扰我）",
+        "id": "2041140932343652352",
+        "name": "小柳",
+        "pinned_tweet_id": "2044648416450650586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045135855619276801/a1yhRMJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 7,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 205
+        },
+        "username": "Liudisq5qy",
+        "verified": false
+      }
+    ]
+  }
+}

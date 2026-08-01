@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2013977342763470883",
+    "created_at": "2026-01-23T09:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T10:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014636163081109879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370689455896465408",
+          "start": 0,
+          "username": "Key__908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014636163081109879",
+    "in_reply_to_user_id": "1370689455896465408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013977342763470883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Key__908 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013977339605270528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MVuEjbwAAA6QY.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2013977342763470883",
+        "created_at": "2026-01-23T09:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014636163081109879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370689455896465408",
+              "start": 0,
+              "username": "Key__908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014636163081109879",
+        "in_reply_to_user_id": "1370689455896465408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013977342763470883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Key__908 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013977339605270528"
+          ]
+        },
+        "author_id": "1370689455896465408",
+        "conversation_id": "2013977342763470883",
+        "created_at": "2026-01-21T14:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013977342763470883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHpTmwkW6s",
+              "end": 33,
+              "expanded_url": "https://x.com/Key__908/status/2013977342763470883/photo/1",
+              "media_key": "3_2013977339605270528",
+              "start": 10,
+              "url": "https://t.co/uHpTmwkW6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013977342763470883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 162994,
+          "like_count": 1653,
+          "quote_count": 7,
+          "reply_count": 114,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "皮下男好搞笑我服了 https://t.co/uHpTmwkW6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T10:53:33.000Z",
+        "description": "就像一只🦋飞过废墟",
+        "id": "1370689455896465408",
+        "name": "北冰洋八爪大章鱼零售商",
+        "pinned_tweet_id": "1977743586297835830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005790069194645505/M9rV7J4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 412,
+          "like_count": 12754,
+          "listed_count": 8,
+          "media_count": 79,
+          "tweet_count": 1826
+        },
+        "username": "Key__908",
+        "verified": false
+      }
+    ]
+  }
+}

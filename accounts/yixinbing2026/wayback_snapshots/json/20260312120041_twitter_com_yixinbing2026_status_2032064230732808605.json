@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2032058916130234583",
+    "created_at": "2026-03-12T12:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032064230732808605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1791348768690089984",
+          "start": 0,
+          "username": "saya8964cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032064230732808605",
+    "in_reply_to_user_id": "1791348768690089984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032058916130234583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saya8964cat 看看喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2032058916130234583",
+        "created_at": "2026-03-12T12:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032064230732808605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1791348768690089984",
+              "start": 0,
+              "username": "saya8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032064230732808605",
+        "in_reply_to_user_id": "1791348768690089984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032058916130234583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saya8964cat 看看喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791348768690089984",
+        "conversation_id": "2032058916130234583",
+        "created_at": "2026-03-12T11:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032058916130234583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032058916130234583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 105,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就结束变身吧！\n明天晚上！\n考虑发不发照片！\n其实我不喜欢放自己的脸到网上！\n主要都是自拍，\n感觉自己有点颜值焦虑，\n虽然我自己也不是很离谱啦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没门槛 不随便加微信 我不约 直女 看成分回关 我不圈钱也不性骚扰的 不要恶意揣测我 支持我不会辜负大家的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 148,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T06:03:53.000Z",
+        "description": "顺女|esfj|swtich 请勿考虑性别与我交流，#提供情绪价值，可交友，随机出现的小猫咪，如果你想聊天，就点击发送评论吧！(^з^)-☆ ngl匿名提问箱： https://t.co/0Uo3DcWNBu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "提供情绪价值"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sa%E2%80%86ya%…",
+                "end": 104,
+                "expanded_url": "https://ngl.link/sa%E2%80%86ya%E2%80%86ca%E2%80%86t",
+                "start": 81,
+                "url": "https://t.co/0Uo3DcWNBu"
+              }
+            ]
+          }
+        },
+        "id": "1791348768690089984",
+        "location": "アモイ",
+        "name": "🍎魔法使い猫🐈",
+        "pinned_tweet_id": "2023785537270935681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973424771590410240/2BBwS0ug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 1195,
+          "like_count": 95306,
+          "listed_count": 4,
+          "media_count": 435,
+          "tweet_count": 38751
+        },
+        "username": "saya8964cat",
+        "verified": false
+      }
+    ]
+  }
+}

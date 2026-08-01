@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2012224489166094575",
+    "created_at": "2026-01-23T11:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T12:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014656293081166027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1835233937565577216",
+          "start": 0,
+          "username": "ty619831429934"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014656293081166027",
+    "in_reply_to_user_id": "1835233937565577216",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012224489166094575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ty619831429934 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2012224489166094575",
+        "created_at": "2026-01-23T11:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T12:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014656293081166027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1835233937565577216",
+              "start": 0,
+              "username": "ty619831429934"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014656293081166027",
+        "in_reply_to_user_id": "1835233937565577216",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012224489166094575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ty619831429934 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835233937565577216",
+        "conversation_id": "2012224489166094575",
+        "created_at": "2026-01-16T18:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T19:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012224489166094575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012224489166094575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 702,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 王洪文我想你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "就是个看片刷乐的 enfp",
+        "id": "2014553095255293955",
+        "location": "这次你不能走 我不会放开手",
+        "name": "疑心病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014553663344373760/QTcdRTPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T08:27:42.000Z",
+        "description": "不懂政治",
+        "id": "1835233937565577216",
+        "name": "猫猫大战鱼干",
+        "pinned_tweet_id": "1960385125176238154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999294820087652352/TI6bcl4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 408,
+          "like_count": 14925,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 308
+        },
+        "username": "ty619831429934",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057890266590404608"
+      ],
+      "media_source_tweet_id": [
+        "2057890277533340044"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2058486286684667941",
+    "created_at": "2026-05-24T09:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058486286684667941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KtRb386rLK",
+          "end": 49,
+          "expanded_url": "https://x.com/yixinbing2026/status/2057890277533340044/photo/1",
+          "media_key": "3_2057890266590404608",
+          "start": 26,
+          "url": "https://t.co/KtRb386rLK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058486286684667941",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057890277533340044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 此女又在擦… https://t.co/KtRb386rLK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1270,
+        "media_key": "3_2057890266590404608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI8YS1ba4AAgRxx.jpg",
+        "width": 1692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057890266590404608"
+          ],
+          "media_source_tweet_id": [
+            "2057890277533340044"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2058486286684667941",
+        "created_at": "2026-05-24T09:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058486286684667941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtRb386rLK",
+              "end": 49,
+              "expanded_url": "https://x.com/yixinbing2026/status/2057890277533340044/photo/1",
+              "media_key": "3_2057890266590404608",
+              "start": 26,
+              "url": "https://t.co/KtRb386rLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058486286684667941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057890277533340044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: 此女又在擦… https://t.co/KtRb386rLK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057890266590404608"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2057890277533340044",
+        "created_at": "2026-05-22T18:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057890277533340044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtRb386rLK",
+              "end": 30,
+              "expanded_url": "https://x.com/yixinbing2026/status/2057890277533340044/photo/1",
+              "media_key": "3_2057890266590404608",
+              "start": 7,
+              "url": "https://t.co/KtRb386rLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057890277533340044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6295,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "此女又在擦… https://t.co/KtRb386rLK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐随互\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 331,
+          "like_count": 3790,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

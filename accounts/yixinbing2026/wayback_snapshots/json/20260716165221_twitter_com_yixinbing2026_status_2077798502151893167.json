@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2077650076097478845",
+    "created_at": "2026-07-16T16:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077798502151893167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2071188380948553728",
+          "start": 0,
+          "username": "kun114kun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077798502151893167",
+    "in_reply_to_user_id": "2071188380948553728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077650076097478845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kun114kun 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_2077650073199218688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVLu9SakAAXef8.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077650073878663168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVLu_0aEAAVi8D.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2077650076097478845",
+        "created_at": "2026-07-16T16:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077798502151893167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2071188380948553728",
+              "start": 0,
+              "username": "kun114kun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077798502151893167",
+        "in_reply_to_user_id": "2071188380948553728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077650076097478845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kun114kun 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077650073199218688",
+            "3_2077650073878663168"
+          ]
+        },
+        "author_id": "2071188380948553728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077650076097478845",
+        "created_at": "2026-07-16T07:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077650076097478845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDPDaA5o5g",
+              "end": 35,
+              "expanded_url": "https://x.com/kun114kun/status/2077650076097478845/photo/1",
+              "media_key": "3_2077650073199218688",
+              "start": 12,
+              "url": "https://t.co/rDPDaA5o5g"
+            },
+            {
+              "display_url": "pic.x.com/rDPDaA5o5g",
+              "end": 35,
+              "expanded_url": "https://x.com/kun114kun/status/2077650076097478845/photo/1",
+              "media_key": "3_2077650073878663168",
+              "start": 12,
+              "url": "https://t.co/rDPDaA5o5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077650076097478845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己出去拍一张很难吗？ https://t.co/rDPDaA5o5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "15 163 90可能长胖了🌚清水\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 88,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 345,
+          "like_count": 5213,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 2172
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-28T11:06:05.000Z",
+        "description": "原账号@rita_burns52614，邮箱被盗了……😭😭😭\n郑州男宅宅，重度音游人，明日方舟，英雄联盟，FGO，apex……（待开发）\n欢迎各位找我互fo，找我玩\n快来提问我https://t.co/dBc0ApOU7I\n100fo抽奖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "rita_burns52614"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/LST",
+                "end": 111,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 88,
+                "url": "https://t.co/dBc0ApOU7I"
+              }
+            ]
+          }
+        },
+        "id": "2071188380948553728",
+        "name": "困困神",
+        "pinned_tweet_id": "2075057436353089594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071188960148357120/ZimVh_Um_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 107,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "kun114kun",
+        "verified": true
+      }
+    ]
+  }
+}

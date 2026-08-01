@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2027374238571929720",
+    "created_at": "2026-02-28T16:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027782456397762745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027782456397762745",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027374238571929720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15212,
+        "height": 1280,
+        "media_key": "7_2027374197530619904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027374197530619904/pu/img/dXvXXUNPACrfNxBj.jpg",
+        "public_metrics": {
+          "view_count": 69798
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027374197530619904/pu/vid/avc1/320x710/8_c7UsBuAMQ9_3o0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027374197530619904/pu/vid/avc1/480x1066/dRywWKPZ1SWyx4Sm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027374197530619904/pu/vid/avc1/576x1280/a6EU1yPjh-ReuCWg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027374197530619904/pu/pl/CXel5mcdLs5afoCY.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2027374238571929720",
+        "created_at": "2026-02-28T16:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027782456397762745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027782456397762745",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027374238571929720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027374197530619904"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2027374238571929720",
+        "created_at": "2026-02-27T13:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027374238571929720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGquvcyZ9y",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2027374238571929720/video/1",
+              "media_key": "7_2027374197530619904",
+              "start": 0,
+              "url": "https://t.co/QGquvcyZ9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027374238571929720",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 279736,
+          "like_count": 1019,
+          "quote_count": 126,
+          "reply_count": 83,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QGquvcyZ9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 78,
+          "like_count": 615,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "enby，amab，him/they，后现代黑话定型文享受者，此账号一切仇恨言论都是troll，欢迎互fo",
+        "id": "1981638054688501760",
+        "name": "雄臭野爹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027740703552667648/jQsRWjPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 287,
+          "like_count": 883,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 905
+        },
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

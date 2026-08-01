@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2050449398690423077",
+    "created_at": "2026-05-02T08:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050496425252073914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1195350802606379008",
+          "start": 0,
+          "username": "Jamvontreras"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050496425252073914",
+    "in_reply_to_user_id": "1195350802606379008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050475746175713789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jamvontreras 可能吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2050449398690423077",
+        "created_at": "2026-05-02T08:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050496425252073914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1195350802606379008",
+              "start": 0,
+              "username": "Jamvontreras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050496425252073914",
+        "in_reply_to_user_id": "1195350802606379008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050475746175713789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jamvontreras 可能吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1195350802606379008",
+        "conversation_id": "2050449398690423077",
+        "created_at": "2026-05-02T07:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050475746175713789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050475746175713789",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050449398690423077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 我也收到了，感觉是广撒网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢Karina！！\n没啥用的次号@fushishanxia121\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全 开智中…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病（神临版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 273,
+          "like_count": 2567,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1060
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-15T14:40:22.000Z",
+        "description": "已过小妹、漫展烧鸡，烧杯学长验证，入🚪详情看tg\n可验证，验证奶茶直接扫码",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+AChreRAXLt05M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+AChreRAXLt05M2Q1",
+                "start": 0,
+                "url": "https://t.co/y8jmDyYpyR"
+              }
+            ]
+          }
+        },
+        "id": "1195350802606379008",
+        "location": "ip杭州，没回就这里找我（名字像人🐔不通过）→",
+        "name": "水水（漫画身材）",
+        "pinned_tweet_id": "2044679137416352173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034311444041474048/AYaLOnz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1205,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/y8jmDyYpyR",
+        "username": "Jamvontreras",
+        "verified": false
+      }
+    ]
+  }
+}

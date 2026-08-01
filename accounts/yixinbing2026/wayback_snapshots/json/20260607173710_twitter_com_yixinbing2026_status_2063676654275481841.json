@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2063582020299850138",
+    "created_at": "2026-06-07T17:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063676654275481841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798255824571355136",
+          "start": 0,
+          "username": "RourouYang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063676654275481841",
+    "in_reply_to_user_id": "1798255824571355136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063645125390274974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RourouYang_ 蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2063582020299850138",
+        "created_at": "2026-06-07T17:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063676654275481841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798255824571355136",
+              "start": 0,
+              "username": "RourouYang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063676654275481841",
+        "in_reply_to_user_id": "1798255824571355136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063645125390274974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RourouYang_ 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798255824571355136",
+        "conversation_id": "2063582020299850138",
+        "created_at": "2026-06-07T15:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063645125390274974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063645125390274974",
+        "in_reply_to_user_id": "1798255824571355136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 12066,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 92,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063640697543250297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "客服估计下班了呃啊啊啊啊啊啊诡秘们宝宝们老婆们容我明天再发链接🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 326,
+          "like_count": 4484,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T07:29:42.000Z",
+        "description": "小羊想要 小羊得到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rourouyang_2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rourouyang_2",
+                "start": 0,
+                "url": "https://t.co/pO2wIk5FtD"
+              }
+            ]
+          }
+        },
+        "id": "1798255824571355136",
+        "location": "🚪188/288 提问箱➡️",
+        "name": "K᳐ilig᳐੭",
+        "pinned_tweet_id": "2060277649361277259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005666874911236096/gNT3cjoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10683,
+          "following_count": 323,
+          "like_count": 31962,
+          "listed_count": 16,
+          "media_count": 1059,
+          "tweet_count": 13588
+        },
+        "url": "https://t.co/pO2wIk5FtD",
+        "username": "RourouYang_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2057827041190572039",
+    "created_at": "2026-05-22T14:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057827041190572039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2041140932343652352",
+          "start": 3,
+          "username": "Liudisq5qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057827041190572039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057625737767858317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liudisq5qy: 700fo感谢抽奖💕💅 点赞关注既可抽奖在6.1开奖 \n     💕一等奖：\n无偿假发一顶（反重力贴片不行需要自付毛坯和运费）折现30\n     💕二等奖：\n奶龙衬衣两件 折现10\n      💕三等奖：\n奶龙扇子一个 折现5\n      ❤️特…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2057827041190572039",
+        "created_at": "2026-05-22T14:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057827041190572039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2041140932343652352",
+              "start": 3,
+              "username": "Liudisq5qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057827041190572039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057625737767858317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liudisq5qy: 700fo感谢抽奖💕💅 点赞关注既可抽奖在6.1开奖 \n     💕一等奖：\n无偿假发一顶（反重力贴片不行需要自付毛坯和运费）折现30\n     💕二等奖：\n奶龙衬衣两件 折现10\n      💕三等奖：\n奶龙扇子一个 折现5\n      ❤️特…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041140932343652352",
+        "conversation_id": "2057625737767858317",
+        "created_at": "2026-05-22T00:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057625737767858317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057625737767858317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "700fo感谢抽奖💕💅 点赞关注既可抽奖在6.1开奖 \n     💕一等奖：\n无偿假发一顶（反重力贴片不行需要自付毛坯和运费）折现30\n     💕二等奖：\n奶龙衬衣两件 折现10\n      💕三等奖：\n奶龙扇子一个 折现5\n      ❤️特等奖：\n加巴喷丁一盒  ym两盒 （不能折现）\n or\n原味袜子一双（这个只抽男自付运费）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057757110751092736/vR_JeLtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 319,
+          "like_count": 3629,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1582
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T13:08:39.000Z",
+        "description": "别给我发你好、在吗、能认识下吗这种弱智言论😂\n10年2月初中女生 小号@Jiangyuqing08\n闺蜜@ezimiD181155 \n友跨/顺女/od/自伤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Jiangyuqing08"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "ezimiD181155"
+              }
+            ]
+          }
+        },
+        "id": "2041140932343652352",
+        "name": "Liu",
+        "pinned_tweet_id": "2056356126506299793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047566740209700864/mOu8UD31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 8,
+          "like_count": 798,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 407
+        },
+        "username": "Liudisq5qy",
+        "verified": false
+      }
+    ]
+  }
+}

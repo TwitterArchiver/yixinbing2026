@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1952340000177025024"
+      ],
+      "media_source_tweet_id": [
+        "1952340068141539470"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027806347245588866",
+    "created_at": "2026-02-28T18:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T19:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027806347245588866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937427868826357762",
+          "start": 3,
+          "username": "pureefeelings"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gZ13bP1Dj1",
+          "end": 42,
+          "expanded_url": "https://x.com/Dailyloveeposts/status/1952340068141539470/video/1",
+          "media_key": "13_1952340000177025024",
+          "start": 19,
+          "url": "https://t.co/gZ13bP1Dj1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027806347245588866",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 422
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027598724583575836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pureefeelings: https://t.co/gZ13bP1Dj1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10750,
+        "height": 1024,
+        "media_key": "13_1952340000177025024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952340000177025024/img/qN8hEWDzHFBT5yeu.jpg",
+        "public_metrics": {
+          "view_count": 8514484
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952340000177025024/vid/avc1/320x568/4g4oaf68SlA9RtEG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952340000177025024/vid/avc1/480x852/gVANzEbQGrCFR6l5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952340000177025024/vid/avc1/576x1024/irzhL6rMpnlwbFcZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952340000177025024/pl/8t1rAzcGG2MLrb4Q.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952340000177025024"
+          ],
+          "media_source_tweet_id": [
+            "1952340068141539470"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027806347245588866",
+        "created_at": "2026-02-28T18:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T19:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027806347245588866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937427868826357762",
+              "start": 3,
+              "username": "pureefeelings"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZ13bP1Dj1",
+              "end": 42,
+              "expanded_url": "https://x.com/Dailyloveeposts/status/1952340068141539470/video/1",
+              "media_key": "13_1952340000177025024",
+              "start": 19,
+              "url": "https://t.co/gZ13bP1Dj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027806347245588866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 422
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027598724583575836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pureefeelings: https://t.co/gZ13bP1Dj1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952340000177025024"
+          ],
+          "media_source_tweet_id": [
+            "1952340068141539470"
+          ]
+        },
+        "author_id": "1937427868826357762",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027598724583575836",
+        "created_at": "2026-02-28T04:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027598724583575836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZ13bP1Dj1",
+              "end": 23,
+              "expanded_url": "https://x.com/Dailyloveeposts/status/1952340068141539470/video/1",
+              "media_key": "13_1952340000177025024",
+              "start": 0,
+              "url": "https://t.co/gZ13bP1Dj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027598724583575836",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1121,
+          "impression_count": 535858,
+          "like_count": 5318,
+          "quote_count": 50,
+          "reply_count": 21,
+          "retweet_count": 422
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gZ13bP1Dj1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027458329027727360/a0NmxD_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 79,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T08:29:43.000Z",
+        "description": "Romantic couple gifs & videos. Soft love vibes daily. 💗. | Follow for more",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/HWER0DD3Vc"
+              }
+            ]
+          }
+        },
+        "id": "1937427868826357762",
+        "location": "New York, USA",
+        "name": "feelings",
+        "pinned_tweet_id": "2027543589077602730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019517396071981056/zPrh1x-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8043,
+          "following_count": 0,
+          "like_count": 8740,
+          "listed_count": 22,
+          "media_count": 56,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/HWER0DD3Vc",
+        "username": "pureefeelings",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2080563539291558217",
+    "created_at": "2026-07-24T08:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080567073894551663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055089878682243072",
+          "start": 0,
+          "username": "Jiangyuqing08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080567073894551663",
+    "in_reply_to_user_id": "2055089878682243072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080563539291558217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiangyuqing08 马云你听我说"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4405,
+        "height": 1280,
+        "media_key": "13_2080563492202143744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080563492202143744/img/EsbvSpMB5EVMPrNd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080563492202143744/vid/avc1/320x568/VAe1yCL8zj3rs02K.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080563492202143744/vid/avc1/480x852/c05W_QTtE0iyQi0l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080563492202143744/vid/avc1/720x1280/HWzLsUjT3gwfCzHp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080563492202143744/pl/Y48hm1BL-7PPZKrp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2080563539291558217",
+        "created_at": "2026-07-24T08:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080567073894551663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055089878682243072",
+              "start": 0,
+              "username": "Jiangyuqing08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080567073894551663",
+        "in_reply_to_user_id": "2055089878682243072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080563539291558217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiangyuqing08 马云你听我说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080563492202143744"
+          ]
+        },
+        "author_id": "2055089878682243072",
+        "conversation_id": "2080563539291558217",
+        "created_at": "2026-07-24T07:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080563539291558217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRxKDjlyoM",
+              "end": 40,
+              "expanded_url": "https://x.com/Jiangyuqing08/status/2080563539291558217/video/1",
+              "media_key": "13_2080563492202143744",
+              "start": 17,
+              "url": "https://t.co/lRxKDjlyoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080563539291558217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用完这个特效感觉少走了40年弯路 https://t.co/lRxKDjlyoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发\n我的成分：\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 363,
+          "like_count": 5363,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 2211
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T00:57:38.000Z",
+        "description": "顺女｜10年｜高中生｜友跨｜泛性恋｜cod、fgo、东方爱好者｜寻求前世互关，谁都可以找我玩和互fo🤍🩹｜自伤｜od\n我有恋残癖，慎关 。如果你看了我的推文感到不适，不好意思你怀了我的孩子\n原账号：@Liuzimidq5qy\n全网找对象",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Liuzimidq5qy"
+              }
+            ]
+          }
+        },
+        "id": "2055089878682243072",
+        "name": "小芙",
+        "pinned_tweet_id": "2079569257638318462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078864758384762881/P9cN8L0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 6,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "Jiangyuqing08",
+        "verified": false
+      }
+    ]
+  }
+}

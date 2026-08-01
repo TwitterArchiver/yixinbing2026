@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2044060450619568211",
+    "created_at": "2026-04-14T14:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044060450619568211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "疑心病’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1PKqr…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1PKqrEzQNldGb",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2044060451970134018/I25Ij3MS?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044060451970134018/I25Ij3MS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 聊半个小时 让主播锐评你们🤤",
+          "unwound_url": "https://twitter.com/i/spaces/1PKqrEzQNldGb/peek",
+          "url": "https://t.co/qwwUQMSkZq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044060450619568211",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qwwUQMSkZq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2044060450619568211",
+        "created_at": "2026-04-14T14:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044060450619568211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "疑心病’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1PKqr…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1PKqrEzQNldGb",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2044060451970134018/I25Ij3MS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044060451970134018/I25Ij3MS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 聊半个小时 让主播锐评你们🤤",
+              "unwound_url": "https://twitter.com/i/spaces/1PKqrEzQNldGb/peek",
+              "url": "https://t.co/qwwUQMSkZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044060450619568211",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qwwUQMSkZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "如果没有以后了你会后悔吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040746170440695808/-KtLPAha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 232,
+          "like_count": 1660,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

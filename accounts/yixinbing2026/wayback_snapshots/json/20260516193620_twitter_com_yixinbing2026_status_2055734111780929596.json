@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2055719283595026730",
+    "created_at": "2026-05-16T19:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055734111780929596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1723527413617856512",
+          "start": 0,
+          "username": "11I1018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055734111780929596",
+    "in_reply_to_user_id": "1723527413617856512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055719283595026730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11I1018 我去什么意思模仿我🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2055719283595026730",
+        "created_at": "2026-05-16T19:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055734111780929596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1723527413617856512",
+              "start": 0,
+              "username": "11I1018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055734111780929596",
+        "in_reply_to_user_id": "1723527413617856512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055719283595026730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11I1018 我去什么意思模仿我🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723527413617856512",
+        "conversation_id": "2055719283595026730",
+        "created_at": "2026-05-16T18:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055719283595026730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055719283595026730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "520快到了 我的一千多个粉丝每人给我一块钱凑1314给我 我知道这很难 但这是命令\nos：强制爱喜欢吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "重开日期2010.10 成分互关 眼熟加好友 顺女 \n我是karina粉丝 我也喜欢鬼灭？具体可以找我聊天问我吧 我不经常打游戏了反正 互关我老婆 推u我妈妈 小号👉@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 匿名提问 ➡️",
+        "name": "疑心病（限流版）",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 305,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1431
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:25:52.000Z",
+        "description": "喵喵喵碎碎念私信只回要入门的哦☺️",
+        "id": "1723527413617856512",
+        "name": "给我安眠药",
+        "pinned_tweet_id": "2007144743944499695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024165503632363522/CoEq1_Q4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 133,
+          "like_count": 1041,
+          "listed_count": 6,
+          "media_count": 338,
+          "tweet_count": 1070
+        },
+        "username": "11I1018",
+        "verified": false
+      }
+    ]
+  }
+}

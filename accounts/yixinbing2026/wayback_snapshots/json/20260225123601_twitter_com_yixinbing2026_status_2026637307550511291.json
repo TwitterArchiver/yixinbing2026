@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2026593822931910663",
+    "created_at": "2026-02-25T12:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T13:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026637307550511291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1856644862319468544",
+          "start": 0,
+          "username": "Jvp4wJ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026637307550511291",
+    "in_reply_to_user_id": "1856644862319468544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026593822931910663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jvp4wJ0 感觉ai一眼就能看出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2026593820608184320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_oV61aQAANMRs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2026593822931910663",
+        "created_at": "2026-02-25T12:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026637307550511291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1856644862319468544",
+              "start": 0,
+              "username": "Jvp4wJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026637307550511291",
+        "in_reply_to_user_id": "1856644862319468544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026593822931910663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jvp4wJ0 感觉ai一眼就能看出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026593820608184320"
+          ]
+        },
+        "author_id": "1856644862319468544",
+        "conversation_id": "2026593822931910663",
+        "created_at": "2026-02-25T09:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026593822931910663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wle4Pn3wol",
+              "end": 34,
+              "expanded_url": "https://x.com/Jvp4wJ0/status/2026593822931910663/photo/1",
+              "media_key": "3_2026593820608184320",
+              "start": 11,
+              "url": "https://t.co/Wle4Pn3wol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026593822931910663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 602,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这ai图谁发谁火😮😮 https://t.co/Wle4Pn3wol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "偶而看看",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 68,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 150
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T10:26:55.000Z",
+        "description": "可以叫我亮仔  匿名👇  05直男 看美女让我身心愉悦  INTJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jvp4wj0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jvp4wj0",
+                "start": 0,
+                "url": "https://t.co/AySwWahLoK"
+              }
+            ]
+          }
+        },
+        "id": "1856644862319468544",
+        "location": "你抓不到我的",
+        "name": "划水的天才",
+        "pinned_tweet_id": "1934934911951233186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997317467774033921/bpudMp1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5262,
+          "following_count": 471,
+          "like_count": 21668,
+          "listed_count": 16,
+          "media_count": 337,
+          "tweet_count": 4549
+        },
+        "url": "https://t.co/AySwWahLoK",
+        "username": "Jvp4wJ0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027055139128066048"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027055145998238090",
+    "created_at": "2026-02-26T16:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027055145998238090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhNbwRjJW0",
+          "end": 36,
+          "expanded_url": "https://x.com/yixinbing2026/status/2027055145998238090/photo/1",
+          "media_key": "3_2027055139128066048",
+          "start": 13,
+          "url": "https://t.co/dhNbwRjJW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027055145998238090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得这个泡牛奶里面好吃 https://t.co/dhNbwRjJW0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027055139128066048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGL6MPbwAADHQ2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027055139128066048"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027055145998238090",
+        "created_at": "2026-02-26T16:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027055145998238090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhNbwRjJW0",
+              "end": 36,
+              "expanded_url": "https://x.com/yixinbing2026/status/2027055145998238090/photo/1",
+              "media_key": "3_2027055139128066048",
+              "start": 13,
+              "url": "https://t.co/dhNbwRjJW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027055145998238090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这个泡牛奶里面好吃 https://t.co/dhNbwRjJW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "无心者",
+        "id": "2014553095255293955",
+        "location": "偶而看看",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020936424653287424/xDBuwIBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 72,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 172
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017314087835963392"
+      ],
+      "media_source_tweet_id": [
+        "2017314095356383624"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "conversation_id": "2017361285927866395",
+    "created_at": "2026-01-30T22:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T23:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017361285927866395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q1cdYrqIys",
+          "end": 62,
+          "expanded_url": "https://x.com/yixinbing2026/status/2017314095356383624/photo/1",
+          "media_key": "3_2017314087835963392",
+          "start": 39,
+          "url": "https://t.co/Q1cdYrqIys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017361285927866395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017314095356383624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 如果我的傷疤讓你感到愧疚 那在痛也值得 https://t.co/Q1cdYrqIys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_2017314087835963392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7weYXakAAQYec.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017314087835963392"
+          ],
+          "media_source_tweet_id": [
+            "2017314095356383624"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2017361285927866395",
+        "created_at": "2026-01-30T22:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T23:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017361285927866395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1cdYrqIys",
+              "end": 62,
+              "expanded_url": "https://x.com/yixinbing2026/status/2017314095356383624/photo/1",
+              "media_key": "3_2017314087835963392",
+              "start": 39,
+              "url": "https://t.co/Q1cdYrqIys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017361285927866395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017314095356383624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: 如果我的傷疤讓你感到愧疚 那在痛也值得 https://t.co/Q1cdYrqIys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017314087835963392"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2017314095356383624",
+        "created_at": "2026-01-30T19:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T20:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017314095356383624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1cdYrqIys",
+              "end": 43,
+              "expanded_url": "https://x.com/yixinbing2026/status/2017314095356383624/photo/1",
+              "media_key": "3_2017314087835963392",
+              "start": 20,
+              "url": "https://t.co/Q1cdYrqIys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017314095356383624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我的傷疤讓你感到愧疚 那在痛也值得 https://t.co/Q1cdYrqIys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "我珍惜妳的方式錯了嗎",
+        "id": "2014553095255293955",
+        "location": "尊重是原则",
+        "name": "疑心病",
+        "pinned_tweet_id": "2017318014472097921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017315538603839488/70k3GEnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 59,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 100
+        },
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

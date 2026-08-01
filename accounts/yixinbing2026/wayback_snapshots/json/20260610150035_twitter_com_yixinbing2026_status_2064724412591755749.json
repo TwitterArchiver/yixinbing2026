@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2064718343488274729",
+    "created_at": "2026-06-10T15:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064724412591755749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042165921200902145",
+          "start": 0,
+          "username": "1239ovo"
+        },
+        {
+          "end": 22,
+          "id": "1907016229807960064",
+          "start": 9,
+          "username": "xxxxxxxhqiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064724412591755749",
+    "in_reply_to_user_id": "2042165921200902145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064718343488274729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1239ovo @xxxxxxxhqiao 不行了 还是少宇的兵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064718323800260608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdaYEtawAA4DXr.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064718323825405952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdaYEzacAAVpBg.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064718323775111168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdaYEnbAAAydVr.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064718323808698368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdaYEvbgAAZ_T6.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2064718343488274729",
+        "created_at": "2026-06-10T15:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064724412591755749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042165921200902145",
+              "start": 0,
+              "username": "1239ovo"
+            },
+            {
+              "end": 22,
+              "id": "1907016229807960064",
+              "start": 9,
+              "username": "xxxxxxxhqiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064724412591755749",
+        "in_reply_to_user_id": "2042165921200902145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064718343488274729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1239ovo @xxxxxxxhqiao 不行了 还是少宇的兵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064718323800260608",
+            "3_2064718323825405952",
+            "3_2064718323775111168",
+            "3_2064718323808698368"
+          ]
+        },
+        "author_id": "2042165921200902145",
+        "conversation_id": "2064718343488274729",
+        "created_at": "2026-06-10T14:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064718343488274729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 139,
+              "id": "1907016229807960064",
+              "start": 126,
+              "username": "xxxxxxxhqiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eqmejg4npV",
+              "end": 163,
+              "expanded_url": "https://x.com/1239ovo/status/2064718343488274729/photo/1",
+              "media_key": "3_2064718323800260608",
+              "start": 140,
+              "url": "https://t.co/Eqmejg4npV"
+            },
+            {
+              "display_url": "pic.x.com/Eqmejg4npV",
+              "end": 163,
+              "expanded_url": "https://x.com/1239ovo/status/2064718343488274729/photo/1",
+              "media_key": "3_2064718323825405952",
+              "start": 140,
+              "url": "https://t.co/Eqmejg4npV"
+            },
+            {
+              "display_url": "pic.x.com/Eqmejg4npV",
+              "end": 163,
+              "expanded_url": "https://x.com/1239ovo/status/2064718343488274729/photo/1",
+              "media_key": "3_2064718323775111168",
+              "start": 140,
+              "url": "https://t.co/Eqmejg4npV"
+            },
+            {
+              "display_url": "pic.x.com/Eqmejg4npV",
+              "end": 163,
+              "expanded_url": "https://x.com/1239ovo/status/2064718343488274729/photo/1",
+              "media_key": "3_2064718323808698368",
+              "start": 140,
+              "url": "https://t.co/Eqmejg4npV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064718343488274729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我长得可爱身材又好😋喜欢我的宝宝也超多，你看你嫉妒的，你看到这段文字是不是想把鸡吧切了呀，就算你把鸡吧切了也没办法做到想我这么可爱🥰🥰毕竟眠眠真的超可爱呀，就算你再怎么学女的发骚也学不出个模样来，因为你天生带屌呀，带屌的贱狗没办法做到像眠眠这么可爱呢🥰@xxxxxxxhqiao https://t.co/Eqmejg4npV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "喜欢我请给我打钱 清水 低精力人 日常情绪波动比较大 成分互关 眼熟加好友 顺女 o餐跨随互 不线下不约\n独爱karina em动漫偶尔看 具体可以找我聊天问我吧 我不经常打游戏了反正 互关我爱你们（部分 \n小号👉@fushishanxia121 是我的追星号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2060631349015593201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063661635555016704/ATEXN1OM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 333,
+          "like_count": 4627,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1934
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-09T09:01:40.000Z",
+        "description": "碎碎念爱发点照片，不礼貌的人不许私信我，你对我的态度取决于你对我的态度，私信只回入门、小女孩和礼貌的宝宝，不聊骚不线下不约炮，我爱说什么就说什么，讨厌我的可以把手机砸了然后我跳楼入门@11i1018",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "11i1018"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1239ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1239ovo",
+                "start": 0,
+                "url": "https://t.co/JE8bT4K4Mh"
+              }
+            ]
+          }
+        },
+        "id": "2042165921200902145",
+        "location": "520m",
+        "name": "我泪泪的。",
+        "pinned_tweet_id": "2062222188636410020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059316638772867073/W3cWE-C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 27,
+          "like_count": 115,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 322
+        },
+        "url": "https://t.co/JE8bT4K4Mh",
+        "username": "1239ovo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T10:24:52.000Z",
+        "description": "10年女初 没回就是在上学🚪38 可V 有福利 赚点零花钱 要买好吃的和小裙子👗 求求金主们投喂窝 欢迎宝宝们加入啊",
+        "id": "1907016229807960064",
+        "location": "5.2km",
+        "name": "痛定思痛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922282817217511424/gF6Sv_XH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 6,
+          "like_count": 26,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 67
+        },
+        "username": "xxxxxxxhqiao",
+        "verified": false
+      }
+    ]
+  }
+}
