@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2084636671900070241",
+    "created_at": "2026-08-04T19:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T20:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084724005374976444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1124658845664653314",
+          "start": 0,
+          "username": "CY_Mystica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084724005374976444",
+    "in_reply_to_user_id": "1124658845664653314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084636671900070241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CY_Mystica 我去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2084636671900070241",
+        "created_at": "2026-08-04T19:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084724005374976444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084724005374976444",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084636671900070241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 我去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124658845664653314",
+        "conversation_id": "2084636671900070241",
+        "created_at": "2026-08-04T13:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084636671900070241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurushiiotome/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kurushiiotome/status/2084484830637789606",
+              "start": 5,
+              "url": "https://t.co/xn4DtQwwIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084636671900070241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084484830637789606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杯子姐😉 https://t.co/xn4DtQwwIs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑/疑似躁狂出现\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084708090566541312/TkKbkbNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2602,
+          "following_count": 333,
+          "like_count": 5744,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "2083865350941331850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 281,
+          "like_count": 1805,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 2089
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": false
+      }
+    ]
+  }
+}

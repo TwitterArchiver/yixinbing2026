@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2084453622918848883",
+    "created_at": "2026-08-04T10:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084588431108362412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545801302617116672",
+          "start": 0,
+          "username": "Minecraftxfj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084588431108362412",
+    "in_reply_to_user_id": "1545801302617116672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084574636805886279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minecraftxfj 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2084453622918848883",
+        "created_at": "2026-08-04T10:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084588431108362412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545801302617116672",
+              "start": 0,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084588431108362412",
+        "in_reply_to_user_id": "1545801302617116672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084574636805886279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraftxfj 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545801302617116672",
+        "conversation_id": "2084453622918848883",
+        "created_at": "2026-08-04T09:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084574636805886279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084574636805886279",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084453622918848883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 好漂亮的美甲！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑/疑似躁狂出现\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 333,
+          "like_count": 5727,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 2317
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T16:05:40.000Z",
+        "description": "✨星海幽暗，孤寂无垠，直到有人点燃了自我，宇宙才拥有最初的光✨\nMtFtX？🏳️‍⚧️🍥｜嵌入式｜DIY｜数码科技｜二次元\n❤️要和窝互 fo 嘛 qwq🥹（？\n高强度发帖👍怀疑状态☹️高三😱戒 OD & 自伤 ing......😇\n@SakayoriIr4e 宝宝❤️\nps.如果我似了，不要蒸馏我🫠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "SakayoriIr4e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraftxfj.top",
+                "end": 23,
+                "expanded_url": "https://minecraftxfj.top",
+                "start": 0,
+                "url": "https://t.co/zYxENR54VJ"
+              }
+            ]
+          }
+        },
+        "id": "1545801302617116672",
+        "location": "Inner Mongolia,P.R.China",
+        "name": "夜桜侵雪～🫪",
+        "pinned_tweet_id": "2077048707737112614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995204955968557056/XnPwmQB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 926,
+          "like_count": 363,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 4098
+        },
+        "url": "https://t.co/zYxENR54VJ",
+        "username": "Minecraftxfj",
+        "verified": true
+      }
+    ]
+  }
+}

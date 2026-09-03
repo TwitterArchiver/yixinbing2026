@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2083916437002002916",
+    "created_at": "2026-08-02T15:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083934245433815110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083934245433815110",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083916437002002916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 辛苦啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2083913974425460736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuMt_waIAAFvwz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1228,
+        "media_key": "3_2083913987847233536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuMuxwaIAAyQz8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1226,
+        "media_key": "3_2083914001298362369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuMvj3aEAELZPE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 915,
+        "media_key": "3_2083914014967681024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuMwWybUAAbxXQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2083916437002002916",
+        "created_at": "2026-08-02T15:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083934245433815110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083934245433815110",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083916437002002916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 辛苦啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083913974425460736",
+            "3_2083913987847233536",
+            "3_2083914001298362369",
+            "3_2083914014967681024"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "conversation_id": "2083916437002002916",
+        "created_at": "2026-08-02T14:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083916437002002916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LPNWvxv7n",
+              "end": 178,
+              "expanded_url": "https://x.com/sjshb57/status/2083916437002002916/photo/1",
+              "media_key": "3_2083913974425460736",
+              "start": 155,
+              "url": "https://t.co/4LPNWvxv7n"
+            },
+            {
+              "display_url": "pic.x.com/4LPNWvxv7n",
+              "end": 178,
+              "expanded_url": "https://x.com/sjshb57/status/2083916437002002916/photo/1",
+              "media_key": "3_2083913987847233536",
+              "start": 155,
+              "url": "https://t.co/4LPNWvxv7n"
+            },
+            {
+              "display_url": "pic.x.com/4LPNWvxv7n",
+              "end": 178,
+              "expanded_url": "https://x.com/sjshb57/status/2083916437002002916/photo/1",
+              "media_key": "3_2083914001298362369",
+              "start": 155,
+              "url": "https://t.co/4LPNWvxv7n"
+            },
+            {
+              "display_url": "pic.x.com/4LPNWvxv7n",
+              "end": 178,
+              "expanded_url": "https://x.com/sjshb57/status/2083916437002002916/photo/1",
+              "media_key": "3_2083914014967681024",
+              "start": 155,
+              "url": "https://t.co/4LPNWvxv7n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083916437002002916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 601,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "[TwitterArchiver] 永生计划暂停时\n\n当前组织内已存档500+账号，仅有一人维护的存档计划大概可以告一段落了。\n\n最开始只是为炽所做的一个小心愿，现在已经发展成了百余存档的大项目。\n\n不想被忘记，就不会被遗忘。您如果喜欢过这个项目，请记得这个项目的初衷是：\n\n「愿世间再无痛苦，唯爱永不独行」 https://t.co/4LPNWvxv7n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑疑似快转双向了\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 387,
+          "like_count": 5646,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 2296
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？|  07 | INTP-T | ASD | BPD | 另一个我 @她 | @loveksyi | - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 第三世界线 @ |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "loveksyi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 115,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 92,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2080253118928056811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 671,
+          "like_count": 2519,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": false
+      }
+    ]
+  }
+}

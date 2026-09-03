@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2083883226339455388",
+    "created_at": "2026-08-02T11:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083883226339455388"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083883226339455388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸我妈的关系需要我装唐去融洽🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2083883226339455388",
+        "created_at": "2026-08-02T11:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083883226339455388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083883226339455388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸我妈的关系需要我装唐去融洽🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑疑似快转双向了\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 386,
+          "like_count": 5630,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 2286
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2083576929081598384",
+    "created_at": "2026-08-01T17:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083604279055761425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998356963533410305",
+          "start": 0,
+          "username": "Cloud_XINGYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083604279055761425",
+    "in_reply_to_user_id": "1998356963533410305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083602019042951196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cloud_XINGYE 知音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2083576929081598384",
+        "created_at": "2026-08-01T17:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083604279055761425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998356963533410305",
+              "start": 0,
+              "username": "Cloud_XINGYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083604279055761425",
+        "in_reply_to_user_id": "1998356963533410305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083602019042951196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cloud_XINGYE 知音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998356963533410305",
+        "conversation_id": "2083576929081598384",
+        "created_at": "2026-08-01T17:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083602019042951196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083602019042951196",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083576929081598384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 “你终于说出口我疑心病有一些重，可能是因为性格对爱情观点不同”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑疑似快转双向了\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 383,
+          "like_count": 5600,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 2282
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-09T11:41:16.000Z",
+        "description": "",
+        "id": "1998356963533410305",
+        "name": "Cloud",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998357355298197504/t107oPh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 59,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "Cloud_XINGYE",
+        "verified": false
+      }
+    ]
+  }
+}

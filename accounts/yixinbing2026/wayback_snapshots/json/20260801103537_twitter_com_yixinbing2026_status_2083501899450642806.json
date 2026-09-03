@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2083501899450642806",
+    "created_at": "2026-08-01T10:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083501899450642806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist2/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/drug_artist2/status/1992289000477102226",
+          "start": 8,
+          "url": "https://t.co/nqsdm1A4LH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083501899450642806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992289000477102226",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我妈妈🥵🥵 https://t.co/nqsdm1A4LH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1992288997327151104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YISZeaoAAvV2y.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1992288887386083328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YIL_6bEAAFUvW.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1992288901621587968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YIM08boAAktPB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2083501899450642806",
+        "created_at": "2026-08-01T10:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083501899450642806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/drug_artist2/status/1992289000477102226",
+              "start": 8,
+              "url": "https://t.co/nqsdm1A4LH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083501899450642806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992289000477102226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我妈妈🥵🥵 https://t.co/nqsdm1A4LH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992288997327151104",
+            "3_1992288887386083328",
+            "3_1992288901621587968"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "conversation_id": "1992289000477102226",
+        "created_at": "2025-11-22T17:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992289000477102226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ny8XvuAF6X",
+              "end": 82,
+              "expanded_url": "https://x.com/drug_artist2/status/1992289000477102226/photo/1",
+              "media_key": "3_1992288997327151104",
+              "start": 59,
+              "url": "https://t.co/Ny8XvuAF6X"
+            },
+            {
+              "display_url": "pic.x.com/Ny8XvuAF6X",
+              "end": 82,
+              "expanded_url": "https://x.com/drug_artist2/status/1992289000477102226/photo/1",
+              "media_key": "3_1992288887386083328",
+              "start": 59,
+              "url": "https://t.co/Ny8XvuAF6X"
+            },
+            {
+              "display_url": "pic.x.com/Ny8XvuAF6X",
+              "end": 82,
+              "expanded_url": "https://x.com/drug_artist2/status/1992289000477102226/photo/1",
+              "media_key": "3_1992288901621587968",
+              "start": 59,
+              "url": "https://t.co/Ny8XvuAF6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992289000477102226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 69483,
+          "like_count": 115,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你药物百科wiki主沐雨是视觉系，地雷系，长发男娘，传奇药师，药圈英雄，4i皇帝，udg听众，还有谁不知道？\n雨玄！ https://t.co/Ny8XvuAF6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑疑似快转双向了\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 382,
+          "like_count": 5577,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 51,
+          "like_count": 298,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084345830258196480"
+      ],
+      "media_source_tweet_id": [
+        "2084345994586870031"
+      ]
+    },
+    "author_id": "2014553095255293955",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084593628048241150",
+    "created_at": "2026-08-04T10:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084593628048241150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2014553095255293955",
+          "start": 3,
+          "username": "yixinbing2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eH7Sub6NfK",
+          "end": 85,
+          "expanded_url": "https://x.com/yixinbing2026/status/2084345994586870031/video/1",
+          "media_key": "13_2084345830258196480",
+          "start": 62,
+          "url": "https://t.co/eH7Sub6NfK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084593628048241150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084345994586870031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yixinbing2026: 关于我和你 就像雨滴和雨伞 雨水附上的那一刻就沿着伞布流下  长久的相依也是一种奢望 https://t.co/eH7Sub6NfK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19689,
+        "height": 1920,
+        "media_key": "13_2084345830258196480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084345830258196480/img/-kYDQEJr2z40XR9w.jpg",
+        "public_metrics": {
+          "view_count": 1603
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084345830258196480/vid/avc1/480x640/xtkcivQdpGCpiodm.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084345830258196480/vid/avc1/1440x1920/QCafFpTTcDu6tU-t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084345830258196480/pl/XTh1_yw23zzARtmF.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084345830258196480/vid/avc1/320x426/APkMWnyBnayrKn9D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084345830258196480/vid/avc1/720x960/cHk2bbolx3vMmn9D.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084345830258196480"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "conversation_id": "2084345994586870031",
+        "created_at": "2026-08-03T18:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084345994586870031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eH7Sub6NfK",
+              "end": 66,
+              "expanded_url": "https://x.com/yixinbing2026/status/2084345994586870031/video/1",
+              "media_key": "13_2084345830258196480",
+              "start": 43,
+              "url": "https://t.co/eH7Sub6NfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084345994586870031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5478,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关于我和你 就像雨滴和雨伞 雨水附上的那一刻就沿着伞布流下  长久的相依也是一种奢望 https://t.co/eH7Sub6NfK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084345830258196480"
+          ],
+          "media_source_tweet_id": [
+            "2084345994586870031"
+          ]
+        },
+        "author_id": "2014553095255293955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084593628048241150",
+        "created_at": "2026-08-04T10:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084593628048241150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2014553095255293955",
+              "start": 3,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eH7Sub6NfK",
+              "end": 85,
+              "expanded_url": "https://x.com/yixinbing2026/status/2084345994586870031/video/1",
+              "media_key": "13_2084345830258196480",
+              "start": 62,
+              "url": "https://t.co/eH7Sub6NfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084593628048241150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084345994586870031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yixinbing2026: 关于我和你 就像雨滴和雨伞 雨水附上的那一刻就沿着伞布流下  长久的相依也是一种奢望 https://t.co/eH7Sub6NfK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑/疑似躁狂出现\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 333,
+          "like_count": 5729,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2319
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": true
+      }
+    ]
+  }
+}

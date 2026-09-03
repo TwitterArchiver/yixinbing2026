@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2083914265812185446",
+    "created_at": "2026-08-02T14:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083917732505153537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1951892830450036736",
+          "start": 0,
+          "username": "XiaoyuandawangS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083917732505153537",
+    "in_reply_to_user_id": "1951892830450036736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083917384918974725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoyuandawangS 谢谢宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2083914265812185446",
+        "created_at": "2026-08-02T14:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083917732505153537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1951892830450036736",
+              "start": 0,
+              "username": "XiaoyuandawangS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083917732505153537",
+        "in_reply_to_user_id": "1951892830450036736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083917384918974725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoyuandawangS 谢谢宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951892830450036736",
+        "conversation_id": "2083914265812185446",
+        "created_at": "2026-08-02T14:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083917384918974725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083917384918974725",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083916350985310605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 那还说啥了，看微信赞赏小惊喜🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑疑似快转双向了\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 388,
+          "like_count": 5644,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 2293
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T06:28:22.000Z",
+        "description": "男娘｜mtf｜05年｜switch｜infj｜双鱼｜4i｜欢迎萌宝找我聊天互fo😋｜我会狠狠视奸每一个关注点赞评论我的人🤓｜防失联@Kitty11u_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "Kitty11u_"
+              }
+            ]
+          }
+        },
+        "id": "1951892830450036736",
+        "location": "过🚪看置顶o",
+        "name": "小愿大王",
+        "pinned_tweet_id": "2083895684575678507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082734855323058176/4bycipiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 32,
+          "like_count": 691,
+          "listed_count": 8,
+          "media_count": 117,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "XiaoyuandawangS",
+        "verified": false
+      }
+    ]
+  }
+}

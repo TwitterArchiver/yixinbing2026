@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2083615102235017396",
+    "created_at": "2026-08-02T15:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083932591636504959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1989627406391635968",
+          "start": 0,
+          "username": "drug_artist2"
+        },
+        {
+          "end": 25,
+          "id": "1124658845664653314",
+          "start": 14,
+          "username": "CY_Mystica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083932591636504959",
+    "in_reply_to_user_id": "1989627406391635968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083615720357998966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist2 @CY_Mystica 不是我吗？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2083615102235017396",
+        "created_at": "2026-08-02T15:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083932591636504959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            },
+            {
+              "end": 25,
+              "id": "1124658845664653314",
+              "start": 14,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083932591636504959",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083615720357998966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 @CY_Mystica 不是我吗？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2083615102235017396",
+        "created_at": "2026-08-01T18:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083615720357998966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083615720357998966",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083615102235017396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 药圈最后的神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑疑似快转双向了\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 387,
+          "like_count": 5645,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 53,
+          "like_count": 325,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "🩵我是下弦月丨中文/ENG/ITA/ESP丨💊🔪🩸丨创世神🌙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/calante1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/calante1",
+                "start": 0,
+                "url": "https://t.co/YoNfSzcS3a"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 280,
+          "like_count": 1770,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/YoNfSzcS3a",
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

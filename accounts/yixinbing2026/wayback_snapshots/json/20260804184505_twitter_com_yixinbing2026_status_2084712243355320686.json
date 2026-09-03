@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2083428084653695311",
+    "created_at": "2026-08-04T18:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084712243355320686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813304246009573376",
+          "start": 0,
+          "username": "wngziho10194016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084712243355320686",
+    "in_reply_to_user_id": "1813304246009573376",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083617875567513602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngziho10194016 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2083617866323238912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOp_aPHaoAAktJT.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2083428084653695311",
+        "created_at": "2026-08-04T18:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084712243355320686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813304246009573376",
+              "start": 0,
+              "username": "wngziho10194016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084712243355320686",
+        "in_reply_to_user_id": "1813304246009573376",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083617875567513602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngziho10194016 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083617866323238912"
+          ]
+        },
+        "author_id": "1813304246009573376",
+        "conversation_id": "2083428084653695311",
+        "created_at": "2026-08-01T18:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083617875567513602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/efvFS1vOtm",
+              "end": 46,
+              "expanded_url": "https://x.com/wngziho10194016/status/2083617875567513602/photo/1",
+              "media_key": "3_2083617866323238912",
+              "start": 23,
+              "url": "https://t.co/efvFS1vOtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083617875567513602",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083428084653695311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 对给我一点谢谢 https://t.co/efvFS1vOtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑/疑似躁狂出现\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084708090566541312/TkKbkbNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 333,
+          "like_count": 5743,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T20:07:01.000Z",
+        "description": "",
+        "id": "1813304246009573376",
+        "location": "安徽",
+        "name": "seven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083609331057205248/IrSzVSD-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "wngziho10194016",
+        "verified": false
+      }
+    ]
+  }
+}

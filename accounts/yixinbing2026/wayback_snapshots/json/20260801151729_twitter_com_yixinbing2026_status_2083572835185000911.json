@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2014553095255293955",
+    "conversation_id": "2083429886589542898",
+    "created_at": "2026-08-01T15:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083572835185000911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2024114710669357056",
+          "start": 0,
+          "username": "blesszhennie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083572835185000911",
+    "in_reply_to_user_id": "2024114710669357056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083527674962788782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blesszhennie 我只有pr…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2083429886589542898",
+        "created_at": "2026-08-01T15:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083572835185000911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2024114710669357056",
+              "start": 0,
+              "username": "blesszhennie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083572835185000911",
+        "in_reply_to_user_id": "2024114710669357056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083527674962788782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blesszhennie 我只有pr…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024114710669357056",
+        "conversation_id": "2083429886589542898",
+        "created_at": "2026-08-01T12:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083527674962788782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083527674962788782",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083429886589542898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 为什么一等奖和二等奖都是 pr？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "没有渠道不提供渠道 不喜欢有人因为我有了od的启发 \n我的成分：重度抑郁中度焦虑疑似快转双向了\n💊🔪🚬求你們fo我 喜欢有礼貌友善的人\n禁止莫名其妙的占有欲 什么是风格？Kpop\n推 穹 玛奇玛 超天酱 karina 普瑞巴林 dxm\n@fushishanxia121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "fushishanxia121"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuaCt"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特 推广自辨 匿名提问 ➡️",
+        "name": "疑心病",
+        "pinned_tweet_id": "2083428084653695311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074975407670243328/20q_p2_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 382,
+          "like_count": 5593,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 2277
+        },
+        "url": "https://t.co/EnVzlBuaCt",
+        "username": "yixinbing2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T13:32:56.000Z",
+        "description": "",
+        "id": "2024114710669357056",
+        "location": "Paradise",
+        "name": "Zhen Nie",
+        "pinned_tweet_id": "2083529134488363078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080940331416330240/dUmNqv_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 93,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "blesszhennie",
+        "verified": false
+      }
+    ]
+  }
+}
